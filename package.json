@@ -1,0 +1,22 @@
+{
+  "name": "springolino-w-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laufwerkd/springolino-w-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laufwerkd/springolino-w-bootstrap/issues"
+  },
+  "homepage": "https://github.com/laufwerkd/springolino-w-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
