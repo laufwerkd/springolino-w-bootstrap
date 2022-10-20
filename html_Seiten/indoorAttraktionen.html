@@ -6,11 +6,12 @@
     <meta name="description" content="">
     <meta name="author" content="Luisa Klaschka, Bootstrap contributors">
     <meta name="generator" content="Hugo 0.104.2">
-    <title>Springolino - Attraktionen</title>
+    <title>Springolino - Indoor Attraktionen</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/album/">
 
 <link href="../css/main.min.css" rel="stylesheet">
+
 <!-- Style für die Bilder -->
     <style>
       .bd-placeholder-img {
@@ -46,53 +47,50 @@
         fill: currentColor;
       }
     </style>
-
-    
   </head>
   <body>
     <!-- Navigation Anfang-->
     <header>
-      <nav class="navbar navbar-expand-lg bg-light">
-          <div class="container d-flex justify-content-between">
-              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false">
-                  <span class="navbar-toggler-icon"></span>
-              </button>
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container d-flex justify-content-between">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-              <a class="navbar-brand m-0" href="#"><img src="./img/icons/logoCentered.png" alt="Springolino" height="50"></a>
+                <a class="navbar-brand m-0" href="#"><img src="../img/icons/logoCentered.png" alt="Springolino" height="50"></a>
 
-              <a class="d-lg-none btn btn-dark" href="#">Buchen</a>
+                <a class="d-lg-none btn btn-dark" href="#">Buchen</a>
 
-              <div class="collapse navbar-collapse justify-content-end" id="navbar">
-                  <ul class="navbar-nav gap-2">
-                      <li class="nav-item dropdown">
-                          <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Bereiche</a>
-                          <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="#">Außen</a></li>
-                              <li><a class="dropdown-item" href="#">Innen</a></li>
-                              <li><a class="dropdown-item" href="#">Gastronomie</a></li>
-                          </ul>
-                      </li>
-                      <li class="nav-item">
-                          <a class="btn btn-outline-dark" href="#">Preise</a>
-                      </li>
-                      <li class="nav-item">
-                          <a class="btn btn-outline-dark" href="#">Zeiten</a>
-                      </li>
-                      <li class="nav-item dropdown">
-                          <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Service</a>
-                          <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="#">FAQ</a></li>
-                              <li><a class="dropdown-item" href="#">Jobs</a></li>
-                          </ul>
-                      </li>
-                      <li class="d-none d-lg-block">
-                          <a class="btn btn-dark" href="#">Buchen</a>
-                      </li>
-                  </ul>
-              </div>
-          </div>
-      </nav>
-  </header>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar">
+                    <ul class="navbar-nav gap-2">
+                        <li class="nav-item dropdown">
+                            <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Bereiche</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Außen</a></li>
+                                <li><a class="dropdown-item" href="#">Innen</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-outline-dark" href="#">Preise</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-outline-dark" href="#">Zeiten</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Service</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">FAQ</a></li>
+                                <li><a class="dropdown-item" href="#">Jobs</a></li>
+                            </ul>
+                        </li>
+                        <li class="d-none d-lg-block">
+                            <a class="btn btn-dark" href="#">Buchen</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
 <!-- Navigation Ende-->
 <main>
 <!-- Überschrift zur Seite -->
@@ -377,18 +375,28 @@
 
 </main>
 <!-- Footbar START-->
-<footer class="text-muted py-5">
-  <div class="container">
-    <p class="float-end mb-1">
-      <a href="#">Back to top</a>
-    </p>
-    <p class="mb-1">Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-    <p class="mb-0">New to Bootstrap? <a href="/">Visit the homepage</a> or read our <a href="../getting-started/introduction/">getting started guide</a>.</p>
-  </div>
-</footer>
-<!-- Footbar ENDE-->
 
-    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Footbar ENDE-->
+<footer class="bg-light border-top border-dark position-absolute bottom-0 start-0 col-md-12 w-100">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center py-3 my-0">
+          <p class="col-md-auto mb-0 text-muted row-2 text-nowrap text-dark">&copy; Springolino</p>
+      
+          <nav class="navbar col-md-auto justify-content-end">
+                <a href="#" class="nav-link px-2 text-dark footerHover">Anfahrt</a>
+                <a href="#" class="nav-link px-2 text-dark footerHover">Kontakt</a>
+                <a href="#" class="nav-link px-2 text-dark footerHover">Impressum</a>
+                <a href="#" class="nav-link px-2 text-dark footerHover">AGBs</a>
+                <a href="#" class="nav-link px-2 text-dark footerHover">Datenschutzerklärung</a>
+          </ul>
+        </div>
+      </div>
+</footer>
+
+<script src="allgemein.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
+<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
       
   </body>
