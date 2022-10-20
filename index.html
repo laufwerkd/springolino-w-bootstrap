@@ -6,52 +6,74 @@
     <link href="./css/main.min.css" rel="stylesheet">
     <title>Springolino</title>
 </head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-lg bg-light">
-            <div class="container d-flex justify-content-between">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false">
+<body style="height: 2000px;">
+    <header class="sticky-top shadow">
+        <nav class="navbar navbar-expand-md bg-light">
+            <div class="container-md">
+                <a href="#" class="d-md-none ms-1 btn btn-secondary text-white">Buchen</a>
+
+                <a href="#" class="navbar-brand m-0">
+                    <img src="./img/icons/logoCentered.png" alt="Springolino Logo" height="50" width="auto">
+                </a>
+
+                <button class="btn d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" aria-expanded="false" aria-label="Toggle offcanvas">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a class="navbar-brand m-0" href="#"><img src="./img/icons/logoCentered.png" alt="Springolino" height="50"></a>
-
-                <a class="d-lg-none btn btn-dark" href="#">Buchen</a>
-
-                <div class="collapse navbar-collapse justify-content-end" id="navbar">
-                    <ul class="navbar-nav gap-2">
-                        <li class="nav-item dropdown">
-                            <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Bereiche</a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Außen</a></li>
-                                <li><a class="dropdown-item" href="#">Innen</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a class="btn btn-outline-dark" href="#">Preise</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="btn btn-outline-dark" href="#">Zeiten</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Service</a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">FAQ</a></li>
-                                <li><a class="dropdown-item" href="#">Jobs</a></li>
-                            </ul>
-                        </li>
-                        <li class="d-none d-lg-block">
-                            <a class="btn btn-dark" href="#">Buchen</a>
-                        </li>
-                    </ul>
+                <div class="offcanvas-md offcanvas-end" id="offcanvas">
+                    <div class="offcanvas-header bg-light shadow">
+                        <h5 class="offcanvas-title">Navigation</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#offcanvas"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul class="navbar-nav gap-2">
+                            <li class="navbar-item">
+                                <div class="dropdown">
+                                    <a class="d-md-none btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="inside" aria-expanded="false">
+                                        Bereiche
+                                    </a>
+                                    <a class="d-none d-md-block btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Bereiche
+                                    </a>
+                                    <ul class="dropdown-menu shadow">
+                                        <li><a class="dropdown-item" href="#">Innen</a></li>
+                                        <li><a class="dropdown-item" href="#">Außen</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="navbar-item">
+                                <a class="btn btn-primary">Preise</a>
+                            </li>
+                            <li class="navbar-item">
+                                <a class="btn btn-primary">Zeiten</a>
+                            </li>
+                            <li class="navbar-item">
+                                <div class="dropdown">
+                                    <a class="d-md-none btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="inside" aria-expanded="false">
+                                        Service
+                                    </a>
+                                    <a class="d-none d-md-block btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Service
+                                    </a>
+                                    <ul class="dropdown-menu shadow">
+                                        <li><a class="dropdown-item" href="#">FAQ</a></li>
+                                        <li><a class="dropdown-item" href="#">Jobs</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="navbar-item">
+                                <a class="d-none d-md-block btn btn-secondary text-white">Buchen</a>
+                            </li>
+                            <hr class="d-md-none m-0">
+                        </ul>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
     <main>
     </main>
-    <footer>
-
+    <footer class="container-fluid p-0">
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
