@@ -7,43 +7,66 @@
         <title>Springolino - Tisch reservieren</title>
     </head>
     <body>
-        <header>
-            <nav class="navbar navbar-expand-lg bg-light">
-                <div class="container d-flex justify-content-between">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false">
+        <header class="sticky-top shadow">
+            <nav class="navbar navbar-expand-md bg-light">
+                <div class="container-md">
+                    <a href="#" class="d-md-none ms-1 btn btn-secondary text-white fw-bold">Buchen</a>
+    
+                    <a href="#" class="navbar-brand m-0"><img src="./img/icons/logoCentered.png" height="75" width="auto"></a>
+    
+                    <button class="btn d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" aria-expanded="false" aria-label="Toggle offcanvas">
                         <span class="navbar-toggler-icon"></span>
                     </button>
     
-                    <a class="navbar-brand m-0" href="#"><img src="./img/icons/logoCentered.png" alt="Springolino" height="50"></a>
+                    <div class="offcanvas-md offcanvas-end" id="offcanvas">
+                        <div class="offcanvas-header bg-light shadow">
+                            <h5 class="offcanvas-title">Navigation</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#offcanvas"></button>
+                        </div>
     
-                    <a class="d-lg-none btn btn-dark" href="#">Buchen</a>
+                        <div class="offcanvas-body">
+                            <ul class="navbar-nav gap-2">
+                                <li class="navbar-item">
+                                    <div class="dropdown">
+                                        <a class="btn btn-primary dropdown-toggle fw-bold" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Bereiche
+                                        </a>
+                                        <ul class="dropdown-menu shadow">
+                                            <li><a class="dropdown-item" href="#">Innen</a></li>
+                                            <li><a class="dropdown-item" href="#">Außen</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="navbar-item"><a class="btn btn-primary fw-bold">Preise</a></li>
+                                <li class="navbar-item"><a class="btn btn-primary fw-bold">Zeiten</a></li>
+                                <li class="navbar-item">
+                                    <div class="dropdown">
+                                        <a class="btn btn-primary dropdown-toggle fw-bold" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Service
+                                        </a>
+                                        <ul class="dropdown-menu shadow">
+                                            <li><a class="dropdown-item" href="#">FAQ</a></li>
+                                            <li><a class="dropdown-item" href="#">Jobs</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="navbar-item">
+                                    <a class="d-none d-md-block btn btn-secondary text-white fw-bold">Buchen</a>
+                                </li>
+                            </ul>
     
-                    <div class="collapse navbar-collapse justify-content-end" id="navbar">
-                        <ul class="navbar-nav gap-2">
-                            <li class="nav-item dropdown">
-                                <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Bereiche</a>
-                                <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Außen</a></li>
-                                    <li><a class="dropdown-item" href="#">Innen</a></li>
+                            <div class="d-md-none">
+                                <hr class="my-2">
+                                <p class="mb-1 text-muted">&copy; Springolino</p>
+                                <ul class="navbar-nav flex-row flex-wrap">
+                                    <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Anfahrt</a></li>
+                                    <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Kontakt</a></li>
+                                    <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Impressum</a></li>
+                                    <li class="navbar-item me-3"><a href="#" class="nav-link p-0">AGBs</a></li>
+                                    <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Datenschutz</a></li>
                                 </ul>
-                            </li>
-                            <li class="nav-item">
-                                <a class="btn btn-outline-dark" href="#">Preise</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="btn btn-outline-dark" href="#">Zeiten</a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="dropdown-toggle btn btn-outline-dark" href="#" role="button" data-bs-toggle="dropdown">Service</a>
-                                <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">FAQ</a></li>
-                                    <li><a class="dropdown-item" href="#">Jobs</a></li>
-                                </ul>
-                            </li>
-                            <li class="d-none d-lg-block">
-                                <a class="btn btn-dark" href="#">Buchen</a>
-                            </li>
-                        </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </nav>

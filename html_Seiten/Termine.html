@@ -10,11 +10,9 @@
     <header class="sticky-top shadow">
         <nav class="navbar navbar-expand-md bg-light">
             <div class="container-md">
-                <a href="#" class="d-md-none ms-1 btn btn-secondary text-white">Buchen</a>
+                <a href="#" class="d-md-none ms-1 btn btn-secondary text-white fw-bold">Buchen</a>
 
-                <a href="#" class="navbar-brand m-0">
-                    <img src="./img/icons/logoCentered.png" alt="Springolino Logo" height="50" width="auto">
-                </a>
+                <a href="#" class="navbar-brand m-0"><img src="./img/icons/logoCentered.png" height="75" width="auto"></a>
 
                 <button class="btn d-md-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas" aria-expanded="false" aria-label="Toggle offcanvas">
                     <span class="navbar-toggler-icon"></span>
@@ -25,14 +23,12 @@
                         <h5 class="offcanvas-title">Navigation</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#offcanvas"></button>
                     </div>
+
                     <div class="offcanvas-body">
                         <ul class="navbar-nav gap-2">
                             <li class="navbar-item">
                                 <div class="dropdown">
-                                    <a class="d-md-none btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="inside" aria-expanded="false">
-                                        Bereiche
-                                    </a>
-                                    <a class="d-none d-md-block btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <a class="btn btn-primary dropdown-toggle fw-bold" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Bereiche
                                     </a>
                                     <ul class="dropdown-menu shadow">
@@ -41,18 +37,11 @@
                                     </ul>
                                 </div>
                             </li>
-                            <li class="navbar-item">
-                                <a class="btn btn-primary">Preise</a>
-                            </li>
-                            <li class="navbar-item">
-                                <a class="btn btn-primary">Zeiten</a>
-                            </li>
+                            <li class="navbar-item"><a class="btn btn-primary fw-bold">Preise</a></li>
+                            <li class="navbar-item"><a class="btn btn-primary fw-bold">Zeiten</a></li>
                             <li class="navbar-item">
                                 <div class="dropdown">
-                                    <a class="d-md-none btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="inside" aria-expanded="false">
-                                        Service
-                                    </a>
-                                    <a class="d-none d-md-block btn btn-primary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <a class="btn btn-primary dropdown-toggle fw-bold" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Service
                                     </a>
                                     <ul class="dropdown-menu shadow">
@@ -62,10 +51,21 @@
                                 </div>
                             </li>
                             <li class="navbar-item">
-                                <a class="d-none d-md-block btn btn-secondary text-white">Buchen</a>
+                                <a class="d-none d-md-block btn btn-secondary text-white fw-bold">Buchen</a>
                             </li>
-                            <hr class="d-md-none m-0">
                         </ul>
+
+                        <div class="d-md-none">
+                            <hr class="my-2">
+                            <p class="mb-1 text-muted">&copy; Springolino</p>
+                            <ul class="navbar-nav flex-row flex-wrap">
+                                <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Anfahrt</a></li>
+                                <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Kontakt</a></li>
+                                <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Impressum</a></li>
+                                <li class="navbar-item me-3"><a href="#" class="nav-link p-0">AGBs</a></li>
+                                <li class="navbar-item me-3"><a href="#" class="nav-link p-0">Datenschutz</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
