@@ -11,7 +11,7 @@
         <header class="sticky-top shadow">
             <nav class="navbar navbar-expand-md bg-light">
                 <div class="container-md">
-                    <a href="" class="d-md-none ms-1 btn btn-secondary text-white fw-bold">Buchen</a>
+                    <a href="buchen.php" class="d-md-none ms-1 btn btn-secondary text-white fw-bold">Buchen</a>
 
                     <a href="index.php" class="navbar-brand m-0"><img src="img/icons/logoCentered.png" height="75" width="auto"></a>
 
@@ -35,21 +35,21 @@
                                         <ul class="dropdown-menu shadow">
                                             <li><a class="dropdown-item" href="">Innenbereiche</a></li>
                                             <li><a class="dropdown-item" href="">Außenbereiche</a></li>
-                                            <li><a class="dropdown-item" href="">Gastronomie</a></li>
+                                            <li><a class="dropdown-item" href="gastro.php">Gastronomie</a></li>
                                         </ul>
                                     </div>
                                 </li>
-                                <li class="navbar-item"><a class="btn btn-primary fw-bold" href="">Preise</a></li>
-                                <li class="navbar-item"><a class="btn btn-primary fw-bold" href="">Zeiten</a></li>
+                                <li class="navbar-item"><a class="btn btn-primary fw-bold" href="preise.php">Preise</a></li>
+                                <li class="navbar-item"><a class="btn btn-primary fw-bold" href="zeiten.php">Zeiten</a></li>
                                 <li class="navbar-item">
                                     <div class="dropdown">
                                         <a class="btn btn-primary dropdown-toggle fw-bold" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                             Service
                                         </a>
                                         <ul class="dropdown-menu shadow">
-                                            <li><a class="dropdown-item" href="">Kontakt</a></li>
-                                            <li><a class="dropdown-item" href="">Job Angebot</a></li>
-                                            <li><a class="dropdown-item" href="">häufige Fragen</a></li>
+                                            <li><a class="dropdown-item" href="kontakt.php">Kontakt</a></li>
+                                            <li><a class="dropdown-item" href="jobs.php">Job Angebot</a></li>
+                                            <li><a class="dropdown-item" href="faq.php">häufige Fragen</a></li>
                                             <li><a class="dropdown-item" href="">Gästebuch</a></li>
                                             <li><a class="dropdown-item" href="">Rückblicke</a></li>
                                             <li><a class="dropdown-item" href="">Downloads</a></li>
@@ -57,7 +57,7 @@
                                     </div>
                                 </li>
                                 <li class="navbar-item">
-                                    <a class="d-none d-md-block btn btn-secondary text-white fw-bold">Buchen</a>
+                                    <a href="buchen.php" class="d-none d-md-block btn btn-secondary text-white fw-bold">Buchen</a>
                                 </li>
                             </ul>
 
@@ -66,8 +66,8 @@
                                 <p class="mb-1 text-muted">&copy; Springolino</p>
                                 <ul class="navbar-nav flex-row flex-wrap">
                                     <li class="navbar-item me-3"><a href="impressum.php" class="nav-link p-0">Impressum</a></li>
-                                    <li class="navbar-item me-3"><a href="" class="nav-link p-0">AGBs</a></li>
-                                    <li class="navbar-item me-3"><a href="" class="nav-link p-0">Datenschutz</a></li>
+                                    <li class="navbar-item me-3"><a href="agb.php" class="nav-link p-0">AGBs</a></li>
+                                    <li class="navbar-item me-3"><a href="legal.php" class="nav-link p-0">Datenschutz</a></li>
                                 </ul>
                             </div>
                         </div>

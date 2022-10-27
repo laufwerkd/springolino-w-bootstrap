@@ -5,8 +5,8 @@
 
                     <ul class="navbar-nav">
                         <li class="navbar-item"><a href="impressum.php" class="nav-link">Impressum</a></li>
-                        <li class="navbar-item"><a href="html/dsgvo.html" class="nav-link">AGBs</a></li>
-                        <li class="navbar-item"><a href="html/dsgvo.html" class="nav-link">Datenschutz</a></li>
+                        <li class="navbar-item"><a href="agb.php" class="nav-link">AGBs</a></li>
+                        <li class="navbar-item"><a href="legal.php" class="nav-link">Datenschutz</a></li>
                     </ul>
                 </div>
             </nav>
