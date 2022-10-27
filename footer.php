@@ -1,12 +1,12 @@
         <footer class="d-none d-md-block">
             <nav class="navbar navbar-expand-md bg-light">
                 <div class="container-md">
-                    <p class="m-0 text-muted">&copy; Springolino 2022</p>
+                    <p class="m-0 text-muted">&copy; Springolino <?php echo date("Y"); ?></p>
 
                     <ul class="navbar-nav">
-                    <li class="navbar-item"><a href="impressum.php" class="nav-link">Impressum</a></li>
-                    <li class="navbar-item"><a href="html/dsgvo.html" class="nav-link">AGBs</a></li>
-                    <li class="navbar-item"><a href="html/dsgvo.html" class="nav-link">Datenschutz</a></li>
+                        <li class="navbar-item"><a href="impressum.php" class="nav-link">Impressum</a></li>
+                        <li class="navbar-item"><a href="html/dsgvo.html" class="nav-link">AGBs</a></li>
+                        <li class="navbar-item"><a href="html/dsgvo.html" class="nav-link">Datenschutz</a></li>
                     </ul>
                 </div>
             </nav>
