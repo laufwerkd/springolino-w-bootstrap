@@ -63,7 +63,7 @@
 
                             <div class="d-md-none">
                                 <hr class="my-2">
-                                <p class="mb-1 text-muted">&copy; Springolino</p>
+                                <p class="m-0 text-muted">&copy; Springolino <?php echo date("Y"); ?></p>
                                 <ul class="navbar-nav flex-row flex-wrap">
                                     <li class="navbar-item me-3"><a href="impressum.php" class="nav-link p-0">Impressum</a></li>
                                     <li class="navbar-item me-3"><a href="agb.php" class="nav-link p-0">AGBs</a></li>

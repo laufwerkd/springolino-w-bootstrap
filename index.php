@@ -5,123 +5,47 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="img/bg1.png" class="d-block w-100">
-                <div class="carousel-caption d-none d-md-block bg-light text-black w-50 m-auto rounded-pill" style="--bs-bg-opacity: .75;">
-                    <h5>First slide label</h5>
-                </div>
             </div>
             <div class="carousel-item">
                 <img src="img/bg2.png" class="d-block w-100">
-                <div class="carousel-caption d-none d-md-block bg-light text-black w-50 m-auto rounded-pill" style="--bs-bg-opacity: .75;">
-                    <h5>Second slide label</h5>
-                </div>
             </div>
         </div>
     </div>
-    <div class="container-fluid shadow bg-light"><br></div>
+
+    <div class="container-fluid m-0 p-0 bg-light shadow"><br></div>
+
     <div class="container-md my-3">
+        <h2>Erkunden Sie das Springolino</h2>
         <div class="row justify-content-center">
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/attraction.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
+            <div class="col-6 col-lg-3 p-2">
+                <div class="card border-0 shadow">
+                    <img src="img/attraction.jpg" class="card-img">
+                    <div class="card-img-overlay d-flex flex-column justify-content-end">
+                        <small><a class="btn btn-danger fs-5 fw-bold text-white stretched-link" href="entdecken.php">Attraktionen</a></small>
                     </div>
                 </div>
             </div>
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/birthday.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
+            <div class="col-6 col-lg-3 p-2">
+                <div class="card border-0 shadow">
+                    <img src="img/birthday.png" class="card-img">
+                    <div class="card-img-overlay d-flex flex-column justify-content-end">
+                        <small><a class="btn btn-secondary fs-5 fw-bold text-white stretched-link" href="buchen.php">Geburtstag</a></small>
                     </div>
                 </div>
             </div>
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/gastro.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
+            <div class="col-6 col-lg-3 p-2">
+                <div class="card border-0 shadow">
+                    <img src="img/news.png" class="card-img">
+                    <div class="card-img-overlay d-flex flex-column justify-content-end">
+                        <small><a class="btn btn-primary fs-5 fw-bold text-white stretched-link" href="news.php">Neues</a></small>
                     </div>
                 </div>
             </div>
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/news.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid shadow bg-light"><br></div>
-    <div class="container-md my-3">
-        <div class="row justify-content-center">
-            <h1 class="text-center">Spielen und Toben den ganzen Tag!</h1>
-        </div>
-        <div class="row justify-content-center">
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/attraction.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
-                    </div>
-                </div>
-            </div>
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/birthday.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/attraction.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
-                    </div>
-                </div>
-            </div>
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/birthday.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid shadow bg-light"><br></div>
-    <div class="container-md my-3">
-        <div class="row justify-content-center">
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/attraction.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
-                    </div>
-                </div>
-            </div>
-            <div class="m-0 p-2 col-6 col-xl-3">
-                <div class="card shadow border-0">
-                    <img src="img/birthday.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="" class="btn btn-primary stretched-link">Ansehen</a>
+            <div class="col-6 col-lg-3 p-2">
+                <div class="card border-0 shadow">
+                    <img src="img/gastro.png" class="card-img">
+                    <div class="card-img-overlay d-flex flex-column justify-content-end">
+                        <small><a class="btn btn-info fs-5 fw-bold text-white stretched-link" href="gastro.php">Gastronomie</a></small>
                     </div>
                 </div>
             </div>
