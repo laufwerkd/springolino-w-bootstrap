@@ -11,7 +11,7 @@
         <header class="sticky-top shadow">
             <nav class="navbar navbar-expand-md bg-light">
                 <div class="container-md">
-                    <a href="buchen.php" class="d-md-none ms-1 btn btn-secondary text-white fw-bold">Buchen</a>
+                    <a href="buchen.php" class="d-md-none btn btn-secondary ms-1 text-white fw-bold">Buchen</a>
 
                     <a href="index.php" class="navbar-brand m-0"><img src="img/icons/logoCentered.png" height="75" width="auto"></a>
 
