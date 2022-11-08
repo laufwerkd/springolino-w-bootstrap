@@ -1,10 +1,20 @@
+
+
 <?php include 'header.php'; ?>
+
+<head>
+    <style>
+        table {
+            width: auto;
+        }
+    </style>
+</head>
 
 <main class="mt-4">
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                Generelle Öffnungszeiten
+                <h3 class="text-info text-decoration-underline">Generelle Öffnungszeiten</h3>
             </th>
         </thead>
         <tbody class="px-5">
@@ -22,7 +32,7 @@
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                Öffnungszeiten Ferien + Feiertage NRW
+                <h3 class="text-info text-decoration-underline">Öffnungszeiten Ferien + Feiertage NRW</h3>
             </th>
         </thead>
         <tbody>
@@ -38,7 +48,7 @@
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                Öffnungszeiten Ostern
+                <h3 class="text-info text-decoration-underline">Öffnungszeiten Ostern</h3>
             </th>
         </thead>
         <tbody>
@@ -70,19 +80,20 @@
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                Öffnungszeiten Weihnachten und Silvester</th>
+                <h3 class="text-info text-decoration-underline">Öffnungszeiten Weihnachten und Silvester</h3>
+            </th>
         </thead>
         <tbody>
             <tr>
-                <td class="px-5 col-6"><b>Heiligabend</b></td>
+                <td class="px-5 col-6">Heiligabend</td>
                 <td class="px-5 col-6">geschlossen</td>
             </tr>
             <tr>
-                <td class="px-5 col-6">1. Weihnachtsfeiertag</td>
+                <td class="px-5 col-6">1.Weihnachts- feiertag</td>
                 <td class="px-5 col-6">geschlossen</td>
             </tr>
             <tr>
-                <td class="px-5 col-6">2. Weihnachtsfeiertag</td>
+                <td class="px-5 col-6">2.Weihnachts- feiertag</td>
                 <td class="px-5 col-6">11:00 - 19:00 Uhr</td>
             </tr>
             <tr>
@@ -94,7 +105,7 @@
                 <td class="px-5 col-6">14:30 - 19:00 Uhr</td>
             </tr>
             <tr>
-                <td class="px-5 col-6">Weihnachtsferien (NRW) Außer Mittwochs</td>
+                <td class="px-5 col-6">Weihnachts- ferien (NRW) Außer Mittwochs</td>
                 <td class="px-5 col-6">11:00 - 19:00 Uhr</td>
             </tr>
             <tr>
@@ -105,7 +116,7 @@
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                Sonderöffnungszeiten für Schulklassen ab 80 Kindern
+                	<h3 class="text-info text-decoration-underline">Sonderöffnungszeiten für Schulklassen ab 80 Kindern</h3>
             </th>
         </thead>
         <tbody>
@@ -117,17 +128,6 @@
                 <td class="px-5 col-6"><b>*Eine Anmeldung ist erforderlich</b></tr>
         </tbody>
     </table>
-
-    <table class="table">
-        <thead class="table-secondary">
-            <th class="bg-light col-6 text-center" colspan="2">
-                 <br>
-            </th>
-        </thead>
-    </table>
-
-    <p class="mx-5">
-    </p>
 </main>
 
 <?php include 'footer.php'; ?>

@@ -4,7 +4,7 @@
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                Tageseintritt
+                <h3 class="text-info text-decoration-underline">Tageseintritt</h3>
             </th>
         </thead>
         <tbody class="px-5">
@@ -30,7 +30,7 @@
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
-                10er Karte
+                <h3 class="text-info text-decoration-underline">10er Karte</h3>
             </th>
         </thead>
         <tbody>
@@ -58,7 +58,7 @@
         Wir bitten um Ihr Verständnis.</b> *Kinder unter 12 Jahren haben nur in Begleitung
         eines Erwachsenen Zutritt. *Kinder über 12 Jahren haben gegen Vorlage eines
         gültigen Personalausweises und nur mit Unterschrift eines Erziehungsberechtigten
-        Zutritt. Hier können Sie unsere Einverständniserklärung downloaden Falls Sie Interesse
+        Zutritt. Hier können Sie unsere Einverständniserklärung <a href="#">downloaden</a> Falls Sie Interesse
         an einer Gruppenermäßigung haben, können Sie sich telefonisch unter 0 52 21 – 69 24 24 melden.
     </p>
 </main>
