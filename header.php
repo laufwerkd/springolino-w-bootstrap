@@ -8,8 +8,8 @@
     </head>
 
     <body>
-        <header class="sticky-top shadow">
-            <nav class="navbar navbar-expand-md bg-light">
+        <header class="sticky-top">
+            <nav class="navbar navbar-expand-md bg-light shadow">
                 <div class="container-md">
                     <a href="buchen.php" class="d-md-none btn btn-secondary ms-1 text-white fw-bold">Buchen</a>
 
@@ -29,7 +29,7 @@
                             <ul class="navbar-nav gap-2">
                                 <li class="navbar-item">
                                     <div class="dropdown">
-                                        <a class="btn btn-primary dropdown-toggle fw-bold" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle fw-bold" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                             Entdecken
                                         </a>
                                         <ul class="dropdown-menu shadow">
