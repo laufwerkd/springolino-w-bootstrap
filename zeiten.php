@@ -41,7 +41,9 @@
                 <td class="px-5 col-6">11:00 - 19:00 Uhr</td>
             </tr>
             <tr>
-                <td class="px-5 col-6"><b>Am Mittwoch ist Ruhetag</b></tr>
+                <td class="px-5 col-6"><b>Am Mittwoch ist Ruhetag</b></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
 
@@ -73,7 +75,9 @@
                 <td class="px-5 col-6">11:00 - 19:00 Uhr</td>
             </tr>
             <tr>
-                <td class="px-5 col-6"><b>Am Mittwoch ist Ruhetag</b></tr>
+                <td class="px-5 col-6"><b>Am Mittwoch ist Ruhetag</b></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
 
@@ -89,11 +93,11 @@
                 <td class="px-5 col-6">geschlossen</td>
             </tr>
             <tr>
-                <td class="px-5 col-6">1.Weihnachts- feiertag</td>
+                <td class="px-5 col-6">1. Weihnachts - feiertag</td>
                 <td class="px-5 col-6">geschlossen</td>
             </tr>
             <tr>
-                <td class="px-5 col-6">2.Weihnachts- feiertag</td>
+                <td class="px-5 col-6">2. Weihnachts - feiertag</td>
                 <td class="px-5 col-6">11:00 - 19:00 Uhr</td>
             </tr>
             <tr>
@@ -105,11 +109,13 @@
                 <td class="px-5 col-6">14:30 - 19:00 Uhr</td>
             </tr>
             <tr>
-                <td class="px-5 col-6">Weihnachts- ferien (NRW) Außer Mittwochs</td>
+                <td class="px-5 col-6">Weihnachts - ferien (NRW) Außer Mittwochs</td>
                 <td class="px-5 col-6">11:00 - 19:00 Uhr</td>
             </tr>
             <tr>
-                <td class="px-5 col-6"><b>Am Mittwoch ist Ruhetag</b></tr>
+                <td class="px-5 col-6"><b>Am Mittwoch ist Ruhetag</b></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
 
@@ -125,7 +131,9 @@
                 <td class="px-5 col-6">9:00 - 12:00 Uhr</td>
             </tr>
             <tr>
-                <td class="px-5 col-6"><b>*Eine Anmeldung ist erforderlich</b></tr>
+                <td class="px-5 col-6"><b>*Eine Anmeldung ist erforderlich</b></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
 </main>
