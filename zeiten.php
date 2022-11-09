@@ -20,7 +20,7 @@
         <tbody class="px-5">
             <tr>
                 <td class="px-5 col-6">Donnerstag + Freitag</td>
-                <td class="px-5 col-6"> 14:30 - 19:00 Uhr</td>
+                <td class="px-5 col-6">14:30 - 19:00 Uhr</td>
             </tr>
             <tr>
                 <td class="px-5 col-6">Samstag + Sonntag</td>
@@ -89,12 +89,12 @@
         </thead>
         <tbody>
             <tr>
-                <td class="px-5 col-6">Heiligabend</td>
-                <td class="px-5 col-6">geschlossen</td>
+                <td class="px-5 col-6"><b>Heiligabend</b></td>
+                <td class="px-5 col-6 text-danger"><b>geschlossen</b></td>
             </tr>
             <tr>
                 <td class="px-5 col-6">1. Weihnachts - feiertag</td>
-                <td class="px-5 col-6">geschlossen</td>
+                <td class="px-5 col-6 text-danger">geschlossen</td>
             </tr>
             <tr>
                 <td class="px-5 col-6">2. Weihnachts - feiertag</td>
@@ -102,7 +102,7 @@
             </tr>
             <tr>
                 <td class="px-5 col-6">Silvester</td>
-                <td class="px-5 col-6">geschlossen</td>
+                <td class="px-5 col-6 text-danger">geschlossen</td>
             </tr>
             <tr>
                 <td class="px-5 col-6">Neuhjahr</td>
