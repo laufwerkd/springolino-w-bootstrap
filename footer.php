@@ -1,15 +1,6 @@
-        <footer class="d-none d-md-block">
-            <nav class="navbar navbar-expand-md bg-light">
-                <div class="container-md">
-                    <p class="m-0 text-muted">&copy; Springolino <?php echo date("Y"); ?></p>
+        </main>
 
-                    <ul class="navbar-nav">
-                        <li class="navbar-item"><a href="impressum.php" class="nav-link">Impressum</a></li>
-                        <li class="navbar-item"><a href="agb.php" class="nav-link">AGBs</a></li>
-                        <li class="navbar-item"><a href="legal.php" class="nav-link">Datenschutz</a></li>
-                    </ul>
-                </div>
-            </nav>
+        <footer>
         </footer>
 
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
