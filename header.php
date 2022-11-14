@@ -6,30 +6,30 @@
         <link href="css/main.min.css" rel="stylesheet">
         <link rel="icon" href="img/icons/mascotIcon.png">
         <title>Springolino</title>
+
+        <style>
+            @font-face {
+                font-family: marker;
+                src: url(font/markerFelt.ttf);
+            }
+
+            .bg1 {
+                background-image: url(img/bg2Fullscreen.png);
+                background-attachment: fixed;
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+
+            .bg2 {
+                background-image: url(img/bg1Fullscreen.png);
+                background-attachment: fixed;
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+        </style>
     </head>
-
-    <style>
-        @font-face {
-            font-family: marker;
-            src: url(font/markerFelt.ttf);
-        }
-
-        .bg1 {
-            background-image: url(img/bg2Fullscreen.png);
-            background-attachment: fixed;
-            background-position: center;
-            background-size: cover;
-            background-repeat: no-repeat;
-        }
-
-        .bg2 {
-            background-image: url(img/bg1Fullscreen.png);
-            background-attachment: fixed;
-            background-position: center;
-            background-size: cover;
-            background-repeat: no-repeat;
-        }
-    </style>
 
     <body>
         <header>

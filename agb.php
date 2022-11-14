@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="container-fluid position-relative bg1" style="height: 33vh">
+<div class="container-fluid position-relative bg1" style="height: 50vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white fw-bold" style="font-family: marker;">
             Allgemeine Geschäftsbedingungen
@@ -36,7 +36,7 @@
     </div>
 </div>
 
-<div class="container-fluid position-relative bg1" style="height: 20vh">
+<div class="container-fluid position-relative bg2" style="height: 20vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white" style="font-family: marker;">Keine Aufsichtspflicht / Haftungsfreistellung</h1>
     </div>
@@ -65,7 +65,7 @@
     </div>
 </div>
 
-<div class="container-fluid position-relative bg1" style="height: 20vh">
+<div class="container-fluid position-relative bg2" style="height: 20vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white" style="font-family: marker;">Außenbereich</h1>
     </div>
@@ -96,7 +96,7 @@
     </div>
 </div>
 
-<div class="container-fluid position-relative bg1" style="height: 20vh">
+<div class="container-fluid position-relative bg2" style="height: 20vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white" style="font-family: marker;">Bekleidung</h1>
     </div>
@@ -129,7 +129,7 @@
     </div>
 </div>
 
-<div class="container-fluid position-relative bg1" style="height: 20vh">
+<div class="container-fluid position-relative bg2" style="height: 20vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white" style="font-family: marker;">Verhalten / Beschädigungen</h1>
     </div>
@@ -161,7 +161,7 @@
     </div>
 </div>
 
-<div class="container-fluid position-relative bg1" style="height: 20vh">
+<div class="container-fluid position-relative bg2" style="height: 20vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white" style="font-family: marker;">Salvatorische Klausel</h1>
     </div>

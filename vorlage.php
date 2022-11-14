@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="container-fluid position-relative bg1" style="height: 33vh">
+<div class="container-fluid position-relative bg1" style="height: 50vh">
     <div class="container-lg position-absolute top-50 start-50 translate-middle">
         <h1 class="text-center text-white fw-bold" style="font-family: marker;">
             TITEL DER SEITE
@@ -23,7 +23,7 @@
 
 <div class="container-fluid">
     <div class="container-lg py-5">
-        <h3 class="fw-bold">Noch mehr Inhalt</h3>
+        <h3>Noch mehr Inhalt</h3>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore ex numquam in perspiciatis? Ab nulla vel qui voluptates, libero ea nihil molestiae, odio aperiam, eveniet in nam deserunt ut sunt!</p>
     </div>
 </div>

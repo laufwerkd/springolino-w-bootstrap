@@ -38,13 +38,13 @@
             <br>
             <ul class="navbar-nav d-flex flex-row gap-3">
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">Impressum</a>
+                    <a href="impressum.php" class="nav-link text-white">Impressum</a>
                 </li>
                 <li class="nav-item">
                     <a href="agb.php" class="nav-link text-white">AGBs</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">Datenschutz</a>
+                    <a href="datenschutz.php" class="nav-link text-white">Datenschutz</a>
                 </li>
             </ul>
             <span class="text-white">&copy; Springolino <?php echo date("Y"); ?></span>
