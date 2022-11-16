@@ -1,9 +1,9 @@
 <div class="offcanvas offcanvas-end bg-black bg-opacity-25" tabindex="-1" id="offcanvas" style="min-width: 50%; backdrop-filter: blur(8px);">
-    <div class="position-fixed top-50 start-50 translate-middle">
-        <nav class="navbar d-flex flex-column justify-content-center p-0">
+    <div class="position-absolute top-50 start-50 translate-middle">
+        <nav class="navbar d-flex flex-column p-0">
             <ul class="navbar-nav d-flex flex-column gap-3">
-                <li class="nav-item d-md-none w-100">
-                    <a href="#" class="btn px-5 py-3 w-100 bg-primary bg-opacity-50 rounded-pill border-0" style="backdrop-filter: blur(2px);">
+                <li class="nav-item d-sm-none">
+                    <a href="#" class="btn px-5 py-3 w-100 bg-primary bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold">Buchen </span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-calendar-date-fill text-white" viewBox="0 0 16 16">
                             <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zm5.402 9.746c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2z"/>
@@ -11,23 +11,23 @@
                         </svg>
                     </a>
                 </li>
-                <li class="nav-item w-100">
-                    <a href="#" class="btn px-5 py-3 w-100 bg-secondary bg-opacity-50 rounded-pill border-0" style="backdrop-filter: blur(2px);">
+                <li class="nav-item">
+                    <a href="#" class="btn px-5 py-3 w-100 bg-secondary bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold">Entdecken </span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-compass-fill text-white" viewBox="0 0 16 16">
                             <path d="M15.5 8.516a7.5 7.5 0 1 1-9.462-7.24A1 1 0 0 1 7 0h2a1 1 0 0 1 .962 1.276 7.503 7.503 0 0 1 5.538 7.24zm-3.61-3.905L6.94 7.439 4.11 12.39l4.95-2.828 2.828-4.95z"/>
                         </svg>
                     </a>
                 </li>
-                <li class="nav-item w-100">
-                    <a href="#" class="btn px-5 py-3 w-100 bg-info bg-opacity-50 rounded-pill border-0" style="backdrop-filter: blur(2px);">
+                <li class="nav-item">
+                    <a href="#" class="btn px-5 py-3 w-100 bg-info bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold">Preise & Zeiten </span><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-clock-fill text-white" viewBox="0 0 16 16">
                             <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
                         </svg>
                     </a>
                 </li>
-                <li class="nav-item w-100">
-                    <a href="#" class="btn px-5 py-3 w-100 bg-danger bg-opacity-50 rounded-pill border-0" style="backdrop-filter: blur(2px);">
+                <li class="nav-item">
+                    <a href="#" class="btn px-5 py-3 w-100 bg-danger bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold">Service </span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-info-circle-fill text-white" viewBox="0 0 16 16">
                             <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
