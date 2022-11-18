@@ -5,7 +5,7 @@
     nur 1x verwenden
 -->
 <div class="position-relative bg1" style="height: 50vh">
-    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white fw-bold" style="font-family: marker;">Seitenname</h1>
+    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white fw-bold" style="font-family: marker;">Schönwetterbereich</h1>
 </div>
 
 <!--

@@ -6,7 +6,7 @@
 
 <div class="container-lg py-5 px-4">
     <div class="dropdown mb-3">
-        <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">Springen zu</button>
+        <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
         <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#blick">Auf einen Blick</a></li>
             <li><a class="dropdown-item" href="#allgemeines">Allgemeines</a></li>
