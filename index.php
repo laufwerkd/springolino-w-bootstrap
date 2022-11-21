@@ -3,7 +3,7 @@
 <style>
     .titel {
         position: absolute;
-        bottom: 20%;
+        top: 60%;
         left: 33%;
         transform: translate(-50%, -50%);
     }
@@ -27,12 +27,12 @@
 </script>
 
 <div class="position-relative bg1" style="height: 100vh">
-    <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="font-family: marker;">
+    <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="font-family: marker; font-size: 5rem;">
         ACTION<br>
         AND FUN<br>
         FOR KIDS
     </h1>
-    <h1 class="titel d-sm-none start-50 text-center text-light fw-bold" style="font-family: marker;">
+    <h1 class="titel d-sm-none start-50 text-center text-light fw-bold" style="font-family: marker; font-size: 3rem;">
         ACTION<br>
         AND FUN<br>
         FOR KIDS

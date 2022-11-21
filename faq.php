@@ -4,7 +4,7 @@
     <div class="position-relative bg1" style="height: 50vh">
         <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white fw-bold" style="font-family: marker;">FAQ</h1>
     </div>
-    
+
     <div class="container-lg pt-5 pb-3 px-4 text-center">
         <h3 class="fw-bold">Häufig gestellte Fragen</h3>
     </div>
@@ -14,11 +14,11 @@
             <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white" style="font-family: marker;">Besucherverhalten</h1>
         </div>
 
-        <button class="fs-4 btn text-danger px-5 my-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseQuestion1" aria-expanded="false" aria-controls="collapseExample">
+        <button class="fs-4 btn px-5 my-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseQuestion1" aria-expanded="false" aria-controls="collapseExample">
             + Dürfen die Spielgeräte mit Schuhen betreten werden?
         </button>
         <div class="fs-4 collapse px-5" id="collapseQuestion1">
-            <div class="text-info">
+            <div class="text-muted">
                 Nein, ausschließlich auf Strümpfen. Wir empfehlen Rutschesocken.
                 Im Springolino können Rutschesocken außerdem für 3€ pro Paar erworben werden.
             </div>
@@ -36,7 +36,7 @@
         </div>
         <br><p class="border-top border-info" style="margin: 0 38%"></p>
 
-        
+
         <button class="fs-4 btn text-danger px-5 my-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseQuestion5" aria-expanded="false" aria-controls="collapseExample">
             + Müssen Erwachsene auch die Schuhe ausziehen?
         </button>
@@ -90,7 +90,7 @@
             </div>
         </div>
         <br><p class="border-top border-info" style="margin: 0 38%"></p>
-        
+
         <button class="fs-4 btn text-danger px-5 my-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseQuestion13" aria-expanded="false" aria-controls="collapseExample">
             + Haben Sie Familien- oder Stundenkarten?
         </button>
