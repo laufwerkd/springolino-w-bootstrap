@@ -56,19 +56,19 @@
 <div class="container-lg py-2 py-sm-5 px-4">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-lg-4 justify-content-center">
         <div class="col position-relative m-2 p-0">
-            <img src="img/attraction.jpg" class="rounded-4" width="100%" height="auto">
+            <img src="img/attraction.jpg" class="rounded-4 shadow" width="100%" height="auto">
             <a href="#" class="btn position-absolute bottom-0 end-0 m-2 px-3 py-2 bg-secondary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
                 <span class="align-middle text-white fw-bold">Attraktionen</span>
             </a>
         </div>
         <div class="col position-relative m-2 p-0">
-            <img src="img/birthday.jpg" class="rounded-4" width="100%" height="auto">
+            <img src="img/birthday.jpg" class="rounded-4 shadow" width="100%" height="auto">
             <a href="#" class="btn position-absolute bottom-0 end-0 m-2 px-3 py-2 bg-primary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
                 <span class="align-middle text-white fw-bold">Geburtstag</span>
             </a>
         </div>
         <div class="col position-relative m-2 p-0">
-            <img src="img/news.jpg" class="rounded-4" width="100%" height="auto">
+            <img src="img/news.jpg" class="rounded-4 shadow" width="100%" height="auto">
             <a href="#" class="btn position-absolute bottom-0 end-0 m-2 px-3 py-2 bg-info bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
                 <span class="align-middle text-white fw-bold">Preise & Zeiten</span>
             </a>
