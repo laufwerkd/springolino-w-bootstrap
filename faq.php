@@ -57,18 +57,6 @@
                 </div>
             </div>
         </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="schuheErwachseneHeader">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#schuheErwachsene" aria-expanded="false" aria-controls="schuheErwachsene">
-                    Müssen Erwachsene auch die Schuhe ausziehen?
-                </button>
-            </h2>
-            <div id="schuheErwachsene" class="accordion-collapse collapse" aria-labelledby="schuheErwachseneHeader" data-bs-parent="besucherverhalten">
-                <div class="accordion-body">
-                    Generell nein, nur wenn Sie die Spielgeräte betreten.
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 
@@ -77,7 +65,7 @@
 </div>
 <div class="container-lg py-5 px-4">
     <h3>Wird erweitert</h3>
-    <p>Hier steht dann der rest..</p>
+    <p>Hier steht dann der Rest..</p>
 </div>
 
 <?php include 'footer.php'; ?>
