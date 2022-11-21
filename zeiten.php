@@ -2,15 +2,15 @@
 
 <?php include 'header.php'; ?>
 
-<head>
-    <style>
-        table {
-            width: auto;
-        }
-    </style>
-</head>
+<main class="mt-5">
+    <section class="py-5 text-center container">
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <h1>Öffnungszeiten</h1>
+          </div>
+        </div>
+      </section>
 
-<main class="mt-4">
     <table class="table">
         <thead class="table-secondary">
             <th class="bg-light col-6 text-center" colspan="2">
