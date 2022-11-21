@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <div class="position-relative bg1" style="height: 50vh">
-    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white fw-bold" style="font-family: marker;">DSGVO</h1>
+    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-light fw-bold" style="font-family: marker;">DSGVO</h1>
 </div>
 
 <div class="container-lg py-5 px-4 text-center">

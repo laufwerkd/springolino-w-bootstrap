@@ -48,6 +48,13 @@
                 </li>
             </ul>
             <span class="text-white">&copy; Springolino <?php echo date("Y"); ?></span>
+            <br>
+            <span class="text-white">Temporär (soll hier in zukunft nicht stehen)</span>
+            <ul class="navbar-nav d-flex flex-row gap-3">
+                <li class="nav-item">
+                    <a href="faq.php" class="nav-link text-white">FAQ</a>
+                </li>
+            </ul>
         </nav>
     </div>
 </div>
