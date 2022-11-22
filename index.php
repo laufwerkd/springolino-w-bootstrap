@@ -52,30 +52,47 @@
 <div class="position-relative bg2" style="height: 20vh">
     <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white" style="font-family: marker;">Entdecken Sie das Springolino</h1>
 </div>
-
-<div class="container-lg py-2 py-sm-5 px-4">
-    <div class="row row-cols-1 row-cols-sm-3 row-cols-lg-4 justify-content-center">
-        <div class="col position-relative m-2 p-0">
-            <img src="img/attraction.jpg" class="rounded-4 shadow" width="100%" height="auto">
-            <a href="#" class="btn position-absolute bottom-0 end-0 m-2 px-3 py-2 bg-secondary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
-                <span class="align-middle text-white fw-bold">Attraktionen</span>
-            </a>
+<div class="container-lg py-5 px-4">
+    <h3>Unsere Attraktionen</h3>
+    <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
+        <div class="col card m-2 p-0">
+            <img src="img/ballkanone.jpg" class="card-img-top">
+            <div class="container p-3">
+                <h3><span class="badge bg-secondary">XXL-Funhouse</span></h3>
+                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <a href="#" class="stretched-link"></a>
+            </div>
         </div>
-        <div class="col position-relative m-2 p-0">
-            <img src="img/birthday.jpg" class="rounded-4 shadow" width="100%" height="auto">
-            <a href="#" class="btn position-absolute bottom-0 end-0 m-2 px-3 py-2 bg-primary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
-                <span class="align-middle text-white fw-bold">Geburtstag</span>
-            </a>
+        <div class="col card m-2 p-0">
+            <img src="img/trampoline.jpg" class="card-img-top">
+            <div class="container p-3">
+                <h3><span class="badge bg-primary">Trampolinpark</span></h3>
+                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <a href="#" class="stretched-link"></a>
+            </div>
         </div>
-        <div class="col position-relative m-2 p-0">
-            <img src="img/news.jpg" class="rounded-4 shadow" width="100%" height="auto">
-            <a href="#" class="btn position-absolute bottom-0 end-0 m-2 px-3 py-2 bg-info bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
-                <span class="align-middle text-white fw-bold">Preise & Zeiten</span>
-            </a>
+        <div class="col card m-2 p-0">
+            <img src="img/wasserspielplatz.jpg" class="card-img-top">
+            <div class="container p-3">
+                <h3><span class="badge bg-info">Wasserspielplatz</span></h3>
+                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <a href="#" class="stretched-link"></a>
+            </div>
         </div>
+        <div class="col card m-2 p-0">
+            <img src="img/vulkan.jpg" class="card-img-top">
+            <div class="container p-3">
+                <h3><span class="badge bg-primary">Wasserspielplatz</span></h3>
+                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <a href="#" class="stretched-link"></a>
+            </div>
+        </div>
+        <a href="#" class="btn btn-primary">Alle Attraktionen ansehen</a>
     </div>
 </div>
 
-<div style="height: 100vh;"></div>
+<div class="position-relative bg2" style="height: 15vh">
+    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white" style="font-family: marker;">Abschnitt & Trennwand</h1>
+</div>
 
 <?php include 'footer.php'; ?>
