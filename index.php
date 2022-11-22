@@ -59,7 +59,7 @@
             <img src="img/ballkanone.jpg" class="card-img-top">
             <div class="container p-3">
                 <h3><span class="badge bg-secondary">XXL-Funhouse</span></h3>
-                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen!</p>
                 <a href="#" class="stretched-link"></a>
             </div>
         </div>
@@ -67,7 +67,7 @@
             <img src="img/trampoline.jpg" class="card-img-top">
             <div class="container p-3">
                 <h3><span class="badge bg-primary">Trampolinpark</span></h3>
-                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <p>Höher und noch höher geht es auf unserer Trampolinanlage!</p>
                 <a href="#" class="stretched-link"></a>
             </div>
         </div>
@@ -75,15 +75,15 @@
             <img src="img/wasserspielplatz.jpg" class="card-img-top">
             <div class="container p-3">
                 <h3><span class="badge bg-info">Wasserspielplatz</span></h3>
-                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <p>In unserem neuen Wasserpark könnt ihr spritzen, planschen, toben.</p>
                 <a href="#" class="stretched-link"></a>
             </div>
         </div>
         <div class="col card m-2 p-0">
             <img src="img/vulkan.jpg" class="card-img-top">
             <div class="container p-3">
-                <h3><span class="badge bg-primary">Wasserspielplatz</span></h3>
-                <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr!</p>
+                <h3><span class="badge bg-primary">Vulkan-Kletterberg</span></h3>
+                <p>Erklimme den Vulkan und rutsche dann superschnell herunter ins Tal zurück!</p>
                 <a href="#" class="stretched-link"></a>
             </div>
         </div>
@@ -92,7 +92,17 @@
 </div>
 
 <div class="position-relative bg2" style="height: 15vh">
-    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white" style="font-family: marker;">Abschnitt & Trennwand</h1>
+    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white" style="font-family: marker;">Wir suchen Mitarbeiter</h1>
+</div>
+<div class="container-lg py-5 px-4">
+    <h3>Text mit Titel</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+
+    <h3>Noch ein Titel</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+
+    <h3>..und so weiter</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
 </div>
 
 <?php include 'footer.php'; ?>

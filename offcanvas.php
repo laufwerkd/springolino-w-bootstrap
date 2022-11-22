@@ -53,6 +53,9 @@
                 <li class="nav-item">
                     <a href="faq.php" class="nav-link text-white">FAQ</a>
                 </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link text-white">Jobs</a>
+                </li>
             </ul>
             <span class="text-muted">Temporär (soll hier in zukunft nicht stehen)</span>
         </nav>
