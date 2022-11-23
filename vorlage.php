@@ -1,43 +1,43 @@
 <?php include 'header.php'; ?>
 
-<!--
-    Seitentitel
-    nur 1x verwenden
--->
-<div class="position-relative bg1" style="height: 50vh">
-    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-light fw-bold" style="font-family: marker;">Seitenname</h1>
-</div>
+<div style="height: 20vh;"></div>
 
 <!--
     Überschrift / Willkommens Text
     nur 1x verwenden
 -->
-<div class="container-lg py-5 px-4 text-center">
+<div class="container-fluid bg-gray" id="scrollen"><br></div>
+<div class="container-lg p-5 bg-white rounded-bottom text-center">
     <h3 class="fw-bold">Willkommens Text für eine Seite</h3>
     <h5>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
 </div>
 
 <!--
-    Abschnitt / Trennwand
+    Modul
     mehrmals verwendbar
- -->
-<div class="position-relative bg2" style="height: 15vh">
-    <h1 class="position-absolute top-50 start-50 translate-middle text-center text-white" style="font-family: marker;">Abschnitt & Trennwand</h1>
+-->
+<div class="modul">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+        <h1 class="p-3 m-0 w-75 bg-black bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+            Modul Überschrift
+        </h1>
+    </div>
+    <div class="container-lg p-5 bg-white rounded">
+        <h5>Text mit Titel</h5>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+
+        <h5>Noch ein Titel</h5>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+
+        <h5>..und so weiter</h5>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+    </div>
 </div>
 
 <!--
-    Für Texte mit überschriften
-    mehrmals verwendbar
- -->
-<div class="container-lg py-5 px-4">
-    <h3>Text mit Titel</h3>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
-
-    <h3>Noch ein Titel</h3>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
-
-    <h3>..und so weiter</h3>
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
-</div>
+    Footer
+    nur 1x verwenden
+-->
+<div class="container-fluid bg-gray"><br></div>
 
 <?php include 'footer.php'; ?>
