@@ -57,7 +57,7 @@
                     <a href="#" class="nav-link text-white">Jobs</a>
                 </li>
                 <li class="nav-item">
-                    <a href="bereichVorlage.php" class="nav-link text-white">Bereich Vorlage</a>
+                    <a href="vorlageBereich.php" class="nav-link text-white">Bereich Vorlage</a>
                 </li>
             </ul>
             <span class="text-muted">Temporär (soll hier in zukunft nicht stehen)</span>
