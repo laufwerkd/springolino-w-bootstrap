@@ -34,10 +34,4 @@
     </div>
 </div>
 
-<!--
-    Footer
-    nur 1x verwenden
--->
-<div class="container-fluid bg-gray"><br></div>
-
 <?php include 'footer.php'; ?>

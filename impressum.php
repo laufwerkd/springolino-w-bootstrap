@@ -8,7 +8,7 @@
             Impressum
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-5 bg-white rounded-top">
         <h5>Angaben gemäß § 5 TMG</h5>
         <p>Springolino GmbH<br>
         Ackerstraße 35<br>

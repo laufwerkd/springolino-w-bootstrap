@@ -8,6 +8,10 @@
         <title>Springolino</title>
 
         <style>
+            .text-gray {
+                color: #E8E8E8;
+            }
+
             .bg-gray {
                 background-color: #E8E8E8;
             }

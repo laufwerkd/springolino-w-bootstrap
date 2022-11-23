@@ -76,8 +76,8 @@
         </h3>
     </div>
     <div class="container-lg p-5 bg-white rounded">
-        <h5>Wird erweitert</h5>
-        <p>Hier steht dann der Rest..</p>
+        <h5>Hier entsteht etwas..</h5>
+        <p>Dieser Bereich ist noch im Aufbau</p>
     </div>
 </div>
 

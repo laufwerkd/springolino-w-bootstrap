@@ -8,6 +8,13 @@
         transform: translate(-50%, -50%);
     }
 
+    .zeiten {
+        position: absolute;
+        top: 85%;
+        left: 75%;
+        transform: translate(-50%, -50%);
+    }
+
     .scrollen {
         position: absolute;
         bottom: 48px;
@@ -123,7 +130,5 @@
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
     </div>
 </div>
-
-<div class="container-fluid bg-gray" style="height: 2.5vh;"></div>
 
 <?php include 'footer.php'; ?>
