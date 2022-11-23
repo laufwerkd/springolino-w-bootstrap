@@ -11,49 +11,47 @@
 <div class="container-lg py-5 bg-white rounded text-center">
     <div class="row">
         <div class="col">
-            <a href="#" type="button" class="btn btn-info" style="--bs-btn-padding-y: 4rem; --bs-btn-padding-x: 4rem; --bs-btn-font-size: 1.8rem;">
+            <a href="#" class="btn btn-info" style="--bs-btn-padding-y: 4rem; --bs-btn-padding-x: 4rem; --bs-btn-font-size: 1.8rem;">
                 Eintrittspreise
             </a>
         </div>
-
         <div class="col">
-            <a href="#" type="button" class="btn btn-primary" style="--bs-btn-padding-y: 4rem; --bs-btn-padding-x: 4rem; --bs-btn-font-size: 1.8rem;">
+            <a href="#" class="btn btn-primary" style="--bs-btn-padding-y: 4rem; --bs-btn-padding-x: 4rem; --bs-btn-font-size: 1.8rem;">
                 Öffnungszeiten
             </a>
         </div>
     </div>
 </div>
 
-
-<div class="container-lg d-flex justify-content-center p-0 pt-5">
-    <h1 class="p-3 m-0 w-50 bg-info bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
-        Tageseintritt
-    </h1>
+<div class="modul">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
+        <h3 class="p-3 m-0 w-50 bg-info bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+            Tageseintritt
+        </h3>
+    </div>
+    <div class="container-lg p-4 bg-white rounded">
+        <table class="table">
+            <tbody class="px-5 bg-white">
+                <tr>
+                    <td class="px-5 col-6">Kinder ab 3 Jahre</td>
+                    <td class="px-5 col-6">11,50 € (unter 3 Jahre frei)</td>
+                </tr>
+                <tr>
+                    <td class="px-5 col-6">Erwachsene ab 18 Jahre</td>
+                    <td class="px-5 col-6">5,50 €</td>
+                </tr>
+                <tr>
+                    <td class="px-5 col-6">Kinder mit Behindertenausweis</td>
+                    <td class="px-5 col-6">6,00 € (unter 3 Jahre frei)</td>
+                </tr>
+                <tr>
+                    <td class="px-5 col-6">Erwachsene mit Behindertenausweis</td>
+                    <td class="px-5 col-6">3,00 € (unter 3 Jahre frei)</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
-
-<div class="container-lg p-4 bg-white rounded">
-    <table class="table">
-        <tbody class="px-5 bg-white">
-            <tr>
-                <td class="px-5 col-6">Kinder ab 3 Jahre</td>
-                <td class="px-5 col-6">11,50 € (unter 3 Jahre frei)</td>
-            </tr>
-            <tr>
-                <td class="px-5 col-6">Erwachsene ab 18 Jahre</td>
-                <td class="px-5 col-6">5,50 €</td>
-            </tr>
-            <tr>
-                <td class="px-5 col-6">Kinder mit Behindertenausweis</td>
-                <td class="px-5 col-6">6,00 € (unter 3 Jahre frei)</td>
-            </tr>
-            <tr>
-                <td class="px-5 col-6">Erwachsene mit Behindertenausweis</td>
-                <td class="px-5 col-6">3,00 € (unter 3 Jahre frei)</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
 
 <div class="container-lg d-flex justify-content-center p-0 pt-5">
     <h1 class="p-3 m-0 w-50 bg-info bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
@@ -223,7 +221,7 @@
 
 <div class="container-lg p-4 mb-5 bg-white rounded">
     <table class="table">
-       
+
         <tbody class="bg-white">
             <tr>
                 <td class="px-5 col-6">Donnerstag oder Freitag</td>
@@ -237,3 +235,4 @@
     </table>
 </div>
 
+<?php include 'footer.php'; ?>
