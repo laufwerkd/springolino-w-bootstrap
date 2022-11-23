@@ -11,7 +11,7 @@
     <div class="container-lg p-5 bg-white rounded">
         <div class="dropdown mb-3">
             <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
-            <ul class="dropdown-menu">
+            <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoBlick">Auf einen Blick</a></li>
                 <li><a class="dropdown-item" href="#gotoAllgemeines">Allgemeines</a></li>
                 <li><a class="dropdown-item" href="#gotoDatenerfassung">Datenerfassung</a></li>

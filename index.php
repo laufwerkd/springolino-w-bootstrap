@@ -72,7 +72,7 @@
     <div class="container-lg p-5 bg-white rounded">
         <h3>Unsere Attraktionen</h3>
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
-            <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0">
+            <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
                 <img src="img/ballkanone.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-secondary">XXL-Funhouse</span></h4>
@@ -80,7 +80,7 @@
                     <a href="#" class="stretched-link"></a>
                 </div>
             </div>
-            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0">
+            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
                 <img src="img/trampoline.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-primary">Trampolinpark</span></h4>
@@ -88,7 +88,7 @@
                     <a href="#" class="stretched-link"></a>
                 </div>
             </div>
-            <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0">
+            <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow">
                 <img src="img/wasserspielplatz.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-info">Wasserspielplatz</span></h4>
@@ -96,7 +96,7 @@
                     <a href="#" class="stretched-link"></a>
                 </div>
             </div>
-            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0">
+            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
                 <img src="img/vulkan.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-primary">Vulkan-Kletterberg</span></h4>
@@ -106,7 +106,7 @@
             </div>
         </div>
         <div class="mt-2 text-center">
-            <a href="#" class="btn px-4 py-2 h-100 bg-danger rounded-pill">
+            <a href="#" class="btn px-4 py-2 h-100 bg-danger rounded-pill shadow">
                 <span class="text-white fw-bold">Alle Attraktionen ansehen</span>
             </a>
         </div>
