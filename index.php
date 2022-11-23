@@ -7,20 +7,6 @@
         left: 33%;
         transform: translate(-50%, -50%);
     }
-
-    .zeiten {
-        position: absolute;
-        top: 85%;
-        left: 75%;
-        transform: translate(-50%, -50%);
-    }
-
-    .scrollen {
-        position: absolute;
-        bottom: 48px;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
 </style>
 
 <script>
@@ -56,7 +42,7 @@
     </h1>
 </div>
 
-<div class="container-fluid bg-gray" id="scrollen"><br></div>
+<div class="container-fluid bg-gray" id="scrollen" style="height: 10px"></div>
 
 <div class="container-lg p-5 bg-white rounded-bottom text-center">
     <h1 class="fw-bold">Willkommen im Springolino</h1>
@@ -65,7 +51,7 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 m-0 w-75 bg-primary bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Entdecken Sie das Springolino
         </h1>
     </div>
@@ -73,7 +59,7 @@
         <h3>Unsere Attraktionen</h3>
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
-                <img src="img/ballkanone.jpg" class="card-img-top">
+                <img src="img/funhouse.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-secondary">XXL-Funhouse</span></h4>
                     <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen!</p>
@@ -106,8 +92,8 @@
             </div>
         </div>
         <div class="mt-2 text-center">
-            <a href="#" class="btn px-4 py-2 h-100 bg-danger rounded-pill shadow">
-                <span class="text-white fw-bold">Alle Attraktionen ansehen</span>
+            <a href="entdecken.php" class="btn px-4 py-2 h-100 bg-danger rounded-pill shadow">
+                <span class="text-white fw-bold">Alle Bereiche ansehen</span>
             </a>
         </div>
     </div>
@@ -115,7 +101,7 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 m-0 w-75 bg-info bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Aktuelles
         </h1>
     </div>

@@ -48,7 +48,7 @@
                 <ul class="navbar-nav d-flex flex-row gap-2">
                     <li class="nav-item">
                         <a href="#" class="btn d-none d-sm-block px-4 py-2 h-100 bg-primary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
-                            <span class="align-middle text-white fs-5 fw-bold">Buchen</span>
+                            <span class="align-middle text-white fs-5" style="font-family: marker;">Buchen</span>
                         </a>
                     </li>
                     <li class="nav-item">

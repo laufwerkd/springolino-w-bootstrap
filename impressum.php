@@ -4,7 +4,7 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 m-0 w-75 bg-primary bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Impressum
         </h1>
     </div>

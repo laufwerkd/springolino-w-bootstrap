@@ -3,22 +3,12 @@
 <div style="height: 20vh;"></div>
 
 <!--
-    Überschrift / Willkommens Text
-    nur 1x verwenden
--->
-<div class="container-fluid bg-gray" id="scrollen"><br></div>
-<div class="container-lg p-5 bg-white rounded-bottom text-center">
-    <h3 class="fw-bold">Willkommens Text für eine Seite</h3>
-    <h5>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-</div>
-
-<!--
     Modul
     mehrmals verwendbar
 -->
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 m-0 w-75 bg-black bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Modul Überschrift
         </h1>
     </div>
