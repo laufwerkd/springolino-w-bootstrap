@@ -20,7 +20,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="btn px-5 py-3 w-100 bg-info bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
+                    <a href="preiseZeiten.php" class="btn px-5 py-3 w-100 bg-info bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold" style="font-family: marker;">Preise & Zeiten </span><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-clock-fill text-white" viewBox="0 0 16 16">
                             <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
                         </svg>
@@ -55,6 +55,9 @@
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link text-white">Jobs</a>
+                </li>
+                <li class="nav-item">
+                    <a href="bereichVorlage.php" class="nav-link text-white">Bereich Vorlage</a>
                 </li>
             </ul>
             <span class="text-muted">Temporär (soll hier in zukunft nicht stehen)</span>
