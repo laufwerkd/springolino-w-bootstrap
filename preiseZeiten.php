@@ -1,5 +1,11 @@
 <?php include 'header.php'; ?>
 
+<style>
+    body {
+        background-image: url(img/bg1.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
 
 <div class="container-lg d-flex justify-content-center p-0 pt-5">

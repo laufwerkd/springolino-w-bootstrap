@@ -1,9 +1,15 @@
 <?php include 'header.php'; ?>
 
+<style>
+    body {
+        background-image: url(img/bg1.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
 
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Entdecken Sie das Springolino
         </h1>
@@ -23,7 +29,7 @@
 </div>
 
 <div class="modul" id="gotoIndoor">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Indoor Bereiche
         </h3>
@@ -62,10 +68,10 @@
                     <a href="#" class="stretched-link"></a>
                 </div>
             </div>
-            <div class="col card m-2 p-0 bg-light bg-opacity-25 border-0 shadow">
+            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
                 <img src="img/kettenflieger.jpg" class="card-img-top">
                 <div class="p-3">
-                    <h4><span class="badge bg-light text-start">Kettenflieger</span></h4>
+                    <h4><span class="badge bg-primary text-start">Kettenflieger</span></h4>
                     <p>Entdecken Sie das Kind in sich wieder! Leichtigkeit des Fliegens spüren und hoch hinaus wollen.</p>
                     <a href="#" class="stretched-link"></a>
                 </div>
@@ -163,7 +169,7 @@
 </div>
 
 <div class="modul" id="gotoOutdoor">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Outdoor Bereiche
         </h3>

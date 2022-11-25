@@ -1,36 +1,28 @@
 <?php include 'header.php'; ?>
 
+<style>
+    body {
+        background-image: url(img/kettenflieger.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
-
-<!--
-    Überschrift / Willkommens Text
-    nur 1x verwenden
--->
-<div class="container-fluid bg-gray" id="scrollen"><br></div>
-<div class="container-lg p-5 bg-white rounded-bottom text-center">
-    <h3 class="fw-bold">Attraktion 01</h3>
-    <h5>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h5>
-</div>
-
 <!--
     Modul
     mehrmals verwendbar
 -->
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 m-0 w-75 bg-black bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
-            Modul Überschrift
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+            Beispiel Bereich (Kettenflieger)
         </h1>
     </div>
     <div class="container-lg p-5 bg-white rounded">
-        <h5>Text mit Titel</h5>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+        <h5>Kettenflieger</h5>
+        <p>Spaß für Groß und Klein!<br>
+        Unser Kettenkarussell lädt auch Erwachsene zu einer rasanten Fahrt ein! Entdecken Sie das Kind in sich wieder! Die Leichtigkeit des Fliegens spüren und hoch hinaus wollen – ein großer Spass für die ganze Familie!</p>
 
-        <h5>Noch ein Titel</h5>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
-
-        <h5>..und so weiter</h5>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+        <small class="text-muted">(hier vielleicht noch ein bild)</small>
     </div>
 </div>
 

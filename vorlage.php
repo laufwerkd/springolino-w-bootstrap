@@ -1,14 +1,16 @@
 <?php include 'header.php'; ?>
 
+<style>
+    body {
+        background-image: url(img/bg1.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
 
-<!--
-    Modul
-    mehrmals verwendbar
--->
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
+        <h1 class="p-3 px-4 m-0 bg-black bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Modul Überschrift
         </h1>
     </div>

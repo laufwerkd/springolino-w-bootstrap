@@ -1,6 +1,10 @@
 <?php include 'header.php'; ?>
 
 <style>
+    body {
+        background-image: url(img/bg2.jpg);
+    }
+
     .titel {
         position: absolute;
         top: 60%;
@@ -19,7 +23,7 @@
     }
 </script>
 
-<div class="position-relative bg1" style="height: 100vh">
+<div class="position-relative bg" style="background-image: url(img/bg1.jpg); height: 100vh">
     <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="font-family: marker; font-size: 5rem;">
         <span class="text-warning">ACTION</span><br>
         <span class="text-light">AND</span> <span class="text-primary">FUN</span><br>
@@ -42,15 +46,13 @@
     </h1>
 </div>
 
-<div class="container-fluid bg-gray" id="scrollen" style="height: 10px"></div>
-
-<div class="container-lg p-5 bg-white rounded-bottom text-center">
+<div class="container-fluid p-5 bg-white text-center" id="scrollen">
     <h1 class="fw-bold">Willkommen im Springolino</h1>
     <h4>Springolino ist <span class="text-decoration-underline">DAS</span> In- & Outdoor-Spieleparadies für Groß und Klein in Herford</h4>
 </div>
 
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Entdecken Sie das Springolino
         </h1>
@@ -100,7 +102,7 @@
 </div>
 
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h1 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Aktuelles
         </h1>

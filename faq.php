@@ -1,10 +1,16 @@
 <?php include 'header.php'; ?>
 
+<style>
+    body {
+        background-image: url(img/bg1.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
 
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h1 class="p-3 m-0 w-75 bg-primary bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             FAQ
         </h1>
     </div>
@@ -22,8 +28,8 @@
 </div>
 
 <div class="modul" id="gotoBesucherverhalten">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h3 class="p-3 m-0 w-75 bg-white bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Besucherverhalten
         </h3>
     </div>
@@ -31,7 +37,7 @@
         <div class="accordion accordion-flush" id="besucherverhalten">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="schuheHeader">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#schuhe" aria-expanded="false" aria-controls="schuhe">
+                    <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#schuhe" aria-expanded="false" aria-controls="schuhe">
                         Dürfen die Spielgeräte mit Schuhen betreten werden?
                     </button>
                 </h2>
@@ -43,7 +49,7 @@
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="alleineHeader">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#alleine" aria-expanded="false" aria-controls="alleine">
+                    <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#alleine" aria-expanded="false" aria-controls="alleine">
                         Dürfen Kinder alleine im Springolino bleiben?
                     </button>
                 </h2>
@@ -55,7 +61,7 @@
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="schuheErwachseneHeader">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#schuheErwachsene" aria-expanded="false" aria-controls="schuheErwachsene">
+                    <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#schuheErwachsene" aria-expanded="false" aria-controls="schuheErwachsene">
                         Müssen Erwachsene auch die Schuhe ausziehen?
                     </button>
                 </h2>
@@ -70,8 +76,8 @@
 </div>
 
 <div class="modul" id="gotoEintritt">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
-        <h3 class="p-3 m-0 w-75 bg-white bg-opacity-25 text-center text-white rounded-top" style="font-family: marker; backdrop-filter: blur(5px);">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Eintritt
         </h3>
     </div>

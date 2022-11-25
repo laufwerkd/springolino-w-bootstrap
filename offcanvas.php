@@ -3,7 +3,7 @@
         <nav class="navbar d-flex flex-column p-0">
             <ul class="navbar-nav d-flex flex-column gap-3">
                 <li class="nav-item d-sm-none">
-                    <a href="#" class="btn px-5 py-3 w-100 bg-primary bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
+                    <a href="buchen.php" class="btn px-5 py-3 w-100 bg-primary bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold" style="font-family: marker;">Buchen </span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-calendar-date-fill text-white" viewBox="0 0 16 16">
                             <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zm5.402 9.746c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2z"/>

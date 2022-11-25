@@ -8,6 +8,18 @@
         <title>Springolino</title>
 
         <style>
+            @font-face {
+                font-family: marker;
+                src: url(font/markerFelt.ttf);
+            }
+
+            body, .bg {
+                background-attachment: fixed;
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+
             .text-gray {
                 color: #E8E8E8;
             }
@@ -15,31 +27,10 @@
             .bg-gray {
                 background-color: #E8E8E8;
             }
-
-            @font-face {
-                font-family: marker;
-                src: url(font/markerFelt.ttf);
-            }
-
-            .bg1 {
-                background-image: url(img/bg1.jpg);
-                background-attachment: fixed;
-                background-position: center;
-                background-size: cover;
-                background-repeat: no-repeat;
-            }
-
-            .bg2 {
-                background-image: url(img/bg2.jpg);
-                background-attachment: fixed;
-                background-position: center;
-                background-size: cover;
-                background-repeat: no-repeat;
-            }
         </style>
     </head>
 
-    <body class="bg2">
+    <body>
         <header class="container-lg position-fixed top-0 start-50 translate-middle-x px-4 py-3" style="z-index: 2000;">
             <nav class="navbar d-flex flex-row justify-content-between p-0">
                 <a href="index.php" class="navbar-brand m-0 p-0">
@@ -47,7 +38,7 @@
                 </a>
                 <ul class="navbar-nav d-flex flex-row gap-2">
                     <li class="nav-item">
-                        <a href="#" class="btn d-none d-sm-block px-4 py-2 h-100 bg-primary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
+                        <a href="buchen.php" class="btn d-none d-sm-block px-4 py-2 h-100 bg-primary bg-opacity-75 rounded-pill" style="backdrop-filter: blur(2px);">
                             <span class="align-middle text-white fs-5" style="font-family: marker;">Buchen</span>
                         </a>
                     </li>

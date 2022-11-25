@@ -1,9 +1,15 @@
 <?php include 'header.php'; ?>
 
+<style>
+    body {
+        background-image: url(img/bg1.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
 
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Allgemeine Geschäftsbedingungen
         </h1>
@@ -32,7 +38,7 @@
 </div>
 
 <div class="modul" id="gotoAllgemeines">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Allgemeines
         </h3>
@@ -50,7 +56,7 @@
 </div>
 
 <div class="modul" id="gotoHaftungsfreistellung">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Keine Aufsichtspflicht und Haftungsfreistellung
         </h3>
@@ -65,7 +71,7 @@
 </div>
 
 <div class="modul" id="gotoSpielgeräte">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Benutzung der Spielgeräte
         </h3>
@@ -79,7 +85,7 @@
 </div>
 
 <div class="modul" id="gotoAußenbereich">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Außenbereich
         </h3>
@@ -93,7 +99,7 @@
 </div>
 
 <div class="modul" id="gotoUnfallmeldung">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Videoüberwachung und Unfallmeldung
         </h3>
@@ -110,7 +116,7 @@
 </div>
 
 <div class="modul" id="gotoBekleidung">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Bekleidung
         </h3>
@@ -125,7 +131,7 @@
 </div>
 
 <div class="modul" id="gotoVerbrauchsgüter">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Speisen, Getränke, Rauchen und Alkohol
         </h3>
@@ -143,7 +149,7 @@
 </div>
 
 <div class="modul" id="gotoVerhalten">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Verhalten und Beschädigungen
         </h3>
@@ -159,7 +165,7 @@
 </div>
 
 <div class="modul" id="gotoZutritt">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Keinen Zutritt haben
         </h3>
@@ -175,7 +181,7 @@
 </div>
 
 <div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5 bg2">
+    <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Salvatorische Klausel
         </h3>
