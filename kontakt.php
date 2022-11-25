@@ -1,4 +1,11 @@
 <?php include 'header.php'; ?>
+
+<style>
+    body {
+        background-image: url(img/bg1.jpg);
+    }
+</style>
+
 <div style="height: 20vh;"></div>
 
 <div class="modul">
