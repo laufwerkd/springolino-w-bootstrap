@@ -28,11 +28,11 @@
         <h5>Ihre Datenschutzeinstellungen</h5>
         <p>Bitte wählen Sie welche Cookies weitergeleitet werden. Weitere Informationen zu den Auswirkungen Ihrer Auswahl finden Sie unter Hilfe.</p>
         <div class="d-flex flex-column flex-sm-row gap-2">
-            <input type="radio" class="btn-check" name="btnradio" id="alle" autocomplete="off" checked>
+            <input type="radio" class="btn-check" name="cookies" id="alle" autocomplete="off" checked>
             <label class="btn btn-outline-primary" for="alle">Alle Cookies</label>
-            <input type="radio" class="btn-check" name="btnradio" id="first-party" autocomplete="off">
+            <input type="radio" class="btn-check" name="cookies" id="first-party" autocomplete="off">
             <label class="btn btn-outline-info" for="first-party">Nur First-Party-Cookies</label>
-            <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
+            <input type="radio" class="btn-check" name="cookies" id="btnradio3" autocomplete="off">
             <label class="btn btn-outline-danger" for="btnradio3">Keine Cookies</label>
         </div>
     </div>
