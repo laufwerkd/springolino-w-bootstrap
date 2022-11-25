@@ -21,8 +21,8 @@
         <h5>Kettenflieger</h5>
         <p>Spaß für Groß und Klein!<br>
         Unser Kettenkarussell lädt auch Erwachsene zu einer rasanten Fahrt ein! Entdecken Sie das Kind in sich wieder! Die Leichtigkeit des Fliegens spüren und hoch hinaus wollen – ein großer Spass für die ganze Familie!</p>
-
-        <small class="text-muted">(hier vielleicht noch ein bild)</small>
+            <img src="./img/funhouse.jpg" class="rounded float-start" alt="Bild von Attraktion">
+        <small class="text-muted">(links vielleicht noch ein bild, rechts Text/Beschreibung)</small>
     </div>
 </div>
 
