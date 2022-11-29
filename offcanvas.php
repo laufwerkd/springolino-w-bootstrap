@@ -1,7 +1,7 @@
 <div class="offcanvas offcanvas-end bg-black bg-opacity-25" tabindex="-1" id="offcanvas" style="min-width: 50%; backdrop-filter: blur(8px);">
     <div class="position-absolute top-50 start-50 translate-middle">
         <nav class="navbar d-flex flex-column p-0">
-            <ul class="navbar-nav d-flex flex-column gap-3">
+            <ul class="navbar-nav d-flex flex-column gap-3 mb-4">
                 <li class="nav-item d-sm-none">
                     <a href="buchen.php" class="btn px-5 py-3 w-100 bg-primary bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
                         <span class="align-middle text-white text-nowrap fs-1 fw-bold" style="font-family: marker;">Buchen </span>
@@ -35,7 +35,7 @@
                     </a>
                 </li>
             </ul>
-            <br>
+
             <ul class="navbar-nav d-flex flex-row gap-3">
                 <li class="nav-item">
                     <a href="impressum.php" class="nav-link text-white">Impressum</a>
@@ -48,16 +48,20 @@
                 </li>
             </ul>
             <span class="text-muted">&copy; Springolino <?php echo date("Y"); ?></span>
+
             <br>
             <ul class="navbar-nav d-flex flex-row gap-3">
                 <li class="nav-item">
                     <a href="faq.php" class="nav-link text-white">FAQ</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">Jobs</a>
+                    <a href="jobs.php" class="nav-link text-white">Jobs</a>
                 </li>
                 <li class="nav-item">
                     <a href="vorlageBereich.php" class="nav-link text-white">Bereich Vorlage</a>
+                </li>
+                <li class="nav-item">
+                    <a href="kontakt.php" class="nav-link text-white">Kontakt</a>
                 </li>
             </ul>
             <span class="text-muted">Temporär (soll hier in zukunft nicht stehen)</span>

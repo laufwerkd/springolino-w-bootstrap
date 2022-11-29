@@ -2,11 +2,10 @@
 
 <style>
     body {
+        margin-top: 25vh;
         background-image: url(img/bg1.jpg);
     }
 </style>
-
-<div style="height: 20vh;"></div>
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
@@ -14,7 +13,7 @@
             Entdecken Sie das Springolino
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="dropdown mb-3">
             <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
@@ -22,6 +21,7 @@
                 <li><a class="dropdown-item" href="#gotoOutdoor">Outdoor Bereiche</a></li>
             </ul>
         </div>
+
         <h5>Attraktionen im Springolino</h5>
         <p>Wer kennt es auch? Sie wollen einen schönen Tag mit Ihren Kindern verbringen, dies aber nicht nur zu Hause in den vier Wänden. Alles ist für einen Ausflug geplant, doch plötzlich regnet es. Was nun?</p>
         <p>Springolino! Der Erlebnis Indoor-Spielplatz für groß und klein. Hier kommt wirklich jeder auf seine Kosten.</p>
@@ -34,7 +34,7 @@
             Indoor Bereiche
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
                 <img src="img/funhouse.jpg" class="card-img-top">
@@ -174,7 +174,7 @@
             Outdoor Bereiche
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white rounded-top">
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow">
                 <img src="img/wasserspielplatz.jpg" class="card-img-top">

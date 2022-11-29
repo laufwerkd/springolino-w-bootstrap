@@ -2,11 +2,10 @@
 
 <style>
     body {
+        margin-top: 25vh;
         background-image: url(img/bg1.jpg);
     }
 </style>
-
-<div style="height: 20vh;"></div>
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
@@ -14,7 +13,7 @@
             Impressum
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white rounded-top">
         <h5>Angaben gemäß § 5 TMG</h5>
         <p>Springolino GmbH<br>
         Ackerstraße 35<br>

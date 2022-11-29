@@ -57,7 +57,7 @@
             Entdecken Sie das Springolino
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <h3>Unsere Attraktionen</h3>
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
@@ -103,19 +103,18 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Aktuelles
-        </h1>
+        </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded-top">
-        <h5>Text mit Titel</h5>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
-
-        <h5>Noch ein Titel</h5>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
-
-        <h5>..und so weiter</h5>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
+    <div class="container-lg p-4 bg-white rounded-top">
+        <div class="mb-4">
+            <h5>Wir suchen Mitarbeiter</h5>
+            <p class="mb-2">Schau unsere aktuellen Jobangebote an und hilf im Springolino mit!</p>
+            <a href="jobs.php" class="btn bg-info rounded-pill shadow">
+                <span class="text-white fw-bold">Jobangebote anschauen</span>
+            </a>
+        </div>
     </div>
 </div>
 

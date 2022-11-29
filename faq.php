@@ -2,11 +2,10 @@
 
 <style>
     body {
+        margin-top: 25vh;
         background-image: url(img/bg1.jpg);
     }
 </style>
-
-<div style="height: 20vh;"></div>
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
@@ -14,15 +13,16 @@
             FAQ
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="dropdown mb-3">
             <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
-            <ul class="dropdown-menu">
+            <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoBesucherverhalten">Besucherverhalten</a></li>
                 <li><a class="dropdown-item" href="#gotoEintritt">Eintritt</a></li>
                 <li><a class="dropdown-item" href="#gotoMitbringsel">Mitbringsel</a></li>
             </ul>
         </div>
+
         <h5>Häufig gestellte Fragen im Springolino</h5>
         <p>Falls Sie ihre Frage in den unten aufgefürten Listen nicht finden können, können Sie uns auch gerne kontaktieren.</p>
     </div>
@@ -30,11 +30,11 @@
 
 <div class="modul" id="gotoBesucherverhalten">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h2 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Besucherverhalten
         </h2>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="accordion accordion-flush" id="besucherverhalten">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="schuheHeader">
@@ -48,6 +48,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="accordion-item">
                 <h2 class="accordion-header" id="alleineHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#alleine" aria-expanded="false" aria-controls="alleine">
@@ -60,6 +61,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="accordion-item">
                 <h2 class="accordion-header" id="schuheErwachseneHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#schuheErwachsene" aria-expanded="false" aria-controls="schuheErwachsene">
@@ -78,11 +80,11 @@
 
 <div class="modul" id="gotoEintritt">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h2 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Eintritt
         </h2>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="accordion accordion-flush" id="eintritt">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="stundentarifHeader">
@@ -96,7 +98,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="accordion-item">
                 <h2 class="accordion-header" id="gebKinderHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#gebKinder" aria-expanded="false" aria-controls="gebKinder">
@@ -180,12 +182,11 @@
 
 <div class="modul" id="gotoMitbringsel">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h2 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Mitbringsel
         </h2>
     </div>
-
-    <div class="container-lg p-5 mb-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded-top">
         <div class="accordion accordion-flush" id="mitbringsel">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="speisTrankHeader">
@@ -193,7 +194,7 @@
                         Dürfen Speisen und Getränke mitgebracht werden?
                     </button>
                 </h2>
-                <div id="speisTrank" class="accordion-collapse collapse" aria-labelledby="speisTrankHeader" data-bs-parent="eintritt">
+                <div id="speisTrank" class="accordion-collapse collapse" aria-labelledby="speisTrankHeader" data-bs-parent="mitbringsel">
                     <div class="accordion-body">
                         Nein, Ausnahmen sind: reservierte Geburtstage (da nur Kuchen) oder Essen für Säuglinge, Klein- & Allergiekinder.
                         Obst & Gemüse ist jedoch erlaubt mitzubringen, solange es keine fertigen Salate sind.
@@ -207,7 +208,7 @@
                         Dürfen Kinderwagen mit rein genommen werden?
                     </button>
                 </h2>
-                <div id="kinderwagen" class="accordion-collapse collapse" aria-labelledby="kinderwagen" data-bs-parent="eintritt">
+                <div id="kinderwagen" class="accordion-collapse collapse" aria-labelledby="kinderwagenHeader" data-bs-parent="mitbringsel">
                     <div class="accordion-body">
                         Selbstverständlich.
                     </div>
@@ -220,7 +221,7 @@
                         Darf eigenes Spielzeug mitgebracht werden?
                     </button>
                 </h2>
-                <div id="spielzeug" class="accordion-collapse collapse" aria-labelledby="spielzeugHeader" data-bs-parent="eintritt">
+                <div id="spielzeug" class="accordion-collapse collapse" aria-labelledby="spielzeugHeader" data-bs-parent="mitbringsel">
                     <div class="accordion-body">
                         Bis auf den Lieblingsteddy nein.
                     </div>
@@ -233,7 +234,7 @@
                         Haben Sie Schließfächer?
                     </button>
                 </h2>
-                <div id="schliessfach" class="accordion-collapse collapse" aria-labelledby="schliessfachHeader" data-bs-parent="eintritt">
+                <div id="schliessfach" class="accordion-collapse collapse" aria-labelledby="schliessfachHeader" data-bs-parent="mitbringsel">
                     <div class="accordion-body">
                         Ja, die Nutzungsgebühr beträgt 1€ und ein Schlüsselpfand muss hinterlegt werden.
                     </div>

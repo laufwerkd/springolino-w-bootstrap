@@ -2,26 +2,26 @@
 
 <style>
     body {
+        margin-top: 25vh;
         background-image: url(img/bg1.jpg);
     }
 </style>
 
-<div style="height: 20vh;"></div>
-
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
-          Dein Kindergeburtstag
+            Dein Kindergeburtstag im Springolino
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="dropdown mb-3">
             <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
-            <ul class="dropdown-menu">
+            <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoPakete">Geburtstagspakete</a></li>
                 <li><a class="dropdown-item" href="#gotoFormular">Buchungsformular</a></li>
             </ul>
         </div>
+
 		<h5>Dein Kindergeburtstag im Springolino</h5>
 		<p>Wir machen Deinen großen Tag zum unvergesslichen Erlebnis! Keinen Stress zu Hause – Super-Spaß für die Kinder und entspannte Eltern. Lass doch einfach deine tolle Geburtstagsparty im Springolino steigen!</p>
 	</div>
@@ -33,15 +33,15 @@
             Geburtstagspakete
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
-		<div class="accordion" id="geburtstagspaket">
+    <div class="container-lg p-4 bg-white rounded">
+		<div class="accordion mb-3" id="geburtstagspakete">
             <div class="accordion-item">
-                <h2 class="accordion-header" id="paket1Header">
+                <div class="accordion-header" id="paket1Header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#paket1" aria-expanded="false" aria-controls="paket1">
                     	<span class="badge bg-primary fs-6">Geburtstagspaket 1</span>
                     </button>
-                </h2>
-                <div id="paket1" class="accordion-collapse collapse" aria-labelledby="paket1Header" data-bs-parent="geburtstagspaket">
+                </div>
+                <div id="paket1" class="accordion-collapse collapse" aria-labelledby="paket1Header" data-bs-parent="geburtstagspakete">
                     <div class="accordion-body">
 						<h6>Enthält</h6>
 						<ul>
@@ -52,11 +52,13 @@
 							<li>ein <span class="text-primary">Thron</span> für das Geburtstagskind mit Namen</li>
 							<li><span class="text-primary">1 Slush-Eisgetränk (0,2l)</span> nach Wahl für alle Kinder</li>
 						</ul>
+
 						<h6>Außerdem</h6>
 						<ul>
 							<li>Das Geburtstagskind erhält 1 Eintritts-Gutschein für den nächsten Besuch, wenn der Geburtstag nicht länger als 10 Tage zurück liegt, oder in der Zukunft liegt.</li>
 						    <li>2 Erwachsene als Begleitpersonen haben freien Eintritt.</li>
 						</ul>
+
 						<h6>Anforderung</h6>
                         <ul>
                             <li>
@@ -71,12 +73,12 @@
                 </div>
             </div>
             <div class="accordion-item">
-                <h2 class="accordion-header" id="paket2Header">
+                <div class="accordion-header" id="paket2Header">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#paket2" aria-expanded="false" aria-controls="paket2">
                     	<span class="badge bg-secondary fs-6">Geburtstagspaket 2</span>
                     </button>
-                </h2>
-                <div id="paket2" class="accordion-collapse collapse" aria-labelledby="paket2Header" data-bs-parent="geburtstagspaket">
+                </div>
+                <div id="paket2" class="accordion-collapse collapse" aria-labelledby="paket2Header" data-bs-parent="geburtstagspakete">
                     <div class="accordion-body">
                         <h6>Enthält</h6>
                         <ul>
@@ -89,6 +91,7 @@
                                 </ul>
                             <li>eine <span class="text-secondary">Freifahrt mit den Autoscooter</span> für alle Kinder</li>
                         </ul>
+
                         <h6>Anforderung</h6>
                         <ul>
                             <li>
@@ -103,11 +106,9 @@
                 </div>
             </div>
         </div>
-		<br>
+
 		<h5>Sonstige Informationen</h5>
-		<p>Gerne darfst Du Dir Deinen eigenen Geburtstagskuchen mitbringen.<br>
-		Thermoskannen mit heißen Getränken oder Kerzen - auch auf dem Kuchen - sind leider nicht erlaubt, denn hier besteht ein erhöhtes Gefahrenpotenzial.<br>
-		Hier haben wir ein paar tolle Vorlagen für deine Geburtstagseinladung in unserem <a href="#">Downloadbereich</a>!</p>
+		<p>Gerne darfst Du Dir Deinen eigenen Geburtstagskuchen mitbringen.	Thermoskannen mit heißen Getränken oder Kerzen - auch auf dem Kuchen - sind leider nicht erlaubt, denn hier besteht ein erhöhtes Gefahrenpotenzial. Hier haben wir ein paar tolle Vorlagen für deine Geburtstagseinladung in unserem <a href="#">Downloadbereich</a>!</p>
 		<p>Du hast noch Fragen? Telefonisch sind wir während der Öffnungszeiten für dich erreichbar.</p>
 	</div>
 </div>
@@ -118,8 +119,8 @@
             Buchungsformular
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded-top">
-        <div class="mb-4">
+    <div class="container-lg p-4 bg-white rounded-top">
+        <div class="mb-3">
             <h5>Wann</h5>
             <div class="input-group mb-2">
                 <span class="input-group-text bg-info" id="datum">Datum</span>
@@ -142,7 +143,8 @@
                 </select>
             </div>
         </div>
-        <div class="mb-4">
+
+        <div class="mb-3">
             <h5>Angaben zum Geburtstagskind</h5>
             <div class="input-group mb-2">
                 <span class="input-group-text bg-primary" id="vorname">Vorname</span>
@@ -157,7 +159,8 @@
                 <input type="text" class="form-control" placeholder="TT.MM.JJJJ" aria-describedby="geburtstag">
             </div>
         </div>
-        <div class="mb-4">
+
+        <div class="mb-3">
             <h5>Angaben zu der buchenden Person</h5>
             <div class="input-group mb-2">
                 <span class="input-group-text bg-secondary" id="vorname">Vorname</span>
@@ -180,7 +183,8 @@
                 <input type="mail" class="form-control" placeholder="E-Mail bestätigen" aria-describedby="emailbestaetigen">
             </div>
         </div>
-        <div class="mb-4">
+
+        <div class="mb-3">
             <h5>Angaben zur Feier</h5>
             <div class="input-group mb-2">
                 <label class="input-group-text bg-info" for="ueber3">Kinder über 3 Jahre</label>
@@ -199,8 +203,8 @@
                 </select>
             </div>
             <div class="input-group mb-2">
-                <label class="input-group-text bg-info" for="ueber3">Kinder unter 3 Jahre</label>
-                <select class="form-select" id="ueber3">
+                <label class="input-group-text bg-info" for="unter3">Kinder unter 3 Jahre</label>
+                <select class="form-select" id="unter3">
                     <option selected>Anzahl</option>
                     <option value="1">0</option>
                     <option value="2">1</option>
@@ -251,9 +255,10 @@
                 </select>
             </div>
         </div>
-        <div class="mb-4">
+
+        <div class="mb-3">
             <h5>Tischauswahl</h5>
-            <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 mb-3 justify-content-center">
+            <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch1.jpg" class="card-img-top">
                     <div class="p-3">
@@ -312,28 +317,31 @@
                 </div>
             </div>
         </div>
+
         <div>
             <h5>Bedingungen</h5>
             <p>Tisch wird 1x eingedeckt. Für Kuchen: Pappteller/Becher mitbringen. Kuchen, Süsses, Obst/Gemüse mitbringen. Bitte keine Thermoskannen mit heißen Getränken, deftiges Essen oder Kerzen mit bringen. Stoppersocken nicht vergessen! Bei uns besteht aus hygienischen Gründen Sockenpflicht. Stoppersocken können bei uns auch käuflich erworben werden. Ansonsten gelten unsere <a href="agb.php">Nutzungsbedingungen</a>.</p>
 
             <h5>Hinweis</h5>
             <p>Nach Absenden des Formulares geht Ihnen eine Email zu mit einem Bestätigungslink zu. Bitte klicken Sie diesen an, um die Bestellung verbindlich zu bestätigen.<br>
-            Ohne anklicken des Links ist diese Bestellung nicht gültig!</p>
+            <span class="text-danger">Ohne anklicken des Links ist diese Bestellung nicht gültig!</span></p>
         </div>
-        <div class="mb-4">
+
+        <div class="mb-3">
             <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="agb">
+                <input class="form-check-input" type="checkbox" id="agb">
                 <label class="form-check-label" for="agb">
                     Ich habe die <a href="agb.php">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="datenschutz">
+                <input class="form-check-input" type="checkbox" id="datenschutz">
                 <label class="form-check-label" for="datenschutz">
                     Ich habe die <a href="datenschutz.php">Datenschutzerklärung</a> zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an <a href="mailto:fun@springolino.de">fun@springolino.de</a> wiederrufen.
                 </label>
             </div>
         </div>
+
         <a href="#" class="btn btn-danger">Kostenpliflichtig bestellen</a>
     </div>
 </div>

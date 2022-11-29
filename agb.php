@@ -2,11 +2,10 @@
 
 <style>
     body {
+        margin-top: 25vh;
         background-image: url(img/bg1.jpg);
     }
 </style>
-
-<div style="height: 20vh;"></div>
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
@@ -14,7 +13,7 @@
             Allgemeine Geschäftsbedingungen
         </h1>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <div class="dropdown mb-3">
             <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
@@ -29,6 +28,7 @@
                 <li><a class="dropdown-item" href="#gotoZutritt">Zutritt</a></li>
             </ul>
         </div>
+
         <h5>Regeln im Springolino (AGB)</h5>
         <p>Die Regeln dienen vor allem der Sicherheit der spielenden Personen sowie dem Erhalt der Spielgeräte, dem entspannten miteinander und der Entlastung des Betreibers und seiner Mitarbeiter. Mit dem betreten der Spieleinrichtung werden die Regeln anerkannt.</p>
         <p>Wir bitten Sie diese Regeln zu lesen, einzuhalten und auch Ihre Kinder entsprechend aufzuklären und anzuweisen.</p>
@@ -43,7 +43,7 @@
             Allgemeines
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Die jeweils gültigen Preise und Öffnungszeiten sind im Aushang an der Kasse und unseren Informationsblättern zu entnehmen.</li>
             <li class="list-group-item">Das Mitbringen von Tieren ist nicht gestattet</li>
@@ -61,7 +61,7 @@
             Keine Aufsichtspflicht und Haftungsfreistellung
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Die Aufsicht- und Betreuungspflicht obliegt einzig den Eltern bzw. den begleitenden Erwachsenen. Kindern ist der Besuch nur in Begleitung eines Aufsichtspflichtigen Erwachsenen gestattet, es sei denn, das Kind ist mindestens 12 Jahre alt und das entsprechende Einverständnis- und Haftungsfreistellungsformular wurde von einem Aufsichtspflichtigen unterschrieben und von dem jeweiligen Kind ein gültiger Lichtbildausweis vorgelegt.</li>
             <li class="list-group-item">Der Betreiber und seine Mitarbeiter übernehmen in keinem Fall, auch nicht bei allein spielenden Kindern mit Haftungsfreistellung, eine Aufsicht –  und Betreuungspflicht. Dies gilt auch dann, wenn der Betreiber eine Sonderaktion für die Kinder durchführt (z.B. Karneval, etc.).</li>
@@ -76,7 +76,7 @@
             Benutzung der Spielgeräte
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Die an den Spielgeräten angebrachten Hinweise, Regeln und Verbote sind zu beachten! Die Benutzung erfolgt auf eigene Gefahr und erfordert Rücksichtnahme auf die Anderen Besucher. Die Begleitpersonen sind angehalten dem Kind / den Kindern die Spielregeln zu erläutern und auf ihre Einhaltung zu achten.</li>
             <li class="list-group-item">Der Kleinkinderbereich ist nur für Krabbel- und Kleinkinder bestimmt. Störende Kinder über 5 Jahre dürfen vom Betreiber, seinen Mitarbeitern, sowie von Kleinkindermüttern aus dem Bereich verwiesen werden.</li>
@@ -90,7 +90,7 @@
             Außenbereich
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Der Außenbereich darf nur durch die dafür vorgesehene Tür/Türen betreten werden, die Benutzung der Fluchttüren ist außerhalb eines Notfalls absolut verboten!</li>
             <li class="list-group-item">Zur Sicherheit der eigenen und der anderen Kinder darf im gesamten Spielbereich kein eigenes Spielzeug benutzt werden. Vor allem ist es strikt untersagt, harte, lose oder spitze Gegenstände mit in den Spielbereich zu nehmen (dies gilt z.B. auch für neue Geburtstagsgeschenke).</li>
@@ -104,7 +104,7 @@
             Videoüberwachung und Unfallmeldung
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Wir weisen darauf hin, dass der gesamte Spiel- und Gastronomiebereich videoüberwacht ist. Mit Nutzung der Räumlichkeiten wird diesem Vorgehen ausdrücklich zugestimmt.</li>
             <li class="list-group-item">Sollte Ihnen etwas gestohlen worden sein, bitte unverzüglich an der Information melden.</li>
@@ -121,7 +121,7 @@
             Bekleidung
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Aus hygienegründen sollten Socken, am besten Stoppersocken oder auch Gymnastikschläppchen getragen werden. Socken können Sie an der Information kaufen.</li>
             <li class="list-group-item">Kinder oder spielende Erwachsene sollten bequeme Kleidung tragen. Bitte keine außenliegenden Reißverschlüsse oder Knöpfe, da damit die Folien der Spielgeräte beschädigt werden.</li>
@@ -136,7 +136,7 @@
             Speisen, Getränke, Rauchen und Alkohol
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Unsere Gastronomie bietet Ihnen ein reichhaltiges Angebot an Speisen und Getränken. Um die Preise fair und familiengerecht halten zu können, appellieren wir an Ihr Verständnis, dass wir das Mitbringen von Speisen und Getränken nicht gestatten können. Davon ausgenommen  sind Allergiker- und Babynahrung. Für Geburtstagsbuchungen gelten etwas andere Regeln, siehe dazu Geburtstags Info.</li>
             <li class="list-group-item">Im Springolino gilt Kaugummiverbot!</li>
@@ -154,7 +154,7 @@
             Verhalten und Beschädigungen
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Schlechtes Benehmen andere Kinder, z.B kratzen, beißen, schlagen, Schimpfwörter etc. wird nicht toleriert. Die aufsichtspflichtigen Eltern werden gebeten, diese Verhaltensweisen zu unterbinden. Dem Betreiber und seinen Mitarbeitern ist es ausdrücklich gestattet, Kinder in einem solchen Fall abzumahnen und im Wiederholungsfall Spielverbot zu erteilen. In einem solchen Fall wird der Eintrittspreis nicht erstattet. In besonders gravierenden Fällen, behält sich der Betreiber vor, einzelnen Personen Hausverbot zu erteilen.</li>
             <li class="list-group-item">Bei Beschädigungen besteht seitens des Springolinos ein Schadenersatzanspruch, sofern Verschulden vorgeworfen werden kann. Wir möchten Sie bitten, uns diese Fälle anzuzeigen, damit wir sie mit der Haftpflichtversicherung Ihres Kindes abklären können.</li>
@@ -170,7 +170,7 @@
             Keinen Zutritt haben
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded">
+    <div class="container-lg p-4 bg-white rounded">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Erwachsene ohne Begleitung von Kindern (ausgenommen nachzügelnde und vorher angemeldete Erwachsene).</li>
             <li class="list-group-item">Personen mit Hausverbot.</li>
@@ -186,7 +186,7 @@
             Salvatorische Klausel
         </h3>
     </div>
-    <div class="container-lg p-5 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white rounded-top">
         <p>Sollten einzelne Regelungen unwirksam sein oder werden, so ist dadurch die Wirksamkeit der übrigen Regelungen nicht betroffen.</p>
         <p>Zum Wohle eines sicheren Besuches und des zu beschützenden Kindes, bitten wir um Verständnis dieser Regelungen und wünschen viel Spaß in unserem größten Indoor- Spielplatz OWL`s!</p>
         <p class="fst-italic">Ihr Springolino Team</p>
