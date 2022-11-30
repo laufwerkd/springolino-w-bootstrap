@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/main.min.css" rel="stylesheet">
-        <link rel="icon" href="img/icons/mascot.png">
+        <link rel="icon" href="img/icon/mascot.png">
         <title>Springolino</title>
 
         <style>
@@ -34,7 +34,7 @@
         <header class="container-lg position-fixed top-0 start-50 translate-middle-x px-4 py-3" style="z-index: 2000;">
             <nav class="navbar d-flex flex-row justify-content-between p-0">
                 <a href="index.php" class="navbar-brand m-0 p-0">
-                    <img src="img/icons/logoCentered.png" height="75px" width="auto">
+                    <img src="img/icon/logoCentered.png" height="75px" width="auto">
                 </a>
                 <ul class="navbar-nav d-flex flex-row gap-2">
                     <li class="nav-item">

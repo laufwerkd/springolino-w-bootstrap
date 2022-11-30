@@ -3,7 +3,7 @@
 <style>
     body {
         margin-top: 25vh;
-        background-image: url(img/kettenflieger.jpg);
+        background-image: url(img/bereich/kettenflieger.jpg);
     }
 </style>
 
@@ -17,7 +17,7 @@
         <h5>Der Kettenflieger</h5>
         <p>Spaß für Groß und Klein!<br>
         Unser Kettenkarussell lädt auch Erwachsene zu einer rasanten Fahrt ein! Entdecken Sie das Kind in sich wieder! Die Leichtigkeit des Fliegens spüren und hoch hinaus wollen – ein großer Spass für die ganze Familie!</p>
-        <img src="./img/kettenflieger.jpg" class="rounded-5" alt="Bild von Attraktion" width="100%" height="auto">
+        <img src="img/bereich/kettenflieger.jpg" class="rounded-5" alt="Bild von Attraktion" width="100%" height="auto">
         <small class="text-muted">(links vielleicht noch ein bild, rechts Text/Beschreibung)</small>
     </div>
 </div>

@@ -2,7 +2,7 @@
 
 <style>
     body {
-        background-image: url(img/bg2.jpg);
+        background-image: url(img/bg/bg2.jpg);
     }
 
     .titel {
@@ -23,7 +23,7 @@
     }
 </script>
 
-<div class="position-relative bg" style="background-image: url(img/bg1.jpg); height: 100vh">
+<div class="position-relative bg" style="background-image: url(img/bg/bg1.jpg); height: 100vh">
     <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="font-family: marker; font-size: 5rem;">
         <span class="text-warning">ACTION</span><br>
         <span class="text-light">AND</span> <span class="text-primary">FUN</span><br>
@@ -61,7 +61,7 @@
         <h3>Unsere Attraktionen</h3>
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
-                <img src="img/funhouse.jpg" class="card-img-top">
+                <img src="img/bereich/funhouse.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-secondary">XXL-Funhouse</span></h4>
                     <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen!</p>
@@ -69,7 +69,7 @@
                 </div>
             </div>
             <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
-                <img src="img/trampoline.jpg" class="card-img-top">
+                <img src="img/bereich/trampoline.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-primary">Trampolinpark</span></h4>
                     <p>Höher und noch höher geht es auf unserer Trampolinanlage!</p>
@@ -77,7 +77,7 @@
                 </div>
             </div>
             <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow">
-                <img src="img/wasserspielplatz.jpg" class="card-img-top">
+                <img src="img/bereich/wasserspielplatz.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-info">Wasserspielplatz</span></h4>
                     <p>In unserem neuen Wasserpark könnt ihr spritzen, planschen, toben.</p>
@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
-                <img src="img/vulkan.jpg" class="card-img-top">
+                <img src="img/bereich/vulkan.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-primary">Vulkan-Kletterberg</span></h4>
                     <p>Erklimme den Vulkan und rutsche dann superschnell herunter ins Tal zurück!</p>

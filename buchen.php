@@ -3,7 +3,7 @@
 <style>
     body {
         margin-top: 25vh;
-        background-image: url(img/bg1.jpg);
+        background-image: url(img/bg/bg1.jpg);
     }
 </style>
 
@@ -260,56 +260,56 @@
             <h5>Tischauswahl</h5>
             <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch1.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch1.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch1" autocomplete="off">
                         <label class="btn btn-primary w-100" for="tisch1">Ponyhof</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch2.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch2.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch2" autocomplete="off">
                         <label class="btn btn-info w-100" for="tisch2">Formel 1</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch3.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch3.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch3" autocomplete="off">
                         <label class="btn btn-secondary w-100" for="tisch3">Schatzinsel</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-danger bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch4.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch4.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch4" autocomplete="off">
                         <label class="btn btn-danger w-100" for="tisch4">Halloween</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch5.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch5.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch5" autocomplete="off">
                         <label class="btn btn-info w-100" for="tisch5">Schloss</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch6.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch6.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch6" autocomplete="off" disabled>
                         <label class="btn btn-primary w-100" for="tisch6">Fußball</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch7.jpg" class="card-img-top">
+                    <img src="img/tisch/tisch7.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch7" autocomplete="off" disabled>
                         <label class="btn btn-primary w-100" for="tisch7">Springobox</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
-                    <img src="img/tischStandart.jpg" class="card-img-top">
+                    <img src="img/tisch/tischStandart.jpg" class="card-img-top">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tischStandart" autocomplete="off" disabled>
                         <label class="btn btn-secondary w-100" for="tischStandart">Standart</label>
