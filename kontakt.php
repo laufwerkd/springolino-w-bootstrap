@@ -20,7 +20,7 @@
             <input id="name" name="name" maxlength="50">
             <label for="mail">E-Mail</label>
             <input id="mail" name="email" maxlength="50">
-            <input type="checkbox" name="datenschutz" id="dsgvo">
+            <input type="checkbox" name="datenschutz" id="dsgvo" value="akzeptieren">
             <label for="dsgvo">Ich habe die AGBs und die Datenschutzbestimmungen gelesen und akzeptiert!</label>
             <button class="btn btn-primary" type="submit">Senden</button>
             <button class="btn btn-danger" type="reset">Eingaben löschen</button>
