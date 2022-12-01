@@ -82,8 +82,8 @@
                     <div class="accordion-body">
                         <h6>Enthält</h6>
                         <ul>
-							<li><span class="text-secondary">17,50€ Eintrittspreis</span> pro Kind</li>
                             <li>alles aus <span class="badge bg-primary">Geburtstagspaket 1</span></li>
+							<li><span class="text-secondary">17,50€ Eintrittspreis</span> pro Kind</li>
                             <li>ein <span class="text-secondary">Kindermenü</span> bestehend aus:</li>
                                 <ul>
                                     <li>4 Chicken Nuggets mit Pommes (Mayo und Ketchup) <span class="text-warning">oder</span> 1 Kinderpizza Ø18cm (Margherita, Salami oder Schinken)</li>

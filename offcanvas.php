@@ -58,9 +58,6 @@
                     <a href="jobs.php" class="nav-link text-white">Jobs</a>
                 </li>
                 <li class="nav-item">
-                    <a href="vorlageBereich.php" class="nav-link text-white">Bereich Vorlage</a>
-                </li>
-                <li class="nav-item">
                     <a href="kontakt.php" class="nav-link text-white">Kontakt</a>
                 </li>
             </ul>

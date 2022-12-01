@@ -61,35 +61,35 @@
         <h3>Unsere Attraktionen</h3>
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
-                <img src="img/bereich/funhouse.jpg" class="card-img-top">
+                <img src="img/bereich/funhouse/funhouse1.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-secondary">XXL-Funhouse</span></h4>
                     <p>Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen!</p>
-                    <a href="#" class="stretched-link"></a>
+                    <a href="bereichFunhouse.php" class="stretched-link"></a>
                 </div>
             </div>
             <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
-                <img src="img/bereich/trampoline.jpg" class="card-img-top">
+                <img src="img/bereich/trampoline/trampoline1.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-primary">Trampolinpark</span></h4>
                     <p>Höher und noch höher geht es auf unserer Trampolinanlage!</p>
-                    <a href="#" class="stretched-link"></a>
+                    <a href="bereichTrampoline.php" class="stretched-link"></a>
                 </div>
             </div>
             <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow">
-                <img src="img/bereich/wasserspielplatz.jpg" class="card-img-top">
+                <img src="img/bereich/wasserspielplatz/wasserspielplatz1.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-info">Wasserspielplatz</span></h4>
                     <p>In unserem neuen Wasserpark könnt ihr spritzen, planschen, toben.</p>
-                    <a href="#" class="stretched-link"></a>
+                    <a href="bereichWasserspielplatz.php" class="stretched-link"></a>
                 </div>
             </div>
             <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
-                <img src="img/bereich/vulkan.jpg" class="card-img-top">
+                <img src="img/bereich/vulkan/vulkan1.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-primary">Vulkan-Kletterberg</span></h4>
                     <p>Erklimme den Vulkan und rutsche dann superschnell herunter ins Tal zurück!</p>
-                    <a href="#" class="stretched-link"></a>
+                    <a href="bereichVulkan.php" class="stretched-link"></a>
                 </div>
             </div>
         </div>
