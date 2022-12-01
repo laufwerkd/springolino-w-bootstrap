@@ -5,6 +5,19 @@
         margin-top: 25vh;
         background-image: url(img/bg/bg1.jpg);
     }
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+
 </style>
 
 <div class="modul">
@@ -34,7 +47,7 @@
                 <label for="mail">E-Mail</label>
                 <input id="mail" name="email" maxlength="50" placeholder="z.B. max.mustermann@mustermail.de"><br>
                 <label for="msg">Ihre Nachricht:</label>
-                <input id="msg" name="msg" minlength="10" placeholder="Nachricht..."><br>
+                <textarea id="msg" name="msg" minlength="10" placeholder="Nachricht..." style="height:200px"><br>
                 <input type="checkbox" name="datenschutz" id="dsgvo" value="akzeptieren">
                 <label for="dsgvo">Ich habe die AGBs und die Datenschutzbestimmungen gelesen und akzeptiert!</label><br>
                 <button class="btn btn-primary" type="submit">Senden</button>
