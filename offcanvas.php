@@ -60,6 +60,9 @@
                 <li class="nav-item">
                     <a href="kontakt.php" class="nav-link text-white">Kontakt</a>
                 </li>
+                <li class="nav-item">
+                    <a href="anfahrt.php" class="nav-link text-white">Anfahrt</a>
+                </li>
             </ul>
             <span class="text-muted">Temporär (soll hier in zukunft nicht stehen)</span>
         </nav>

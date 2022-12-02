@@ -6,18 +6,16 @@
         background-image: url(img/bg/bg1.jpg);
     }
 
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid rgb(255, 255, 255);
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-
+    input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+    }
 </style>
 
 <div class="modul">
@@ -36,7 +34,7 @@ input[type=text], select, textarea {
                 Telefon : 0 52 21 – 69 24 24<br>
                 Telefax : 0 52 21 – 69 24 25<br>
                 E-Mail : fun@springolino.de</p><br>
-    </div>   
+    </div>
 </div>
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
