@@ -13,9 +13,9 @@
             Jobangebote
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="dropdown mb-3">
-            <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
+            <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoAushilfe">Aushilfskraft</a></li>
             </ul>
@@ -32,7 +32,7 @@
             Aushilfskraft
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Aufpasser und Helfer</h5>
         <p>Diese Stelle ist sehr vielfältig. Du steht vorne am Eingang und begüßt unsere Besucher, Arbeitest viel mit den Kunden und hilfst ihnen falls Fragen auftauchen oder Hilfe benötigt wird.</p>
         <small class="text-muted">(vielleicht noch bild und button)</small>
@@ -45,7 +45,7 @@
             Bistro
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Kochen und Vorbereiten</h5>
         <p>Unsere Beuschen haben Hunger. Im Bistro kannst du helfen Essen zuzubereiten und Geburtstage für den nächsten Tag vorzubereiten.</p>
         <small class="text-muted">(vielleicht noch bild und button)</small>
@@ -58,7 +58,7 @@
             Putzkraft
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
         <h5>Den letzten Fleck entfernen</h5>
         <p>Nach einem langen Tag im Springolino wird vieles natürlich Dreckig sein. Deine Mitarbeiter versuchen vor Ladenschluss das größt Mögliche sauber zu bekommen. Das schaffen sie aber nicht alleine und benötigen dabei deine Hilfe.</p>
         <small class="text-muted">(vielleicht noch bild und button)</small>

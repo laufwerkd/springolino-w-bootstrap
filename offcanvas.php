@@ -4,10 +4,9 @@
             <ul class="navbar-nav d-flex flex-column gap-3 mb-4">
                 <li class="nav-item d-sm-none">
                     <a href="buchen.php" class="btn px-5 py-3 w-100 bg-primary bg-opacity-50 rounded-pill" style="backdrop-filter: blur(2px);">
-                        <span class="align-middle text-white text-nowrap fs-1 fw-bold" style="font-family: marker;">Buchen </span>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-calendar-date-fill text-white" viewBox="0 0 16 16">
-                            <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zm5.402 9.746c.625 0 1.184-.484 1.184-1.18 0-.832-.527-1.23-1.16-1.23-.586 0-1.168.387-1.168 1.21 0 .817.543 1.2 1.144 1.2z"/>
-                            <path d="M16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zm-6.664-1.21c-1.11 0-1.656-.767-1.703-1.407h.683c.043.37.387.82 1.051.82.844 0 1.301-.848 1.305-2.164h-.027c-.153.414-.637.79-1.383.79-.852 0-1.676-.61-1.676-1.77 0-1.137.871-1.809 1.797-1.809 1.172 0 1.953.734 1.953 2.668 0 1.805-.742 2.871-2 2.871zm-2.89-5.435v5.332H5.77V8.079h-.012c-.29.156-.883.52-1.258.777V8.16a12.6 12.6 0 0 1 1.313-.805h.632z"/>
+                        <span class="align-middle text-white text-nowrap fs-1 fw-bold" style="font-family: marker;">Geburtstag </span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-balloon-fill text-white" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M8.48 10.901C11.211 10.227 13 7.837 13 5A5 5 0 0 0 3 5c0 2.837 1.789 5.227 4.52 5.901l-.244.487a.25.25 0 1 0 .448.224l.04-.08c.009.17.024.315.051.45.068.344.208.622.448 1.102l.013.028c.212.422.182.85.05 1.246-.135.402-.366.751-.534 1.003a.25.25 0 0 0 .416.278l.004-.007c.166-.248.431-.646.588-1.115.16-.479.212-1.051-.076-1.629-.258-.515-.365-.732-.419-1.004a2.376 2.376 0 0 1-.037-.289l.008.017a.25.25 0 1 0 .448-.224l-.244-.487ZM4.352 3.356a4.004 4.004 0 0 1 3.15-2.325C7.774.997 8 1.224 8 1.5c0 .276-.226.496-.498.542-.95.162-1.749.78-2.173 1.617a.595.595 0 0 1-.52.341c-.346 0-.599-.329-.457-.644Z"/>
                         </svg>
                     </a>
                 </li>
@@ -64,7 +63,7 @@
                     <a href="anfahrt.php" class="nav-link text-white">Anfahrt</a>
                 </li>
             </ul>
-            <span class="text-muted">Temporär (soll hier in zukunft nicht stehen)</span>
+            <span class="text-muted">(Temporär)</span>
         </nav>
     </div>
 </div>

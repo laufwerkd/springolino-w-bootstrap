@@ -13,9 +13,9 @@
             Dein Kindergeburtstag im Springolino
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="dropdown mb-3">
-            <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
+            <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoPakete">Geburtstagspakete</a></li>
                 <li><a class="dropdown-item" href="#gotoFormular">Buchungsformular</a></li>
@@ -33,7 +33,7 @@
             Geburtstagspakete
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
 		<div class="accordion mb-3" id="geburtstagspakete">
             <div class="accordion-item">
                 <div class="accordion-header" id="paket1Header">
@@ -119,7 +119,7 @@
             Buchungsformular
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
         <div class="mb-3">
             <h5>Wann</h5>
             <div class="input-group mb-2">
@@ -342,7 +342,7 @@
             </div>
         </div>
 
-        <a href="#" class="btn btn-danger">Kostenpliflichtig bestellen</a>
+        <a href="#" class="btn btn-danger">Kostenpflichtig bestellen</a>
     </div>
 </div>
 

@@ -13,8 +13,8 @@
             Airhockey
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top" style="min-height: 66vh">
-        <a href="entdecken.php" class="btn btn-outline-danger mb-3">zurück</a>
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px); min-height: 66vh">
+        <a href="entdecken.php" class="btn btn-danger mb-3">zurück</a>
 
         <h5>Airhockey Tisch</h5>
         <p>An unseren Airhockey-Tischen könnt Ihr Euer Geschick unter Beweis stellen und Euch ein spannendes Match mit Euren Freunden liefern! Lasst den Air-Hockey-Puk rasant schnell über den Spieltisch gleiten und spielt Eure Freunde aus!</p>

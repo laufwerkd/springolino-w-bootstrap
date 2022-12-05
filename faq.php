@@ -13,7 +13,7 @@
             FAQ
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="dropdown mb-3">
             <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
@@ -34,8 +34,8 @@
             Besucherverhalten
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
-        <div class="accordion accordion-flush" id="besucherverhalten">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+        <div class="accordion accordion-flush" id="besucherverhalten" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="schuheHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#schuhe" aria-expanded="false" aria-controls="schuhe">
@@ -84,8 +84,8 @@
             Eintritt
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
-        <div class="accordion accordion-flush" id="eintritt">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+        <div class="accordion accordion-flush" id="eintritt" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="stundentarifHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#stundentarif" aria-expanded="false" aria-controls="stundentarif">
@@ -186,8 +186,8 @@
             Mitbringsel
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
-        <div class="accordion accordion-flush" id="mitbringsel">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+        <div class="accordion accordion-flush" id="mitbringsel" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="speisTrankHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#speisTrank" aria-expanded="false" aria-controls="speisTrank">

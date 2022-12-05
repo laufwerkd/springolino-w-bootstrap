@@ -13,9 +13,9 @@
             Datenschutz
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="dropdown mb-3">
-            <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
+            <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoBlick">Auf einen Blick</a></li>
                 <li><a class="dropdown-item" href="#gotoAllgemeines">Allgemeines</a></li>
@@ -29,11 +29,11 @@
         <p>Bitte wählen Sie welche Cookies weitergeleitet werden. Weitere Informationen zu den Auswirkungen Ihrer Auswahl finden Sie unter Hilfe.</p>
         <div class="d-flex flex-column flex-sm-row gap-2">
             <input type="radio" class="btn-check" name="cookies" id="alle" autocomplete="off" checked>
-            <label class="btn btn-outline-primary" for="alle">Alle Cookies</label>
+            <label class="btn btn-primary" for="alle">Alle Cookies</label>
             <input type="radio" class="btn-check" name="cookies" id="first-party" autocomplete="off">
-            <label class="btn btn-outline-info" for="first-party">Nur First-Party-Cookies</label>
+            <label class="btn btn-info" for="first-party">Nur First-Party-Cookies</label>
             <input type="radio" class="btn-check" name="cookies" id="btnradio3" autocomplete="off">
-            <label class="btn btn-outline-danger" for="btnradio3">Keine Cookies</label>
+            <label class="btn btn-danger" for="btnradio3">Keine Cookies</label>
         </div>
     </div>
 </div>
@@ -44,7 +44,7 @@
             Datenschutz auf einen Blick
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Allgemeine Hinweise</h5>
         <p>Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.</p>
 
@@ -62,7 +62,7 @@
             Allgemeine Hinweise und Pflichtinformationen
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Datenschutz</h5>
         <p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
 
@@ -98,7 +98,7 @@
             Datenerfassung auf unserer Website
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Cookies</h5>
         <p>Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die meisten der von uns verwendeten Cookies sind so genannte “Session-Cookies”. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen. Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein. Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Ihnen erwünschter Funktionen (z.B. Warenkorbfunktion) erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Soweit andere Cookies (z.B. Cookies zur Analyse Ihres Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.</p>
 
@@ -131,7 +131,7 @@
             Analyse Tools und Werbung
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Google Analytics</h5>
         <p>Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics verwendet so genannte „Cookies“. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Die Speicherung von Google-Analytics-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren. IP Anonymisierung Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Browser Plugin Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">dieses</a> Browser-Plugin herunterladen und installieren. Widerspruch gegen Datenerfassung Sie können die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zukünftigen Besuchen dieser Website verhindert: Google Analytics deaktivieren. Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der <a href="https://support.google.com/analytics/answer/6004245?hl=de" target="_blank">Datenschutzerklärung</a> von Google. Auftragsdatenverarbeitung Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um Demografische Merkmale bei Google Analytics Diese Website nutzt die Funktion “demografische Merkmale” von Google Analytics. Dadurch können Berichte erstellt werden, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Diese Daten können keiner bestimmten Person zugeordnet werden. Sie können diese Funktion jederzeit über die Anzeigeneinstellungen in Ihrem Google-Konto deaktivieren oder die Erfassung Ihrer Daten durch Google Analytics wie im Punkt “Widerspruch gegen Datenerfassung” dargestellt generell untersagen.</p>
     </div>
@@ -143,7 +143,7 @@
             Plugins und Tools
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
         <h5>YouTube</h5>
         <p>Unsere Website nutzt Plugins der von Google betriebenen Seite YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.</p>
         <p>Wenn Sie eine unserer mit einem YouTube-Plugin ausgestatteten Seiten besuchen, wird eine Verbindung zu den Servern von YouTube hergestellt. Dabei wird dem YouTube-Server mitgeteilt, welche unserer Seiten Sie besucht haben. Wenn Sie in Ihrem YouTube-Account eingeloggt sind, ermöglichen Sie YouTube, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem YouTube-Account ausloggen. Die Nutzung von YouTube erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.</p>

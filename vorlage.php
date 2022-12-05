@@ -13,9 +13,9 @@
             Modul Überschrift
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="dropdown mb-3">
-            <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
+            <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#goto">Link</a></li>
             </ul>
@@ -32,7 +32,7 @@
             Bereich
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Text mit Titel</h5>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo, laboriosam eligendi! Recusandae incidunt illum nisi dolor quasi, ab ea cum repudiandae facilis beatae, explicabo amet. Corrupti nemo quae saepe tempore?</p>
 

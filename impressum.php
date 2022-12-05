@@ -13,7 +13,7 @@
             Impressum
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
         <h5>Angaben gemäß § 5 TMG</h5>
         <p>Springolino GmbH<br>
         Ackerstraße 35<br>
@@ -41,7 +41,10 @@
         <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
         <h5>Programmierung</h5>
-        <p>Webentwicklung und Programmierung: (KOMMT)</p>
+        <p>Webentwicklung und Programmierung:<br>
+        Daniel Akinschin<br>
+        Fabian Weber<br>
+        Luisa Klaschka</p>
 
         <h5>Haftung für Inhalte</h5>
         <p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>

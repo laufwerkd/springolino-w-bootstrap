@@ -13,8 +13,8 @@
             Autoscooter
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top" style="min-height: 66vh">
-        <a href="entdecken.php" class="btn btn-outline-danger mb-3">zurück</a>
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px); min-height: 66vh">
+        <a href="entdecken.php" class="btn btn-danger mb-3">zurück</a>
 
         <h5>Der Autoscooter</h5>
         <p>Heiße Reifen und scharfe Kurven wie auf dem Kirmesplatz- das erwartet Euch auf unserer Autoscooter-Bahn! Entdecke den Driver in Dir und drehe ein Paar wilde Runden!<br>

@@ -13,10 +13,10 @@
             Preise & Öffnungszeiten
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="d-flex flex-row mb-3 gap-2">
-            <a href="#gotoEintrittspreise" class="btn btn-outline-info">Eintrittspreise</a>
-            <a href="#gotoOeffnungszeiten" class="btn btn-outline-primary">Öffnungszeiten</a>
+            <a href="#gotoEintrittspreise" class="btn btn-info">Eintrittspreise</a>
+            <a href="#gotoOeffnungszeiten" class="btn btn-primary">Öffnungszeiten</a>
         </div>
 
         <h5>Eintrittspreise und Öffnungszeiten des Springolino</h5>
@@ -30,7 +30,8 @@
             Eintrittspreise
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+        <h5>Eintrittskarten</h5>
         <table class="table">
             <tbody>
                 <tr>
@@ -74,7 +75,7 @@
             Öffnungszeiten
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>
@@ -117,11 +118,12 @@
             Öffnungszeiten Ostern
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+        <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>
                 <tr>
-                    <td>Gesamte Osterferien in NRW (<span class="text-danger">außer Mittwochs</span>), Karfreitag, Karsamstag und Ostermontag</td>
+                    <td>Gesamte Osterferien in NRW (<span class="text-danger">außer Mittwochs</span>)</td>
                     <td class="text-end">11:00 - 19:00 Uhr</td>
                 </tr>
                 <tr>
@@ -139,11 +141,12 @@
             Öffnungszeiten Weihnachten / Silvester
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white rounded-top">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+        <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>
                 <tr>
-                    <td>Gesamte Weihnachtsferien in NRW (<span class="text-danger">außer Mittwochs</span>), Karfreitag, Karsamstag und Ostermontag</td>
+                    <td>Gesamte Weihnachtsferien in NRW (<span class="text-danger">außer Mittwochs</span>)</td>
                     <td class="text-end">11:00 - 19:00 Uhr</td>
                 </tr>
                 <tr>
