@@ -46,18 +46,18 @@
     </h1>
 </div>
 
-<div class="container-fluid p-5 bg-white bg-opacity-75 text-center" id="scrollen" style="backdrop-filter: blur(7.5px);">
+<div class="container-fluid p-5 bg-white bg-opacity-75 text-center" id="scrollen" style="backdrop-filter: blur(15px);">
     <h1 class="fw-bold">Willkommen im Springolino</h1>
     <h4>Springolino ist <span class="text-decoration-underline">DAS</span> In- & Outdoor-Spieleparadies für Groß und Klein in Herford</h4>
 </div>
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Entdecken Sie das Springolino
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h3>Unsere Attraktionen</h3>
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow">
@@ -101,15 +101,6 @@
     </div>
 </div>
 
-<div class="modul">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
-            Aktuelles
-        </h3>
-    </div>
-    <div class="container-lg p-4 text-center bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
-        <small class="text-muted">Zurzeit gibt es nichts neues</small>
-    </div>
-</div>
+<?php include 'standart.php'; ?>
 
 <?php include 'footer.php'; ?>

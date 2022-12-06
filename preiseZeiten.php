@@ -141,7 +141,7 @@
             Öffnungszeiten Weihnachten / Silvester
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>
@@ -157,5 +157,7 @@
         </table>
     </div>
 </div>
+
+<?php include 'standart.php'; ?>
 
 <?php include 'footer.php'; ?>

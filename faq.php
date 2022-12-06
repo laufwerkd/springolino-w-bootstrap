@@ -186,7 +186,7 @@
             Mitbringsel
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
         <div class="accordion accordion-flush" id="mitbringsel" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="speisTrankHeader">
@@ -243,5 +243,7 @@
         </div>
     </div>
 </div>
+
+<?php include 'standart.php'; ?>
 
 <?php include 'footer.php'; ?>

@@ -9,11 +9,11 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Entdecken Sie das Springolino
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="dropdown mb-3">
             <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
@@ -30,11 +30,11 @@
 
 <div class="modul" id="gotoGrosse">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Große Bereiche
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-secondary bg-opacity-25 border-0 shadow" id="gotoFunhouse">
                 <img src="img/bereich/funhouse/funhouse1.jpg" class="card-img-top">
@@ -98,11 +98,11 @@
 
 <div class="modul" id="gotoKleine">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Kleinere Bereiche
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
             <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow" id="gotoKleinkinder">
                 <img src="img/bereich/kleinkinder/kleinkinder1.jpg" class="card-img-top">
@@ -187,5 +187,7 @@
         </div>
     </div>
 </div>
+
+<?php include 'standart.php'; ?>
 
 <?php include 'footer.php'; ?>

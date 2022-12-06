@@ -9,7 +9,7 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
             Anfahrt
         </h1>
     </div>

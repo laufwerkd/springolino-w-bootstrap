@@ -1,7 +1,7 @@
         </main>
 
         <footer>
-            <div class="container-lg p-1 bg-gray bg-opacity-75" style="backdrop-filter: blur(7.5px);">
+            <div class="container-lg p-2 bg-gray">
                 <nav class="navbar d-flex flex-row justify-content-center p-0">
                     <ul class="navbar-nav d-flex flex-row gap-4">
                         <li class="nav-item">
