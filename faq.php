@@ -9,13 +9,13 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             FAQ
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="dropdown mb-3">
-            <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
+            <button class="btn btn-outline-dark dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoBesucherverhalten">Besucherverhalten</a></li>
                 <li><a class="dropdown-item" href="#gotoEintritt">Eintritt</a></li>
@@ -30,11 +30,11 @@
 
 <div class="modul" id="gotoBesucherverhalten">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Besucherverhalten
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="accordion accordion-flush" id="besucherverhalten" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="schuheHeader">
@@ -57,7 +57,7 @@
                 </h2>
                 <div id="alleine" class="accordion-collapse collapse" aria-labelledby="alleineHeader" data-bs-parent="besucherverhalten">
                     <div class="accordion-body">
-                        Ja, allerdings erst ab 12 Jahren, mit einer schriftlichen Erlaubnis eines Erziehungsberechtigten und unter Vorlage eines gültigen Lichtbildausweises / Schülerausweises, (siehe <a href="#">Downloads</a>).
+                        Ja, allerdings erst ab 12 Jahren, mit einer schriftlichen Erlaubnis eines Erziehungsberechtigten und unter Vorlage eines gültigen Lichtbildausweises / Schülerausweises, (siehe <a href="#" class="text-secondary">Downloads</a>).
                     </div>
                 </div>
             </div>
@@ -80,11 +80,11 @@
 
 <div class="modul" id="gotoEintritt">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Eintritt
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="accordion accordion-flush" id="eintritt" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="stundentarifHeader">
@@ -182,11 +182,11 @@
 
 <div class="modul" id="gotoMitbringsel">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-white bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Mitbringsel
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="accordion accordion-flush" id="mitbringsel" style="--bs-accordion-bg: none;">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="speisTrankHeader">

@@ -9,11 +9,11 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Preise & Öffnungszeiten
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="d-flex flex-row mb-3 gap-2">
             <a href="#gotoEintrittspreise" class="btn btn-info">Eintrittspreise</a>
             <a href="#gotoOeffnungszeiten" class="btn btn-primary">Öffnungszeiten</a>
@@ -26,11 +26,11 @@
 
 <div class="modul" id="gotoEintrittspreise">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Eintrittspreise
         </h2>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Eintrittskarten</h5>
         <table class="table">
             <tbody>
@@ -64,18 +64,18 @@
         <h5>Information</h5>
         <p>Bei uns ist das Mitbringen von eigenen Speisen und Getränken nicht gestattet! Wir bitten um Ihr Verständnis.<br>
         Kinder unter 12 Jahren haben nur in Begleitung eines Erwachsenen Zutritt. Kinder über 12 Jahren haben gegen Vorlage eines gültigen Personalausweises und nur mit Unterschrift eines Erziehungsberechtigten
-        Zutritt. Hier können Sie unsere <a href="#">Einverständniserklärung</a> downloaden.<br>
+        Zutritt. Hier können Sie unsere <a href="download/erklaerung.pdf" class="text-secondary" target="_blank">Einverständniserklärung</a> downloaden.<br>
         Falls Sie Interesse an einer Gruppenermäßigung haben, können Sie sich telefonisch unter 05221 – 692424 melden.</p>
     </div>
 </div>
 
 <div class="modul" id="gotoOeffnungszeiten">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Öffnungszeiten
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>
@@ -114,11 +114,11 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Öffnungszeiten Ostern
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>
@@ -137,11 +137,11 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-danger bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-danger bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Öffnungszeiten Weihnachten / Silvester
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Generelle Öffnungszeiten</h5>
         <table class="table">
             <tbody>

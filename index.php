@@ -11,6 +11,12 @@
         left: 33%;
         transform: translate(-50%, -50%);
     }
+
+    .zeiten {
+        position: absolute;
+        bottom: 48px;
+        right: 48px;
+    }
 </style>
 
 <script>
@@ -44,6 +50,13 @@
             </svg>
         </a>
     </h1>
+    <div class="zeiten d-none d-sm-block p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+        <h5 class="m-0">Öffnungszeiten heute: 00:00 - 00:00</h5>
+    </div>
+    <div class="zeiten d-sm-none start-50 p-3 px-4 w-50 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px); transform: translateX(-50%);">
+        <p class="m-0">Öffnungszeiten heute<br>
+        00:00 - 00:00</p>
+    </div>
 </div>
 
 <div class="container-fluid p-5 bg-white bg-opacity-75 text-center" id="scrollen" style="backdrop-filter: blur(15px);">

@@ -9,13 +9,13 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Dein Kindergeburtstag im Springolino
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <div class="dropdown mb-3">
-            <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
+            <button class="btn btn-outline-dark dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
                 <li><a class="dropdown-item" href="#gotoPakete">Geburtstagspakete</a></li>
                 <li><a class="dropdown-item" href="#gotoFormular">Buchungsformular</a></li>
@@ -29,11 +29,11 @@
 
 <div class="modul" id="gotoPakete">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Geburtstagspakete
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
 		<div class="accordion mb-3" id="geburtstagspakete">
             <div class="accordion-item">
                 <div class="accordion-header" id="paket1Header">
@@ -108,18 +108,18 @@
         </div>
 
 		<h5>Sonstige Informationen</h5>
-		<p>Gerne darfst Du Dir Deinen eigenen Geburtstagskuchen mitbringen.	Thermoskannen mit heißen Getränken oder Kerzen - auch auf dem Kuchen - sind leider nicht erlaubt, denn hier besteht ein erhöhtes Gefahrenpotenzial. Hier haben wir ein paar tolle Vorlagen für deine Geburtstagseinladung in unserem <a href="#">Downloadbereich</a>!</p>
+		<p>Gerne darfst Du Dir Deinen eigenen Geburtstagskuchen mitbringen.	Thermoskannen mit heißen Getränken oder Kerzen - auch auf dem Kuchen - sind leider nicht erlaubt, denn hier besteht ein erhöhtes Gefahrenpotenzial. Hier haben wir ein paar tolle Vorlagen für deine Geburtstagseinladung: <a href="download/einladungDL.pdf" class="text-secondary" target="_blank">Einladung Groß</a>, <a href="download/einladungA6.pdf" class="text-secondary" target="_blank">Einladung A6</a>.</p>
 		<p>Du hast noch Fragen? Telefonisch sind wir während der Öffnungszeiten für dich erreichbar.</p>
 	</div>
 </div>
 
 <div class="modul" id="gotoFormular">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Buchungsformular
         </h3>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(15px);">
         <div class="mb-3">
             <h5>Wann</h5>
             <div class="input-group mb-2">
@@ -320,7 +320,7 @@
 
         <div>
             <h5>Bedingungen</h5>
-            <p>Tisch wird 1x eingedeckt. Für Kuchen: Pappteller/Becher mitbringen. Kuchen, Süsses, Obst/Gemüse mitbringen. Bitte keine Thermoskannen mit heißen Getränken, deftiges Essen oder Kerzen mit bringen. Stoppersocken nicht vergessen! Bei uns besteht aus hygienischen Gründen Sockenpflicht. Stoppersocken können bei uns auch käuflich erworben werden. Ansonsten gelten unsere <a href="agb.php">Nutzungsbedingungen</a>.</p>
+            <p>Tisch wird 1x eingedeckt. Für Kuchen: Pappteller/Becher mitbringen. Kuchen, Süsses, Obst/Gemüse mitbringen. Bitte keine Thermoskannen mit heißen Getränken, deftiges Essen oder Kerzen mit bringen. Stoppersocken nicht vergessen! Bei uns besteht aus hygienischen Gründen Sockenpflicht. Stoppersocken können bei uns auch käuflich erworben werden. Ansonsten gelten unsere <a href="agb.php" class="text-secondary">Nutzungsbedingungen</a>.</p>
 
             <h5>Hinweis</h5>
             <p>Nach Absenden des Formulares geht Ihnen eine Email zu mit einem Bestätigungslink zu. Bitte klicken Sie diesen an, um die Bestellung verbindlich zu bestätigen.<br>
@@ -331,13 +331,13 @@
             <div class="form-check">
                 <input class="form-check-input" type="checkbox" id="agb">
                 <label class="form-check-label" for="agb">
-                    Ich habe die <a href="agb.php">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
+                    Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
                 </label>
               </div>
               <div class="form-check">
                 <input class="form-check-input" type="checkbox" id="datenschutz">
                 <label class="form-check-label" for="datenschutz">
-                    Ich habe die <a href="datenschutz.php">Datenschutzerklärung</a> zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an <a href="mailto:fun@springolino.de">fun@springolino.de</a> wiederrufen.
+                    Ich habe die <a href="datenschutz.php" class="text-secondary">Datenschutzerklärung</a> zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a> wiederrufen.
                 </label>
             </div>
         </div>

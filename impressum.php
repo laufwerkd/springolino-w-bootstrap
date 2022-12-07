@@ -9,11 +9,11 @@
 
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(5px);">
+        <h1 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Impressum
         </h1>
     </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(7.5px);">
+    <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(15px);">
         <h5>Angaben gemäß § 5 TMG</h5>
         <p>Springolino GmbH<br>
         Ackerstraße 35<br>
@@ -25,7 +25,7 @@
         <h5>Kontakt</h5>
         <p>Telefon: 05221 – 692424<br>
         Telefax: 05221 – 692425<br>
-        E-Mail: <a href= "mailto:fun@springolino.de">fun@springolino.de</a></p>
+        E-Mail: <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a></p>
 
         <h5>Registereintrag</h5>
         <p>Eintragung im Handelsregister.<br>
@@ -36,8 +36,8 @@
         <p>Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 27 20 63 625</p>
 
         <h5>Streitschlichtung</h5>
-        <p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" target="_blank">https://ec.europa.eu/consumers/odr</a>.<br>
-        Oder Kontaktieren Sie uns über: <a href= "mailto:fun@springolino.de">fun@springolino.de</a>.</p>
+        <p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" class="text-secondary" target="_blank">https://ec.europa.eu/consumers/odr</a>.<br>
+        Oder Kontaktieren Sie uns über: <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a>.</p>
         <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
         <h5>Programmierung</h5>
