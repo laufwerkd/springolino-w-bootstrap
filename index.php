@@ -8,14 +8,13 @@
     .titel {
         position: absolute;
         top: 60%;
-        left: 33%;
         transform: translate(-50%, -50%);
     }
 
     .zeiten {
         position: absolute;
-        bottom: 48px;
-        right: 48px;
+        top: 90%;
+        transform: translate(-50%, -50%);
     }
 </style>
 
@@ -30,32 +29,51 @@
 </script>
 
 <div class="position-relative bg" style="background-image: url(img/bg/bg1.jpg); height: 100vh">
-    <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="font-family: marker; font-size: 5rem;">
+    <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="left: 33%; font-family: marker; font-size: 5rem;">
         <span class="text-success">ACTION</span><br>
         <span class="text-light align-middle fs-1">AND</span> <span class="text-primary">FUN</span><br>
         <span class="text-light align-middle fs-1">FOR</span> <span class="text-info">KIDS</span><br>
         <a href="#scrollen">
-            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary mt-2" viewBox="0 0 16 16">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary" viewBox="0 0 16 16">
                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
             </svg>
         </a>
     </h1>
-    <h1 class="titel d-sm-none start-50 text-center text-light fw-bold" style="font-family: marker; font-size: 3rem;">
+    <h1 class="titel d-sm-none text-center text-light fw-bold" style="left: 50%; font-family: marker; font-size: 3rem;">
         <span class="text-success">ACTION</span><br>
         <span class="text-light align-middle fs-1">AND</span> <span class="text-primary">FUN</span><br>
         <span class="text-light align-middle fs-1">FOR</span> <span class="text-info">KIDS</span><br>
         <a href="#scrollen">
-            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary mt-2" viewBox="0 0 16 16">
+            <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary" viewBox="0 0 16 16">
                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
             </svg>
         </a>
     </h1>
-    <div class="zeiten d-none d-sm-block p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
-        <h5 class="m-0">Öffnungszeiten heute: 00:00 - 00:00</h5>
+
+    <div class="d-none"> <!-- wenn geoeffnet -->
+        <div class="zeiten d-none d-sm-block" style="left: 66%;">
+            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+                <h5 class="m-0">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</h5>
+            </div>
+        </div>
+        <div class="zeiten d-sm-none" style="left: 50%;">
+            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+                <p class="m-0 fw-bold">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</p>
+            </div>
+        </div>
     </div>
-    <div class="zeiten d-sm-none start-50 p-3 px-4 w-50 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px); transform: translateX(-50%);">
-        <p class="m-0">Öffnungszeiten heute<br>
-        00:00 - 00:00</p>
+
+    <div class=""> <!-- wenn geschlossen -->
+        <div class="zeiten d-none d-sm-block" style="left: 66%;">
+            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+                <h5 class="m-0">Heute <span class="text-danger">geschlossen</span>. Öffnet wieder am (Tag/Datum).</h5>
+            </div>
+        </div>
+        <div class="zeiten d-sm-none" style="left: 50%;">
+            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+                <p class="m-0 fw-bold">Heute <span class="text-danger">geschlossen</span>. Öffnet wieder am (Tag/Datum).</p>
+            </div>
+        </div>
     </div>
 </div>
 
