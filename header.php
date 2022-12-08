@@ -29,6 +29,21 @@
                 z-index: 10000;
             }
 
+            .loader {
+                border: 12px solid #D1D100;
+                border-radius: 100%;
+                border-top: 12px solid #A3A300;
+                width: 50px;
+                height: 50px;
+                -webkit-animation: spin 2s linear infinite; /* Safari */
+                animation: spin 2s linear infinite;
+            }
+
+                @keyframes spin {
+                0% { transform: rotate(0deg);}
+                100% { transform: rotate(360deg);}
+            }
+
             .bg-none {
                 background: none;
             }
@@ -78,7 +93,10 @@
 
         <main>
             <div class="bg-dark" id="preloader">
-                <img src="img/icon/logoCentered.png" class="position-absolute start-50 top-50 translate-middle" width="300px" height="auto">
+                <div class="position-absolute start-50 top-50 translate-middle d-flex flex-column gap-3">
+                    <img src="img/icon/logoCentered.png" width="300px" height="auto">
+                    <div class="loader mx-auto"></div>
+                </div>
             </div>
 
 <?php include 'offcanvas.php'; ?>
