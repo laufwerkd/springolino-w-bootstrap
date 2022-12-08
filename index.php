@@ -19,13 +19,15 @@
 </style>
 
 <script>
-    scrollen = setTimeout(scrollDown, 5000);
-    window.onscroll = function(e) {
-        clearTimeout(scrollen);
-    }
-    function scrollDown() {
-        window.scrollBy(0, window.innerHeight);
-    }
+    window.addEventListener('load', function() {
+        scrollen = setTimeout(scrollDown, 5250);
+        window.onscroll = function(e) {
+            clearTimeout(scrollen);
+        }
+        function scrollDown() {
+            window.scrollBy(0, window.innerHeight);
+        }
+    });
 </script>
 
 <div class="position-relative bg" style="background-image: url(img/bg/bg1.gif); height: 100vh">
