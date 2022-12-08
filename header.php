@@ -20,6 +20,15 @@
                 background-repeat: no-repeat;
             }
 
+            #preloader {
+                position: fixed;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                z-index: 10000;
+            }
+
             .bg-none {
                 background: none;
             }
@@ -68,4 +77,8 @@
         </header>
 
         <main>
+            <div class="bg-dark" id="preloader">
+                <img src="img/icon/logoCentered.png" class="position-absolute start-50 top-50 translate-middle" width="300px" height="auto">
+            </div>
+
 <?php include 'offcanvas.php'; ?>
