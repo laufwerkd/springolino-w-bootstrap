@@ -45,12 +45,12 @@
                     <div class="accordion-body">
 						<h6>Enthält</h6>
 						<ul>
-							<li><span class="text-primary">12,50€ Eintrittspreis</span> pro Kind</li>
-							<li>eine <span class="text-primary">Tageseintrittskarte</span></li>
-							<li>einen <span class="text-primary">Reserviertern Geburtstags Tisch</span> für den gesamten Aufenthalt</li>
-							<li><span class="text-primary">Tischdeko</span> (Teller, Becher, Luftschlangen und Servietten)</li>
-							<li>ein <span class="text-primary">Thron</span> für das Geburtstagskind mit Namen</li>
-							<li><span class="text-primary">1 Slush-Eisgetränk (0,2l)</span> nach Wahl für alle Kinder</li>
+							<li><span class="text-secondary">12,50€ Eintrittspreis</span> pro Kind</li>
+							<li>eine <span class="text-secondary">Tageseintrittskarte</span></li>
+							<li>einen <span class="text-secondary">Reserviertern Geburtstags Tisch</span> für den gesamten Aufenthalt</li>
+							<li><span class="text-secondary">Tischdeko</span> (Teller, Becher, Luftschlangen und Servietten)</li>
+							<li>ein <span class="text-secondary">Thron</span> für das Geburtstagskind mit Namen</li>
+							<li><span class="text-secondary">1 Slush-Eisgetränk (0,2l)</span> nach Wahl für alle Kinder</li>
 						</ul>
 
 						<h6>Außerdem</h6>
@@ -66,7 +66,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people text-info" viewBox="0 0 16 16">
                                     <path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8Zm-7.978-1A.261.261 0 0 1 7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002a.274.274 0 0 1-.014.002H7.022ZM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816ZM4.92 10A5.493 5.493 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275ZM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0Zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/>
                                 </svg>
-                                und nur <span class="text-warning">bis zum 14. Geburtstag</span>.
+                                und nur <span class="text-danger">bis zum 14. Geburtstag</span>.
                             </li>
                         </ul>
                     </div>
@@ -86,7 +86,7 @@
 							<li><span class="text-secondary">17,50€ Eintrittspreis</span> pro Kind</li>
                             <li>ein <span class="text-secondary">Kindermenü</span> bestehend aus:</li>
                                 <ul>
-                                    <li>4 Chicken Nuggets mit Pommes (Mayo und Ketchup) <span class="text-warning">oder</span> 1 Kinderpizza Ø18cm (Margherita, Salami oder Schinken)</li>
+                                    <li>4 Chicken Nuggets mit Pommes (Mayo und Ketchup) <span class="text-danger">oder</span> 1 Kinderpizza Ø18cm (Margherita, Salami oder Schinken)</li>
                                     <li>Chupa Chups Lolly und Capri Sonne nach Wahl</li>
                                 </ul>
                             <li>eine <span class="text-secondary">Freifahrt mit den Autoscooter</span> für alle Kinder</li>
@@ -99,7 +99,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people text-info" viewBox="0 0 16 16">
                                     <path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8Zm-7.978-1A.261.261 0 0 1 7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002a.274.274 0 0 1-.014.002H7.022ZM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816ZM4.92 10A5.493 5.493 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275ZM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0Zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/>
                                 </svg>
-                                und nur <span class="text-warning">bis zum 14. Geburtstag</span>.
+                                und nur <span class="text-danger">bis zum 14. Geburtstag</span>.
                             </li>
                         </ul>
                     </div>
@@ -120,143 +120,189 @@
         </h3>
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(15px);">
-        <div class="mb-3">
+        <div class="mb-3" id="wann">
             <h5>Wann</h5>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-info" id="datum">Datum</span>
-                <input type="text" class="form-control" placeholder="TT.MM.JJJJ" aria-describedby="datum">
-            </div>
-            <div class="input-group mb-2">
-                <label class="input-group-text bg-info" for="ankunftszeit">Ankunftszeit</label>
-                <select class="form-select" id="ankunftszeit">
-                    <option selected>Auswählen</option>
-                    <option value="1">14:30</option>
-                    <option value="2">15:00</option>
-                    <option value="3">15:30</option>
-                    <option value="4">16:00</option>
-                    <option value="5">16:30</option>
-                    <option value="6">17:00</option>
-                    <option value="7">17:30</option>
-                    <option value="8">18:00</option>
-                    <option value="9">18:30</option>
-                    <option value="10">19:00</option>
-                </select>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
+                <div class="col" id="datum">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-info">Datum</span>
+                        <input type="text" class="form-control" id="datumInput" placeholder="TT.MM.JJJJ">
+                    </div>
+                </div>
+                <div class="col" id="ankunftszeit">
+                    <div class="input-group mb-2">
+                        <label class="input-group-text bg-info" for="ankunftInput">Ankunftszeit</label>
+                        <select class="form-select" id="ankunftInput">
+                            <option selected>Auswählen</option>
+                            <option value="1">14:30</option>
+                            <option value="2">15:00</option>
+                            <option value="3">15:30</option>
+                            <option value="4">16:00</option>
+                            <option value="5">16:30</option>
+                            <option value="6">17:00</option>
+                            <option value="7">17:30</option>
+                            <option value="8">18:00</option>
+                            <option value="9">18:30</option>
+                            <option value="10">19:00</option>
+                        </select>
+                    </div>
+                </div>
             </div>
         </div>
 
-        <div class="mb-3">
+        <div class="mb-3" id="kindForm">
             <h5>Angaben zum Geburtstagskind</h5>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-primary" id="vorname">Vorname</span>
-                <input type="text" class="form-control" aria-describedby="vorname">
-            </div>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-primary" id="nachname">Nachname</span>
-                <input type="text" class="form-control" aria-describedby="nachname">
-            </div>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-primary" id="geburtstag">Geboren am</span>
-                <input type="text" class="form-control" placeholder="TT.MM.JJJJ" aria-describedby="geburtstag">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-primary">Vorname</span>
+                        <input type="text" class="form-control" id="vornameKindInput" placeholder="Name">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-primary">Nachname</span>
+                        <input type="text" class="form-control" id="nachnameKindInput" placeholder="Name">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-primary">Geboren am</span>
+                        <input type="text" class="form-control" id="gebInput" placeholder="TT.MM.JJJJ">
+                    </div>
+                </div>
             </div>
         </div>
 
-        <div class="mb-3">
+        <div class="mb-3" id="buchenderForm">
             <h5>Angaben zu der buchenden Person</h5>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-secondary" id="vorname">Vorname</span>
-                <input type="text" class="form-control" aria-describedby="vorname">
-            </div>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-secondary" id="nachname">Nachname</span>
-                <input type="text" class="form-control" aria-describedby="nachname">
-            </div>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-secondary" id="telefon">Telefon</span>
-                <input type="text" class="form-control" aria-describedby="telefon">
-            </div>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-secondary" id="email">@</span>
-                <input type="mail" class="form-control" placeholder="E-Mail" aria-describedby="email">
-            </div>
-            <div class="input-group mb-2">
-                <span class="input-group-text bg-secondary" id="emailbestaetigen">@</span>
-                <input type="mail" class="form-control" placeholder="E-Mail bestätigen" aria-describedby="emailbestaetigen">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-secondary">Vorname</span>
+                        <input type="text" class="form-control" id="vornameBuchenderInput" placeholder="Name">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-secondary">Nachname</span>
+                        <input type="text" class="form-control" id="nachnameBuchenderInput" placeholder="Name">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-secondary">Telefon</span>
+                        <input type="text" class="form-control" id="telInput" placeholder="Nummer">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-secondary">@</span>
+                        <input type="mail" class="form-control" id="emailInput" placeholder="E-Mail">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <span class="input-group-text bg-secondary">@</span>
+                        <input type="mail" class="form-control" id="emailCheckInput" placeholder="E-Mail bestätigen">
+                    </div>
+                </div>
             </div>
         </div>
 
-        <div class="mb-3">
+        <div class="mb-3" id="angabenForm">
             <h5>Angaben zur Feier</h5>
-            <div class="input-group mb-2">
-                <label class="input-group-text bg-info" for="ueber3">Kinder über 3 Jahre</label>
-                <select class="form-select" id="ueber3">
-                    <option selected>Anzahl</option>
-                    <option value="1">6</option>
-                    <option value="2">7</option>
-                    <option value="3">8</option>
-                    <option value="4">9</option>
-                    <option value="5">10</option>
-                    <option value="6">11</option>
-                    <option value="7">12</option>
-                    <option value="8">13</option>
-                    <option value="9">14</option>
-                    <option value="10">15</option>
-                </select>
-            </div>
-            <div class="input-group mb-2">
-                <label class="input-group-text bg-info" for="unter3">Kinder unter 3 Jahre</label>
-                <select class="form-select" id="unter3">
-                    <option selected>Anzahl</option>
-                    <option value="1">0</option>
-                    <option value="2">1</option>
-                    <option value="3">2</option>
-                    <option value="4">3</option>
-                    <option value="5">4</option>
-                    <option value="6">5</option>
-                    <option value="7">6</option>
-                    <option value="8">7</option>
-                    <option value="9">8</option>
-                    <option value="10">9</option>
-                    <option value="11">10</option>
-                    <option value="12">11</option>
-                    <option value="13">12</option>
-                    <option value="14">13</option>
-                    <option value="15">14</option>
-                    <option value="16">15</option>
-                </select>
-            </div>
-            <div class="input-group mb-2">
-                <label class="input-group-text bg-info" for="erwachsene">Erwachsene</label>
-                <select class="form-select" id="erwachsene">
-                    <option selected>Anzahl</option>
-                    <option value="1">0</option>
-                    <option value="2">1</option>
-                    <option value="3">2</option>
-                    <option value="4">3</option>
-                    <option value="5">4</option>
-                    <option value="6">5</option>
-                    <option value="7">6</option>
-                    <option value="8">7</option>
-                    <option value="9">8</option>
-                    <option value="10">9</option>
-                    <option value="11">10</option>
-                    <option value="12">11</option>
-                    <option value="13">12</option>
-                    <option value="14">13</option>
-                    <option value="15">14</option>
-                    <option value="16">15</option>
-                </select>
-            </div>
-            <div class="input-group mb-2">
-                <label class="input-group-text bg-info" for="geburtstagspaket">Geburtstagspaket</label>
-                <select class="form-select" id="geburtstagspaket">
-                    <option selected>Auswahl</option>
-                    <option value="1">Geburtstagspaket 1</option>
-                    <option value="2">Geburtstagspaket 2</option>
-                </select>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3">
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <label class="input-group-text bg-info" for="ueber3Input">Kinder über 3 Jahre</label>
+                        <select class="form-select" id="ueber3Input">
+                            <option selected>Anzahl</option>
+                            <option value="1">6</option>
+                            <option value="2">7</option>
+                            <option value="3">8</option>
+                            <option value="4">9</option>
+                            <option value="5">10</option>
+                            <option value="6">11</option>
+                            <option value="7">12</option>
+                            <option value="8">13</option>
+                            <option value="9">14</option>
+                            <option value="10">15</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <label class="input-group-text bg-info" for="unter3Input">Kinder unter 3 Jahre</label>
+                        <select class="form-select" id="unter3Input">
+                            <option selected>Anzahl</option>
+                            <option value="1">0</option>
+                            <option value="2">1</option>
+                            <option value="3">2</option>
+                            <option value="4">3</option>
+                            <option value="5">4</option>
+                            <option value="6">5</option>
+                            <option value="7">6</option>
+                            <option value="8">7</option>
+                            <option value="9">8</option>
+                            <option value="10">9</option>
+                            <option value="11">10</option>
+                            <option value="12">11</option>
+                            <option value="13">12</option>
+                            <option value="14">13</option>
+                            <option value="15">14</option>
+                            <option value="16">15</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <label class="input-group-text bg-info" for="erwachseneInput">Erwachsene</label>
+                        <select class="form-select" id="erwachseneInput">
+                            <option selected>Anzahl</option>
+                            <option value="1">0</option>
+                            <option value="2">1</option>
+                            <option value="3">2</option>
+                            <option value="4">3</option>
+                            <option value="5">4</option>
+                            <option value="6">5</option>
+                            <option value="7">6</option>
+                            <option value="8">7</option>
+                            <option value="9">8</option>
+                            <option value="10">9</option>
+                            <option value="11">10</option>
+                            <option value="12">11</option>
+                            <option value="13">12</option>
+                            <option value="14">13</option>
+                            <option value="15">14</option>
+                            <option value="16">15</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="input-group mb-2">
+                        <label class="input-group-text bg-info" for="geburtstagspaketInput">Geburtstagspaket</label>
+                        <select class="form-select" id="geburtstagspaketInput">
+                            <option selected>Auswahl</option>
+                            <option value="1">Geburtstagspaket 1</option>
+                            <option value="2">Geburtstagspaket 2</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col" id="essenForm">
+                    <div class="input-group mb-2">
+                        <label class="input-group-text bg-info" for="menuInput">Menü</label>
+                        <select class="form-select" id="menuInput">
+                            <option selected>Auswahl</option>
+                            <option value="2">Chicken Nuggets mit Pommes</option>
+                            <option value="3">Pizza</option>
+                        </select>
+                    </div>
+                </div>
             </div>
         </div>
 
-        <div class="mb-3">
+        <div class="mb-3" id="tischForm">
             <h5>Tischauswahl</h5>
             <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
@@ -297,21 +343,21 @@
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch6.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch6" autocomplete="off" disabled>
+                        <input type="radio" class="btn-check" name="tische" id="tisch6" autocomplete="off">
                         <label class="btn btn-primary w-100" for="tisch6">Fußball</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch7.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch7" autocomplete="off" disabled>
+                        <input type="radio" class="btn-check" name="tische" id="tisch7" autocomplete="off">
                         <label class="btn btn-primary w-100" for="tisch7">Springobox</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tischStandart.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tischStandart" autocomplete="off" disabled>
+                        <input type="radio" class="btn-check" name="tische" id="tischStandart" autocomplete="off">
                         <label class="btn btn-secondary w-100" for="tischStandart">Standart</label>
                     </div>
                 </div>
@@ -329,21 +375,38 @@
 
         <div class="mb-3">
             <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="agb">
+                <input class="checkmark form-check-input" type="checkbox" id="agb">
                 <label class="form-check-label" for="agb">
                     Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
                 </label>
               </div>
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="datenschutz">
+                <input class="checkmark form-check-input" type="checkbox" id="datenschutz">
                 <label class="form-check-label" for="datenschutz">
                     Ich habe die <a href="datenschutz.php" class="text-secondary">Datenschutzerklärung</a> zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a> wiederrufen.
                 </label>
             </div>
         </div>
 
-        <a href="#" class="btn btn-danger">Kostenpflichtig bestellen</a>
+        <a href="#" class="btn btn-danger" id="bestellen">Kostenpflichtig bestellen</a>
     </div>
 </div>
+
+<script>
+    geburtstagspaketInput = document.getElementById('geburtstagspaketInput');
+    essenForm = document.getElementById('essenForm');
+    agb = document.getElementById('agb');
+    datenschutz = document.getElementById('datenschutz');
+
+    essenForm.style.display = "none";
+
+    geburtstagspaketInput.addEventListener('change', function() {
+        if (geburtstagspaketInput.value == 2) {
+            essenForm.style.display = "unset";
+        } else {
+            essenForm.style.display = "none";
+        }
+    })
+</script>
 
 <?php include 'footer.php'; ?>
