@@ -20,7 +20,9 @@
 
         <script>
             window.addEventListener('load', function() {
-                fadeOutPreloader();
+                setTimeout(function(){
+                    fadeOutPreloader();
+                }, 250);
             });
 
             function fadeOutPreloader() {
