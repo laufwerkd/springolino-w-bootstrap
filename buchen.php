@@ -3,7 +3,7 @@
 <style>
     body {
         margin-top: 25vh;
-        background-image: url(img/bg/bg1.gif);
+        background-image: url(img/bg/bg1.jpg);
     }
 </style>
 

@@ -2,7 +2,7 @@
 
 <style>
     body {
-        background-image: url(img/bg/bg2.jpg);
+        background-image: url(img/bg/bg2.gif);
     }
 
     .titel {
@@ -30,7 +30,7 @@
     });
 </script>
 
-<div class="position-relative bg" style="background-image: url(img/bg/bg1.jpg); height: 100vh">
+<div class="position-relative bg" style="background-image: url(img/bg/bg1.gif); height: 100vh">
     <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="left: 33%; font-family: marker; font-size: 5rem;">
         <span class="text-success">ACTION</span><br>
         <span class="text-light align-middle fs-1">AND</span> <span class="text-primary">FUN</span><br>
