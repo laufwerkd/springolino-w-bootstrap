@@ -126,7 +126,7 @@
                 <div class="col" id="datum">
                     <div class="input-group mb-2">
                         <span class="input-group-text bg-info">Datum</span>
-                        <input type="text" class="form-control" id="datumInput" placeholder="TT.MM.JJJJ">
+                        <input type="date" class="form-control" id="datumInput">
                     </div>
                 </div>
                 <div class="col" id="ankunftszeit">
@@ -168,7 +168,7 @@
                 <div class="col">
                     <div class="input-group mb-2">
                         <span class="input-group-text bg-primary">Geboren am</span>
-                        <input type="text" class="form-control" id="gebInput" placeholder="TT.MM.JJJJ">
+                        <input type="date" class="form-control" id="gebInput">
                     </div>
                 </div>
             </div>
@@ -308,57 +308,84 @@
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch1.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch1" autocomplete="off">
-                        <label class="btn btn-primary w-100" for="tisch1">Ponyhof</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch1Input" autocomplete="off">
+                        <label class="btn btn-primary w-100" for="tisch1Input">Ponyhof</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch2.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch2" autocomplete="off">
-                        <label class="btn btn-info w-100" for="tisch2">Formel 1</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch2Input" autocomplete="off">
+                        <label class="btn btn-info w-100" for="tisch2Input">Formel 1</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch3.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch3" autocomplete="off">
-                        <label class="btn btn-secondary w-100" for="tisch3">Schatzinsel</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch3Input" autocomplete="off">
+                        <label class="btn btn-secondary w-100" for="tisch3Input">Schatzinsel</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-danger bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch4.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch4" autocomplete="off">
-                        <label class="btn btn-danger w-100" for="tisch4">Halloween</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch4Input" autocomplete="off">
+                        <label class="btn btn-danger w-100" for="tisch4Input">Halloween</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch5.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch5" autocomplete="off">
-                        <label class="btn btn-info w-100" for="tisch5">Schloss</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch5Input" autocomplete="off">
+                        <label class="btn btn-info w-100" for="tisch5Input">Schloss</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch6.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch6" autocomplete="off">
-                        <label class="btn btn-primary w-100" for="tisch6">Fußball</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch6Input" autocomplete="off">
+                        <label class="btn btn-primary w-100" for="tisch6Input">Fußball</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tisch7.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tisch7" autocomplete="off">
-                        <label class="btn btn-primary w-100" for="tisch7">Springobox</label>
+                        <input type="radio" class="btn-check" name="tische" id="tisch7Input" autocomplete="off">
+                        <label class="btn btn-primary w-100" for="tisch7Input">Springobox</label>
                     </div>
                 </div>
                 <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
                     <img src="img/tisch/tischStandart.jpg" class="card-img-top">
                     <div class="p-3">
-                        <input type="radio" class="btn-check" name="tische" id="tischStandart" autocomplete="off">
-                        <label class="btn btn-secondary w-100" for="tischStandart">Standart</label>
+                        <input type="radio" class="btn-check" name="tische" id="tischStandartInput" autocomplete="off">
+                        <label class="btn btn-secondary w-100" for="tischStandartInput">Standart</label>
+                    </div>
+                </div>
+                <div class="col m-2" id="tischnummerForm">
+                    <div class="input-group">
+                        <label class="input-group-text bg-secondary" for="tischnummerInput">Tisch</label>
+                        <select class="form-select" id="tischnummerInput">
+                            <option selected>Nummer</option>
+                            <option value="1">8</option>
+                            <option value="2">9</option>
+                            <option value="3">10</option>
+                            <option value="4">11</option>
+                            <option value="5">12</option>
+                            <option value="6">13</option>
+                            <option value="7">14</option>
+                            <option value="8">15</option>
+                            <option value="9">16</option>
+                            <option value="10">17</option>
+                            <option value="11">18</option>
+                            <option value="12">19</option>
+                            <option value="13">20</option>
+                            <option value="14">21</option>
+                            <option value="15">22</option>
+                            <option value="16">23</option>
+                            <option value="17">24</option>
+                            <option value="18">25</option>
+                            <option value="19">26</option>
+                        </select>
                     </div>
                 </div>
             </div>
@@ -388,15 +415,16 @@
             </div>
         </div>
 
-        <a href="#" class="btn btn-danger" id="bestellen">Kostenpflichtig bestellen</a>
+        <div class="d-flex flex-row justify-content-between">
+            <h3>Kalkulierter Preis: <span class="text-secondary" id="preis">0,00€</span></h3>
+            <a href="#" class="btn btn-danger" id="bestellen">Kostenpflichtig bestellen</a>
+        </div>
     </div>
 </div>
 
 <script>
     geburtstagspaketInput = document.getElementById('geburtstagspaketInput');
     essenForm = document.getElementById('essenForm');
-    agb = document.getElementById('agb');
-    datenschutz = document.getElementById('datenschutz');
 
     essenForm.style.display = "none";
 
@@ -407,6 +435,20 @@
             essenForm.style.display = "none";
         }
     })
+
+    tischStandartInput = document.getElementById('tischStandartInput');
+    tischnummerForm = document.getElementById('tischnummerForm');
+    tischnummerInput = document.getElementById('tischnummerInput');
+
+    tischnummerForm.style.display = "none";
+
+    tischStandartInput.addEventListener('change', function() {
+        if (tischStandartInput.checked = true) {
+            tischnummerForm.style.display = "unset";
+        } else if (tischStandartInput.checked = false) {
+            tischnummerForm.style.display = "none";
+        }
+    });
 </script>
 
 <?php include 'footer.php'; ?>

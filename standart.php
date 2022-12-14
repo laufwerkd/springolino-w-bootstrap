@@ -31,6 +31,6 @@
         </h1>
     </div>
     <div class="container-lg p-4 text-center bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(15px);">
-        <small class="text-muted">Zurzeit gibt es nichts neues</small>
+        <small class="text-muted">Zur Zeit nichts Neues.</small>
     </div>
 </div>

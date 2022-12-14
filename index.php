@@ -7,14 +7,14 @@
 
     .titel {
         position: absolute;
-        top: 60%;
+        top: 50%;
         transform: translate(-50%, -50%);
     }
 
     .zeiten {
         position: absolute;
-        top: 90%;
-        transform: translate(-50%, -50%);
+        bottom: 0;
+        transform: translateX(-50%);
     }
 </style>
 
@@ -32,8 +32,8 @@
 
 <div class="position-relative bg" style="background-image: url(img/bg/bg1.jpg); height: 100vh">
     <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="left: 33%; font-family: marker; font-size: 5rem;">
-        <span class="text-success">ACTION</span><br>
-        <span class="text-light align-middle fs-1">AND</span> <span class="text-primary">FUN</span><br>
+        <span class="text-info">ACTION</span><br>
+        <span class="text-light align-middle fs-1">AND</span> <span class="text-info">FUN</span><br>
         <span class="text-light align-middle fs-1">FOR</span> <span class="text-info">KIDS</span><br>
         <a href="#scrollen">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary" viewBox="0 0 16 16">
@@ -42,8 +42,8 @@
         </a>
     </h1>
     <h1 class="titel d-sm-none text-center text-light fw-bold" style="left: 50%; font-family: marker; font-size: 3rem;">
-        <span class="text-success">ACTION</span><br>
-        <span class="text-light align-middle fs-1">AND</span> <span class="text-primary">FUN</span><br>
+        <span class="text-info">ACTION</span><br>
+        <span class="text-light align-middle fs-1">AND</span> <span class="text-info">FUN</span><br>
         <span class="text-light align-middle fs-1">FOR</span> <span class="text-info">KIDS</span><br>
         <a href="#scrollen">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary" viewBox="0 0 16 16">
@@ -52,29 +52,35 @@
         </a>
     </h1>
 
-    <div class="d-none"> <!-- wenn geoeffnet -->
-        <div class="zeiten d-none d-sm-block" style="left: 66%;">
-            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+    <div class=""> <!-- wenn geoeffnet -->
+        <div class="zeiten d-none d-sm-flex flex-row align-items-end" style="left: 66%;">
+            <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <h5 class="m-0">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</h5>
             </div>
+            <img src="img/misc/ampel.png" width="33%" height="auto">
         </div>
-        <div class="zeiten d-sm-none" style="left: 50%;">
-            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
+        <div class="zeiten d-flex flex-row align-items-end d-sm-none w-75" style="left: 50%;">
+            <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <p class="m-0 fw-bold">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</p>
             </div>
+            <img src="img/misc/ampel.png" width="33%" height="auto">
         </div>
     </div>
 
-    <div class=""> <!-- wenn geschlossen -->
-        <div class="zeiten d-none d-sm-block" style="left: 66%;">
-            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
-                <h5 class="m-0">Heute <span class="text-danger">geschlossen</span>. Öffnet wieder am (Tag/Datum).</h5>
+    <div class="d-none"> <!-- wenn geschlossen -->
+        <div class="zeiten d-none d-sm-flex flex-row align-items-end" style="left: 66%;">
+            <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
+                <h5 class="m-0">Heute <span class="text-danger">geschlossen</span>.<br>
+                Öffnet wieder am (Tag/Datum).</h5>
             </div>
+            <img src="img/misc/ampel.png" width="33%" height="auto">
         </div>
-        <div class="zeiten d-sm-none" style="left: 50%;">
-            <div class="p-3 px-4 bg-info bg-opacity-25 text-center text-white rounded-5" style="backdrop-filter: blur(7.5px);">
-                <p class="m-0 fw-bold">Heute <span class="text-danger">geschlossen</span>. Öffnet wieder am (Tag/Datum).</p>
+        <div class="zeiten d-flex flex-row align-items-end d-sm-none w-75" style="left: 50%;">
+            <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
+                <p class="m-0 fw-bold">Heute <span class="text-danger">geschlossen</span>.<br>
+                Öffnet wieder am (Tag/Datum).</p>
             </div>
+            <img src="img/misc/ampel.png" width="33%" height="auto">
         </div>
     </div>
 </div>

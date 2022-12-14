@@ -17,8 +17,18 @@
         <div class="dropdown mb-3">
             <button class="btn btn-outline-dark dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
             <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item" href="#gotoGrosse">Große Bereiche</a></li>
-                <li><a class="dropdown-item" href="#gotoKleine">Kleinere Bereiche</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
+                <li><a class="dropdown-item" href="#">Link</a></li>
             </ul>
         </div>
 
@@ -31,7 +41,7 @@
 <div class="modul" id="gotoGrosse">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
-            Große Bereiche
+            Alle Attraktionen
         </h3>
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
@@ -91,20 +101,7 @@
                     <p>In unserem neuen Wasserpark könnt ihr spritzen, planschen, toben.</p>
                     <a href="bereichWasserspielplatz.php" class="stretched-link"></a>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modul" id="gotoKleine">
-    <div class="container-lg d-flex justify-content-center p-0 pt-5">
-        <h3 class="p-3 px-4 m-0 bg-secondary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
-            Kleinere Bereiche
-        </h3>
-    </div>
-    <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
-        <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
-            <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow" id="gotoKleinkinder">
+            </div><div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow" id="gotoKleinkinder">
                 <img src="img/bereich/kleinkinder/kleinkinder1.jpg" class="card-img-top">
                 <div class="p-3">
                     <h4><span class="badge bg-info text-start">Kleinkinder<br>Spielbereich</span></h4>

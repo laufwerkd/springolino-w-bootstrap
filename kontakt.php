@@ -30,23 +30,40 @@
 <div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-info bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
-            Fromular
+            Kontakt Fromular
         </h3>
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(15px);">
-        <!-- bitte mit bs form dem style anpassen -->
-        <form method="post" autocomplete="off">
-            <label for="name">Name</label>
-            <input id="name" name="name" maxlength="50" placeholder="Dein Vor- und Nachname..."><br>
-            <label for="mail">E-Mail</label>
-            <input id="mail" name="email" maxlength="50" placeholder="z.B. max.mustermann@mustermail.de"><br>
-            <label for="msg">Ihre Nachricht:</label>
-            <textarea id="msg" name="msg" minlength="10" placeholder="Nachricht..." style="height:200px"></textarea><br>
-            <input type="checkbox" name="datenschutz" id="dsgvo" value="akzeptieren">
-            <label for="dsgvo">Ich habe die AGBs und die Datenschutzbestimmungen gelesen und akzeptiert!</label><br>
-            <button class="btn btn-success" type="submit">Senden</button>
-            <button class="btn btn-danger" type="reset">Eingabe löschen</button>
-        </form>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 mb-3">
+            <div class="col">
+                <div class="input-group mb-2">
+                    <span class="input-group-text bg-primary">Name</span>
+                    <input type="text" class="form-control" id="nameInput" placeholder="Name">
+                </div>
+            </div>
+            <div class="col">
+                <div class="input-group mb-2">
+                    <span class="input-group-text bg-primary">@</span>
+                    <input type="mail" class="form-control" id="emailInput" placeholder="E-Mail">
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-2">
+            <label for="nachrichtInput" class="form-label">Deine Nachricht</label>
+            <textarea class="form-control" id="nachrichtInput" rows="5"></textarea>
+        </div>
+
+        <div class="mb-3">
+            <div class="form-check">
+                <input class="checkmark form-check-input" type="checkbox" id="agb">
+                <label class="form-check-label" for="agb">
+                    Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
+                </label>
+            </div>
+        </div>
+
+        <a href="#" class="btn btn-success" id="bestellen">Nachricht Senden</a>
     </div>
 </div>
 
