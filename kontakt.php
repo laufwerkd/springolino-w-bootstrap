@@ -58,7 +58,7 @@
             <div class="form-check">
                 <input class="checkmark form-check-input" type="checkbox" id="agb">
                 <label class="form-check-label" for="agb">
-                    Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
+                    Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und akzeptiert.
                 </label>
             </div>
         </div>
