@@ -10,8 +10,8 @@
         <div class="d-flex flex-column flex-md-row justify-content-between gap-4">
             <div class="d-flex flex-column justify-content-between">
                 <div>
-                    <h5>Dein Ganz besonderer Tag startet hier</h5>
-                    <p>Wir machen Deinen großen Tag zum unvergesslichen Erlebnis! Keinen Stress zu Hause – Super-Spaß für die Kinder und entspannt für die Eltern. Lass doch einfach deine tolle Geburtstagsparty im Springolino steigen!</p>
+                    <h5>Dein ganz besonderer Tag startet hier</h5>
+                    <p>Wir machen Deinen großen Tag zum unvergesslichen Erlebnis! Keinen Stress zu Hause – Super-Spaß für die Kinder und entspannt für die Eltern. Lass doch einfach Deine tolle Geburtstagsparty im Springolino steigen!</p>
                 </div>
                 <div>
                     <a href="buchen.php" class="btn px-4 py-2 bg-primary rounded-pill shadow">

@@ -18,7 +18,7 @@
 
         <h5>Der Spider Tower</h5>
         <p>Könnt Ihr so geschickt klettern wie eine Spinne?<br>
-        Probiert es einfach aus! In unserem großen Kletterturm mit Netz und doppeltem Boden damit Ihr auch sicher landet solltet Ihr mal abstürzen. Erklimmt unseren Spider Tower und genießt den Ausblick von ganz oben.</p>
+        Probiert es einfach aus! In unserem großen Kletterturm mit Netz und doppeltem Boden, damit Ihr auch sicher landet, solltet Ihr mal abstürzen. Erklimmt unseren Spider Tower und genießt den Ausblick von ganz oben.</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/spidertower/spidertower1.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/spidertower/spidertower1.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

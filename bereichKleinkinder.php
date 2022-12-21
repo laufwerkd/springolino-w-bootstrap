@@ -21,7 +21,7 @@
         Auf 200qm findet Ihr XXL Bausteine, ein Meer aus Bällen oder ein eigenes Kletter-Labyrinth! Da ist Spaß garantiert!</p>
 
         <h6>XXL Bausteine</h6>
-        <p>Hier zeigt sich wer später die tollsten Häuser baut. Ihr baut die schönsten Festungen und Häuser mit richtigen Dächern mit unseren XXL Bausteinen.</p>
+        <p>Hier zeigt sich, wer später die tollsten Häuser baut. Ihr baut die schönsten Festungen und Häuser mit richtigen Dächern mit unseren XXL Bausteinen.</p>
 
         <h6>Meer aus Bällen</h6>
         <p>Egal ob hineinklettern, reinspringen oder abtauchen, in diesem Pool ist jeder Ballpool-Bademeister.</p>

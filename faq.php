@@ -24,7 +24,7 @@
         </div>
 
         <h5>Häufig gestellte Fragen im Springolino</h5>
-        <p>Falls Sie ihre Frage in den unten aufgefürten Listen nicht finden können, können Sie uns auch gerne kontaktieren.</p>
+        <p>Falls Sie Ihre Frage in den unten aufgeführten Listen nicht finden können, können Sie uns auch gerne kontaktieren.</p>
     </div>
 </div>
 
@@ -44,7 +44,7 @@
                 </h2>
                 <div id="schuhe" class="accordion-collapse collapse" aria-labelledby="schuheHeader" data-bs-parent="besucherverhalten">
                     <div class="accordion-body">
-                        Nein, ausschließlich auf Strümpfen. Wir empfehlen Rutschesocken. Im Springolino können Rutschesocken außerdem für 3€ pro Paar erworben werden.
+                        Nein, ausschließlich auf Strümpfen. Wir empfehlen Rutschesocken. Im Springolino können Rutschesocken außerdem für 3 € pro Paar erworben werden.
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                 </h2>
                 <div id="anzahlen" class="accordion-collapse collapse" aria-labelledby="anzahlenHeader" data-bs-parent="eintritt">
                     <div class="accordion-body">
-                        Nein, es wird vor Ort bezahlt. Letztendlich auch nur die Anzahl der Kindern, die wirklich da sind, aber immer für mindestens 6 Kinder.
+                        Nein, es wird vor Ort bezahlt. Letztendlich auch nur die Anzahl der Kinder, die wirklich da sind, aber immer für mindestens 6 Kinder.
                     </div>
                 </div>
             </div>
@@ -205,7 +205,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="kinderwagenHeader">
                     <button class="accordion-button collapsed rounded-4" type="button" data-bs-toggle="collapse" data-bs-target="#kinderwagen" aria-expanded="false" aria-controls="kinderwagen">
-                        Dürfen Kinderwagen mit rein genommen werden?
+                        Dürfen Kinderwagen mit reingenommen werden?
                     </button>
                 </h2>
                 <div id="kinderwagen" class="accordion-collapse collapse" aria-labelledby="kinderwagenHeader" data-bs-parent="mitbringsel">
@@ -236,7 +236,7 @@
                 </h2>
                 <div id="schliessfach" class="accordion-collapse collapse" aria-labelledby="schliessfachHeader" data-bs-parent="mitbringsel">
                     <div class="accordion-body">
-                        Ja, die Nutzungsgebühr beträgt 1€ und ein Schlüsselpfand muss hinterlegt werden.
+                        Ja, die Nutzungsgebühr beträgt 1 € und ein Schlüsselpfand muss hinterlegt werden.
                     </div>
                 </div>
             </div>

@@ -18,7 +18,7 @@
 
         <h5>Die Rollrutsche</h5>
         <p>Du liebst es zu rutschen und das mit rasanten Geschwindigkeiten?<br>
-        Dann bist Du hier genau richtig! Rutsche auf unserer Rollenrutsche mit Deinen Freunden um die Wette – wer ist der Schnellste? Die Rutschzeiten werden für jeden einzelnen gestoppt – so könnt Ihr euch spannende Duelle liefern!</p>
+        Dann bist Du hier genau richtig! Rutsche auf unserer Rollenrutsche mit Deinen Freunden um die Wette – wer ist der Schnellste? Die Rutsch Zeiten werden für jeden einzelnen gestoppt – so könnt Ihr Euch spannende Duelle liefern!</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/rollrutsche/rollrutsche1.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/rollrutsche/rollrutsche1.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

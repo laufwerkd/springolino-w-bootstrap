@@ -17,8 +17,8 @@
         <a href="entdecken.php" class="btn btn-danger mb-3">zurück</a>
 
         <h5>Der Autoscooter</h5>
-        <p>Heiße Reifen und scharfe Kurven wie auf dem Kirmesplatz- das erwartet Euch auf unserer Autoscooter-Bahn! Entdecke den Driver in Dir und drehe ein Paar wilde Runden!<br>
-        Erlebe actionreiche Runden und echtes Kirmesfeeling hautnah!</p>
+        <p>Heiße Reifen und scharfe Kurven wie auf dem Kirmesplatz- das erwartet Euch auf unserer Autoscooter-Bahn! Entdecke den Driver in Dir und drehe ein paar wilde Runden!<br>
+        Erlebe actionreiche Runden und echtes Kirmes Feeling hautnah!</p>
         <p><span class="text-secondary">Hinweis</span>: Diese Attraktion ist nicht im Eintrittspreis enthalten.</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">

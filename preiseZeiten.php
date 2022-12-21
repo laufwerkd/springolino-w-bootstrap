@@ -35,28 +35,28 @@
         <table class="table">
             <tbody>
                 <tr>
-                    <td>Kinder ab 3 Jahre</td>
-                    <td class="text-end">11,50€ (unter 3 Jahre frei)</td>
+                    <td>Kinder ab 3 Jahren</td>
+                    <td class="text-end">11,50 € (unter 3 Jahre frei)</td>
                 </tr>
                 <tr>
-                    <td>Erwachsene ab 18 Jahre</td>
-                    <td class="text-end">5,50€</td>
+                    <td>Erwachsene ab 18 Jahren</td>
+                    <td class="text-end">5,50 €</td>
                 </tr>
                 <tr>
                     <td>Kinder mit Behindertenausweis</td>
-                    <td class="text-end">6,00€</td>
+                    <td class="text-end">6,00 €</td>
                 </tr>
                 <tr>
                     <td>Erwachsene mit Behindertenausweis</td>
-                    <td class="text-end">3,00€</td>
+                    <td class="text-end">3,00 €</td>
                 </tr>
                 <tr>
-                    <td>10er Kinder</td>
-                    <td class="text-end">99,00€</td>
+                    <td>10er-Kinder</td>
+                    <td class="text-end">99,00 €</td>
                 </tr>
                 <tr>
-                    <td>10er Erwachsene</td>
-                    <td class="text-end">49,00€</td>
+                    <td>10er-Erwachsene</td>
+                    <td class="text-end">49,00 €</td>
                 </tr>
             </tbody>
         </table>

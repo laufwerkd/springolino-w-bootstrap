@@ -18,7 +18,7 @@
 
         <h5>Der Vulkan Kletterberg</h5>
         <p>Bist du mutig genug für unseren brodelnden Vulkan?<br>
-        Erklimme den Vulkan und rutsche dann superschnell herunter ins Tal zurück! Trainiere Deine Kletterkünste und erkunde den Vulkan-Kletterberg! Und wenn Ihr nicht genug bekommt? Dann einfach wieder hochklettern und erneut blitzschnell runter rutschen.</p>
+        Erklimme den Vulkan und rutsche dann superschnell herunter ins Tal zurück! Trainiere deine Kletterkünste und erkunde den Vulkan-Kletterberg! Und wenn Ihr nicht genug bekommt? Dann einfach wieder hochklettern und erneut blitzschnell herunterrutschen.</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/vulkan/vulkan2.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/vulkan/vulkan2.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

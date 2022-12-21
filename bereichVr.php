@@ -17,7 +17,7 @@
         <a href="entdecken.php" class="btn btn-danger mb-3">zurück</a>
 
         <h5>Der VR 360° Simulator</h5>
-        <p>Experience the absolute top novelty in simulation! Should it be the wild roller coaster ride, an exciting journey into the land of the dinosaurs or a flight at dizzying heights? It is not a film, but an experience!</p>
+        <p>Erlebt die absolute Top-Neuheit in der Simulation! Soll es die wilde Achterbahnfahrt, eine spannende Reise ins Land der Dinosaurier oder ein Flug in schwindelerregender Höhe sein? Es ist kein Film, sondern ein Erlebnis!</p>
         <p><span class="text-secondary">Hinweis</span>: Diese Attraktion ist nicht im Eintrittspreis enthalten.</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">

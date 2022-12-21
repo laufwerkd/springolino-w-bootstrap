@@ -17,7 +17,7 @@
         <a href="entdecken.php" class="btn btn-danger mb-3">zurück</a>
 
         <h5>Die Rollende Tonne</h5>
-        <p>Beweise Deinen Mut und laufe in der rollenden Tonne mit Dir und deinen Freunden um die Wette!<br>
+        <p>Beweise Deinen Mut und laufe in der rollenden Tonne mit Dir und Deinen Freunden um die Wette!<br>
         Wer von Euch traut sich zuerst in unsere turbulente rollende Tonne? Eine gehörige Portion Action inklusive!</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">

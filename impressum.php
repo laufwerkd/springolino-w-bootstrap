@@ -37,7 +37,7 @@
 
         <h5>Streitschlichtung</h5>
         <p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" class="text-secondary" target="_blank">https://ec.europa.eu/consumers/odr</a>.<br>
-        Oder Kontaktieren Sie uns über: <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a>.</p>
+        Oder kontaktieren Sie uns über: <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a>.</p>
         <p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 
         <h5>Programmierung</h5>

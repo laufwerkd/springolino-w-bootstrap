@@ -18,7 +18,7 @@
 
         <h5>Der Kettenflieger</h5>
         <p>Ein Spaß für Groß und Klein!<br>
-        Unser Kettenkarussell lädt auch Erwachsene zu einer rasanten Fahrt ein! Entdecken Sie das Kind in sich wieder! Die Leichtigkeit des Fliegens spüren und hoch hinaus wollen – ein großer Spass für die ganze Familie!</p>
+        Unser Kettenkarussell lädt auch Erwachsene zu einer rasanten Fahrt ein! Entdecken Sie das Kind in sich wieder! Die Leichtigkeit des Fliegens spüren und hoch hinaus wollen – ein großer Spaß für die ganze Familie!</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/kettenflieger/kettenflieger1.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/kettenflieger/kettenflieger1.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

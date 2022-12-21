@@ -30,10 +30,10 @@
         </div>
 
         <h5>Regeln im Springolino (AGB)</h5>
-        <p>Die Regeln dienen vor allem der Sicherheit der spielenden Personen sowie dem Erhalt der Spielgeräte, dem entspannten miteinander und der Entlastung des Betreibers und seiner Mitarbeiter. Mit dem betreten der Spieleinrichtung werden die Regeln anerkannt.</p>
-        <p>Wir bitten Sie diese Regeln zu lesen, einzuhalten und auch Ihre Kinder entsprechend aufzuklären und anzuweisen.</p>
-        <p>Den Anweisungen des Betreibers und seiner Mitarbeiter ist unbedingt folge zu leisten!</p>
-        <p class="fst-italic">Vielen Dank! Ihr Springolino Team</p>
+        <p>Die Regeln dienen vor allem der Sicherheit der spielenden Personen sowie dem Erhalt der Spielgeräte, dem entspannten Miteinander und der Entlastung des Betreibers und seiner Mitarbeiter. Mit dem Betreten der Spieleinrichtung werden die Regeln anerkannt.</p>
+        <p>Wir bitten Sie, diese Regeln zu lesen, einzuhalten und auch Ihre Kinder entsprechend aufzuklären und anzuweisen.</p>
+        <p>Den Anweisungen des Betreibers und seiner Mitarbeiter sind unbedingt Folge zu leisten!</p>
+        <p class="fst-italic">Vielen Dank! Ihr Springolino Team.</p>
     </div>
 </div>
 
@@ -48,7 +48,7 @@
             <li class="list-group-item">Die jeweils gültigen Preise und Öffnungszeiten sind im Aushang an der Kasse und unseren Informationsblättern zu entnehmen.</li>
             <li class="list-group-item">Das Mitbringen von Tieren ist nicht gestattet</li>
             <li class="list-group-item">Alle Anlagen und Einrichtungen der Halle dürfen nur entsprechend ihrer Zweckbestimmung benutzt werden.</li>
-            <li class="list-group-item">Die Nutzung sämtlicher Spielgeräte und Einrichtungen erfolgt auf eigene Gefahr, unbeschadet der Verpflichtung des Betreibers die Einrichtung in einem gebrauchsfähigen und sicheren Zustand zu erhalten. Der Betreiber und seine Mitarbeiter haften nur bei Vorsatz und Fahrlässigkeit.</li>
+            <li class="list-group-item">Die Nutzung sämtlicher Spielgeräte und Einrichtungen erfolgt auf eigene Gefahr, unbeschadet der Verpflichtung des Betreibers, die Einrichtung in einem gebrauchsfähigen und sicheren Zustand zu erhalten. Der Betreiber und seine Mitarbeiter haften nur bei Vorsatz und Fahrlässigkeit.</li>
             <li class="list-group-item">Filmen und fotografieren ist in unserer Halle erlaubt. Fremde Personen dürfen nur mit deren Zustimmung aufgenommen werden. Für gewerbliche Zwecke und für die Presse bedarf das Fotografieren einer vorherigen Genehmigung durch die Betreibergesellschaft.</li>
             <li class="list-group-item">Kundendaten, die der Betreiber (z.B.) durch Geburtstagsanmeldungen erhält, werden gemäß Datenschutzgesetz behandelt, d.h. es erfolgt eine rein interne Verwendung ohne Weitergabe an Dritte.</li>
         </ul>
@@ -78,7 +78,7 @@
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <ul class="list-group list-group-flush" style="--bs-list-group-bg: none;">
-            <li class="list-group-item">Die an den Spielgeräten angebrachten Hinweise, Regeln und Verbote sind zu beachten! Die Benutzung erfolgt auf eigene Gefahr und erfordert Rücksichtnahme auf die Anderen Besucher. Die Begleitpersonen sind angehalten dem Kind / den Kindern die Spielregeln zu erläutern und auf ihre Einhaltung zu achten.</li>
+            <li class="list-group-item">Die an den Spielgeräten angebrachten Hinweise, Regeln und Verbote sind zu beachten! Die Benutzung erfolgt auf eigene Gefahr und erfordert Rücksichtnahme auf die Anderen Besucher. Die Begleitpersonen sind angehalten, dem Kind / den Kindern die Spielregeln zu erläutern und auf ihre Einhaltung zu achten.</li>
             <li class="list-group-item">Der Kleinkinderbereich ist nur für Krabbel- und Kleinkinder bestimmt. Störende Kinder über 5 Jahre dürfen vom Betreiber, seinen Mitarbeitern, sowie von Kleinkindermüttern aus dem Bereich verwiesen werden.</li>
         </ul>
     </div>
@@ -123,7 +123,7 @@
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <ul class="list-group list-group-flush" style="--bs-list-group-bg: none;">
-            <li class="list-group-item">Aus hygienegründen sollten Socken, am besten Stoppersocken oder auch Gymnastikschläppchen getragen werden. Socken können Sie an der Information kaufen.</li>
+            <li class="list-group-item">Aus Hygienegründen sollten Socken, am besten Stoppersocken oder auch Gymnastikschläppchen getragen werden. Socken können Sie an der Information kaufen.</li>
             <li class="list-group-item">Kinder oder spielende Erwachsene sollten bequeme Kleidung tragen. Bitte keine außenliegenden Reißverschlüsse oder Knöpfe, da damit die Folien der Spielgeräte beschädigt werden.</li>
             <li class="list-group-item">Bitte Anhänger, Ketten, sowie hängende Ohrringe ablegen und bitte keine Kleidung mit Kordeln oder Bändchen tragen. Achtung sehr gefährlich!</li>
         </ul>
@@ -139,9 +139,9 @@
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <ul class="list-group list-group-flush" style="--bs-list-group-bg: none;">
             <li class="list-group-item">Unsere Gastronomie bietet Ihnen ein reichhaltiges Angebot an Speisen und Getränken. Um die Preise fair und familiengerecht halten zu können, appellieren wir an Ihr Verständnis, dass wir das Mitbringen von Speisen und Getränken nicht gestatten können. Davon ausgenommen  sind Allergiker- und Babynahrung. Für Geburtstagsbuchungen gelten etwas andere Regeln, siehe dazu Geburtstags Info.</li>
-            <li class="list-group-item">Im Springolino gilt Kaugummiverbot!</li>
+            <li class="list-group-item">Im Springolino gilt Kaugummi verbot!</li>
             <li class="list-group-item">Essen und Trinken bitte nur an den dafür vorgesehen Tischen! Eine Mitnahme, auch von Glas oder Porzellan, in den Spielbereich ist streng untersagt!</li>
-            <li class="list-group-item">In der gesamten Halle, sowie auf den Toiletten, ist das Rauchen streng verboten und nur in dem dafür vorgesehen und gekennzeichneten Bereich erlaubt. Selbiges gilt auch für das anzünden von Kerzen, Wunderkerzen oder ähnlichem.</li>
+            <li class="list-group-item">In der gesamten Halle, sowie auf den Toiletten, ist das Rauchen streng verboten und nur in dem dafür vorgesehen und gekennzeichneten Bereich erlaubt. Selbiges gilt auch für das Anzünden von Kerzen, Wunderkerzen oder ähnlichem.</li>
             <li class="list-group-item">Zuwiderhandeln kann mit Verweisung der Spielanlage führen.</li>
             <li class="list-group-item">Liebe Gäste, bitte konsumieren Sie Alkohol nur in Maßen. Auffällig alkoholisierte Gäste werden aus der Halle verwiesen, zum Schutz der Kinder und Gäste!</li>
         </ul>
@@ -172,7 +172,7 @@
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <ul class="list-group list-group-flush" style="--bs-list-group-bg: none;">
-            <li class="list-group-item">Erwachsene ohne Begleitung von Kindern (ausgenommen nachzügelnde und vorher angemeldete Erwachsene).</li>
+            <li class="list-group-item">Erwachsene ohne Begleitung von Kindern (ausgenommen nach zügelnde und vorher angemeldete Erwachsene).</li>
             <li class="list-group-item">Personen mit Hausverbot.</li>
             <li class="list-group-item">Personen, deren Zutritt bedenklich erscheint (z.B. stark alkoholisiert).</li>
             <li class="list-group-item">Besuchern mit ansteckenden Krankheiten oder offenen Wunden.</li>
@@ -188,7 +188,7 @@
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded-top" style="backdrop-filter: blur(15px);">
         <p>Sollten einzelne Regelungen unwirksam sein oder werden, so ist dadurch die Wirksamkeit der übrigen Regelungen nicht betroffen.</p>
-        <p>Zum Wohle eines sicheren Besuches und des zu beschützenden Kindes, bitten wir um Verständnis dieser Regelungen und wünschen viel Spaß in unserem größten Indoor- Spielplatz OWL`s!</p>
+        <p>Zum Wohle eines sicheren Besuches und des zu beschützenden Kindes bitten wir um Verständnis dieser Regelungen und wünschen viel Spaß in unserem größten Indoor Spielplatz OWL's!</p>
         <p class="fst-italic">Ihr Springolino Team</p>
     </div>
 </div>

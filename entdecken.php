@@ -16,7 +16,7 @@
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Attraktionen im Springolino</h5>
         <p>Wer kennt es auch? Sie wollen einen schönen Tag mit Ihren Kindern verbringen, dies aber nicht nur zu Hause in den vier Wänden. Alles ist für einen Ausflug geplant, doch plötzlich regnet es. Was nun?</p>
-        <p>Springolino! Der Erlebnis Indoor-Spielplatz für groß und klein. Hier kommt wirklich jeder auf seine Kosten.</p>
+        <p>Springolino! Der Erlebnis Indoor-Spielplatz für Groß und Klein. Hier kommt wirklich jeder auf seine Kosten.</p>
     </div>
 </div>
 

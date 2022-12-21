@@ -18,7 +18,7 @@
 
         <h5>Der Gastronomiebereich</h5>
         <p>Erst wird gespielt – dann lecker gegessen!<br>
-        Bei uns gibt es nicht nur Fast-Food sondern auch einen gesunden und leckeren Snack<br>
+        Bei uns gibt es nicht nur Fast-Food, sondern auch einen gesunden und leckeren Snack<br>
         für zwischendurch!</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">

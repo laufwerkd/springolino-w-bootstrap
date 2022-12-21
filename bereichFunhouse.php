@@ -18,7 +18,7 @@
 
         <h5>Das XXL-Funhouse</h5>
         <p>Einfach riesig!<br>
-        Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr! Hier könnt Ihr hoch hinaus klettern und die Aussicht von ganz oben auf unseren Indoorspielpark genießen!</p>
+        Das riesengroße Kletterlabyrinth über 3 Etagen mit tollen Geheimnissen! Entdeckt die Wellenrutsche, Geistertunnel, die Spiralrutsche und vieles mehr! Hier könnt Ihr hoch hinausklettern und die Aussicht von ganz oben auf unseren Indoorspielpark genießen!</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/funhouse/funhouse1.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/funhouse/funhouse1.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

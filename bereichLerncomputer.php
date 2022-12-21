@@ -18,7 +18,7 @@
 
         <h5>Der Spiel- und Lerncomputer</h5>
         <p>Mal keine Lust auf Toben oder brauchst du einfach mal eine Pause?<br>
-        An unseren Computern können die Kleinen zeigen was in ihnen steckt und ihr Können verbessern! Spannende Lernspiele und interaktive Aufgaben erwarten Euch an unseren Lern-Computern- wer kann sie alle lösen und knackt den Highscore?</p>
+        An unseren Computern können die Kleinen zeigen, was in ihnen steckt und ihr Können verbessern! Spannende Lernspiele und interaktive Aufgaben erwarten euch an unseren Lern-Computern- wer kann sie alle lösen und knackt den Highscore?</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/lerncomputer/lerncomputer1.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/lerncomputer/lerncomputer1.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

@@ -17,9 +17,9 @@
         <a href="entdecken.php" class="btn btn-danger mb-3">zurück</a>
 
         <h5>Das Teufelsrad</h5>
-        <p>Eine turbulente Wahnsinnsfahrt erwartet euch auf unserem Teufelsrad!<br>
+        <p>Eine turbulente Wahnsinns Fahrt erwartet euch auf unserem Teufelsrad!<br>
         Teuflisch schnelle Runden und Adrenalin- hier geht es rund!<br>
-        Wer traut sich als Erstes und kämpft gegen seine Fliegkräfte an?</p>
+        Wer traut sich als Erstes und kämpft gegen seine Fliehkräfte an?</p>
 
         <div class="row row-cols-1 row-cols-sm-3 justify-content-center">
             <a href="img/bereich/teufelsrad/teufelsrad1.jpg" class="col m-2 p-0" target="_blank"><img src="img/bereich/teufelsrad/teufelsrad1.jpg" class="rounded-4 shadow" alt="Bild von Attraktion" width="100%" height="auto"></a>

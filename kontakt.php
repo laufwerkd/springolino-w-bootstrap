@@ -16,7 +16,7 @@
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Unsere Kontaktdaten</h5>
         <p>Du hast Fragen, Anregungen oder möchtest einfach mit uns in Kontakt treten?<br>
-        Kein Problem! Hier findest du alles was du dazu benötigst:</p>
+        Kein Problem! Hier findest Du alles, was Du dazu benötigst:</p>
         <p>Springolino GmbH<br>
         Ackerstraße 35<br>
         32051 Herford<br>
@@ -58,12 +58,12 @@
             <div class="form-check">
                 <input class="checkmark form-check-input" type="checkbox" id="agb">
                 <label class="form-check-label" for="agb">
-                    Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und akzeptiert.
+                    Ich habe die <a href="agb.php" class="text-secondary">allgemeinen Geschäfts-Bedingungen (AGB)</a> gelesen und akzeptiert.
                 </label>
             </div>
         </div>
 
-        <a href="#" class="btn btn-success" id="bestellen">Nachricht Senden</a>
+        <a href="#" class="btn btn-success" id="bestellen">Nachricht senden</a>
     </div>
 </div>
 

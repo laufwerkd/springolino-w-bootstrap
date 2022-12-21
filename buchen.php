@@ -23,7 +23,7 @@
         </div>
 
 		<h5>Dein Kindergeburtstag im Springolino</h5>
-		<p>Wir machen Deinen großen Tag zum unvergesslichen Erlebnis! Keinen Stress zu Hause – Super-Spaß für die Kinder und entspannte Eltern. Lass doch einfach deine tolle Geburtstagsparty im Springolino steigen!</p>
+		<p>Wir machen Deinen großen Tag zum unvergesslichen Erlebnis! Keinen Stress zu Hause – Super-Spaß für die Kinder und entspannte Eltern. Lass doch einfach Deine tolle Geburtstagsparty im Springolino steigen!</p>
 	</div>
 </div>
 
@@ -45,9 +45,9 @@
                     <div class="accordion-body">
 						<h6>Enthält</h6>
 						<ul>
-							<li><span class="text-secondary">12,50€ Eintrittspreis</span> pro Kind</li>
+							<li><span class="text-secondary">12,50 € Eintrittspreis</span> pro Kind</li>
 							<li>eine <span class="text-secondary">Tageseintrittskarte</span></li>
-							<li>einen <span class="text-secondary">Reserviertern Geburtstags Tisch</span> für den gesamten Aufenthalt</li>
+							<li>einen <span class="text-secondary">Reservierten Geburtstagstisch</span> für den gesamten Aufenthalt</li>
 							<li><span class="text-secondary">Tischdeko</span> (Teller, Becher, Luftschlangen und Servietten)</li>
 							<li>ein <span class="text-secondary">Thron</span> für das Geburtstagskind mit Namen</li>
 							<li><span class="text-secondary">1 Slush-Eisgetränk (0,2l)</span> nach Wahl für alle Kinder</li>
@@ -55,7 +55,7 @@
 
 						<h6>Außerdem</h6>
 						<ul>
-							<li>Das Geburtstagskind erhält 1 Eintritts-Gutschein für den nächsten Besuch, wenn der Geburtstag nicht länger als 10 Tage zurück liegt, oder in der Zukunft liegt.</li>
+							<li>Das Geburtstagskind erhält 1 Eintritts-Gutschein für den nächsten Besuch, wenn der Geburtstag nicht länger als 10 Tage zurückliegt, oder in der Zukunft liegt.</li>
 						    <li>2 Erwachsene als Begleitpersonen haben freien Eintritt.</li>
 						</ul>
 
@@ -83,10 +83,10 @@
                         <h6>Enthält</h6>
                         <ul>
                             <li>alles aus <span class="badge bg-primary">Geburtstagspaket 1</span></li>
-							<li><span class="text-secondary">17,50€ Eintrittspreis</span> pro Kind</li>
+							<li><span class="text-secondary">17,50 € Eintrittspreis</span> pro Kind</li>
                             <li>ein <span class="text-secondary">Kindermenü</span> bestehend aus:</li>
                                 <ul>
-                                    <li>4 Chicken Nuggets mit Pommes (Mayo und Ketchup) <span class="text-danger">oder</span> 1 Kinderpizza Ø18cm (Margherita, Salami oder Schinken)</li>
+                                    <li>4 Chickennuggets mit Pommes (Mayo und Ketchup) <span class="text-danger">oder</span> 1 Kinderpizza Ø18cm (Margherita, Salami oder Schinken)</li>
                                     <li>Chupa Chups Lolly und Capri Sonne nach Wahl</li>
                                 </ul>
                             <li>eine <span class="text-secondary">Freifahrt mit den Autoscooter</span> für alle Kinder</li>
@@ -108,8 +108,8 @@
         </div>
 
 		<h5>Sonstige Informationen</h5>
-		<p>Gerne darfst Du Dir Deinen eigenen Geburtstagskuchen mitbringen.	Thermoskannen mit heißen Getränken oder Kerzen - auch auf dem Kuchen - sind leider nicht erlaubt, denn hier besteht ein erhöhtes Gefahrenpotenzial. Hier haben wir ein paar tolle Vorlagen für deine Geburtstagseinladung: <a href="download/einladungDL.pdf" class="text-secondary" target="_blank">Einladung Groß</a>, <a href="download/einladungA6.pdf" class="text-secondary" target="_blank">Einladung A6</a>.</p>
-		<p>Du hast noch Fragen? Telefonisch sind wir während der Öffnungszeiten für dich erreichbar.</p>
+		<p>Gerne darfst Du Dir Deinen eigenen Geburtstagskuchen mitbringen.	Thermoskannen mit heißen Getränken oder Kerzen - auch auf dem Kuchen - sind leider nicht erlaubt, denn hier besteht ein erhöhtes Gefahrenpotenzial. Hier haben wir ein paar tolle Vorlagen für Deine Geburtstagseinladung: <a href="download/einladungDL.pdf" class="text-secondary" target="_blank">Einladung Groß</a>, <a href="download/einladungA6.pdf" class="text-secondary" target="_blank">Einladung A6</a>.</p>
+		<p>Du hast noch Fragen? Telefonisch sind wir während der Öffnungszeiten für Dich erreichbar.</p>
 	</div>
 </div>
 
@@ -393,30 +393,30 @@
 
         <div>
             <h5>Bedingungen</h5>
-            <p>Tisch wird 1x eingedeckt. Für Kuchen: Pappteller/Becher mitbringen. Kuchen, Süsses, Obst/Gemüse mitbringen. Bitte keine Thermoskannen mit heißen Getränken, deftiges Essen oder Kerzen mit bringen. Stoppersocken nicht vergessen! Bei uns besteht aus hygienischen Gründen Sockenpflicht. Stoppersocken können bei uns auch käuflich erworben werden. Ansonsten gelten unsere <a href="agb.php" class="text-secondary">Nutzungsbedingungen</a>.</p>
+            <p>Tisch wird 1x eingedeckt. Für Kuchen: Pappteller/Becher mitbringen. Kuchen, Süßes, Obst/Gemüse mitbringen. Bitte keine Thermoskannen mit heißen Getränken, deftiges Essen oder Kerzen mitbringen. Stoppersocken nicht vergessen! Bei uns besteht aus hygienischen Gründen Sockenpflicht. Stoppersocken können bei uns auch käuflich erworben werden. Ansonsten gelten unsere <a href="agb.php" class="text-secondary">Nutzungsbedingungen</a>.</p>
 
             <h5>Hinweis</h5>
-            <p>Nach Absenden des Formulares geht Ihnen eine Email zu mit einem Bestätigungslink zu. Bitte klicken Sie diesen an, um die Bestellung verbindlich zu bestätigen.<br>
-            <span class="text-danger">Ohne anklicken des Links ist diese Bestellung nicht gültig!</span></p>
+            <p>Nach Absenden des Formulars geht Ihnen eine E-Mail zu mit einem Bestätigungslink zu. Bitte klicken Sie diesen an, um die Bestellung verbindlich zu bestätigen.<br>
+            <span class="text-danger">Ohne Anklicken des Links ist diese Bestellung nicht gültig!</span></p>
         </div>
 
         <div class="mb-3">
             <div class="form-check">
                 <input class="checkmark form-check-input" type="checkbox" id="agb">
                 <label class="form-check-label" for="agb">
-                    Ich habe die <a href="agb.php" class="text-secondary">allgmeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
+                    Ich habe die <a href="agb.php" class="text-secondary">allgemeinen Geschäfts-Bedingungen (AGB)</a> gelesen und verstanden und bin damit einverstanden.
                 </label>
               </div>
               <div class="form-check">
                 <input class="checkmark form-check-input" type="checkbox" id="datenschutz">
                 <label class="form-check-label" for="datenschutz">
-                    Ich habe die <a href="datenschutz.php" class="text-secondary">Datenschutzerklärung</a> zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a> wiederrufen.
+                    Ich habe die <a href="datenschutz.php" class="text-secondary">Datenschutzerklärung</a> zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an <a href="mailto:fun@springolino.de" class="text-secondary">fun@springolino.de</a> widerrufen.
                 </label>
             </div>
         </div>
 
         <div class="d-flex flex-row justify-content-between gap-2">
-            <h3>Kalkulierter Preis: <span class="text-secondary" id="preis">0,00€</span></h3>
+            <h3>Kalkulierter Preis: <span class="text-secondary" id="preis">0,00 €</span></h3>
             <a href="#" class="btn btn-danger" id="bestellen">Kostenpflichtig bestellen</a>
         </div>
     </div>
