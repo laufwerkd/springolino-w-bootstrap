@@ -52,7 +52,7 @@
         </a>
     </h1>
 
-    <div class=""> <!-- wenn geoeffnet -->
+    <div class="d-none"> <!-- wenn geoeffnet -->
         <div class="zeiten d-none d-sm-flex flex-row align-items-end" style="left: 66%;">
             <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <h5 class="m-0">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</h5>
@@ -67,7 +67,7 @@
         </div>
     </div>
 
-    <div class="d-none"> <!-- wenn geschlossen -->
+    <div class=""> <!-- wenn geschlossen -->
         <div class="zeiten d-none d-sm-flex flex-row align-items-end" style="left: 66%;">
             <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <h5 class="m-0">Heute <span class="text-danger">geschlossen</span>.<br>
