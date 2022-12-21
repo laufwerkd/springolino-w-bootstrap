@@ -14,31 +14,13 @@
         </h1>
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
-        <div class="dropdown mb-3">
-            <button class="btn btn-outline-dark dropdown-toggle" type="button" data-bs-toggle="dropdown">go to</button>
-            <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-                <li><a class="dropdown-item" href="#">Link</a></li>
-            </ul>
-        </div>
-
         <h5>Attraktionen im Springolino</h5>
         <p>Wer kennt es auch? Sie wollen einen schönen Tag mit Ihren Kindern verbringen, dies aber nicht nur zu Hause in den vier Wänden. Alles ist für einen Ausflug geplant, doch plötzlich regnet es. Was nun?</p>
         <p>Springolino! Der Erlebnis Indoor-Spielplatz für groß und klein. Hier kommt wirklich jeder auf seine Kosten.</p>
     </div>
 </div>
 
-<div class="modul" id="gotoGrosse">
+<div class="modul">
     <div class="container-lg d-flex justify-content-center p-0 pt-5">
         <h3 class="p-3 px-4 m-0 bg-primary bg-opacity-25 text-center text-white rounded-top" style="max-width: 75%; font-family: marker; backdrop-filter: blur(7.5px);">
             Alle Attraktionen

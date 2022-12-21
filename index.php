@@ -30,11 +30,11 @@
     });
 </script>
 
-<div class="position-relative bg" style="background-image: url(img/bg/bg1.jpg); height: 100vh">
-    <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="left: 33%; font-family: marker; font-size: 5rem;">
-        <span class="text-info">ACTION</span><br>
-        <span class="text-light align-middle fs-1">AND</span> <span class="text-info">FUN</span><br>
-        <span class="text-light align-middle fs-1">FOR</span> <span class="text-info">KIDS</span><br>
+<div class="position-relative bg" style="background-image: url(img/bg/bg1.gif); height: 100vh">
+    <h1 class="titel d-none d-sm-block text-center text-light fw-bold" style="left: 33%; font-family: marker; font-size: 4.5rem;">
+        <span class="text-success">ACTION</span><br>
+        <span class="text-light align-middle fs-1">AND</span> <span class="text-success">FUN</span><br>
+        <span class="text-light align-middle fs-1">FOR</span> <span class="text-success">KIDS</span><br>
         <a href="#scrollen">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary" viewBox="0 0 16 16">
                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
@@ -42,9 +42,9 @@
         </a>
     </h1>
     <h1 class="titel d-sm-none text-center text-light fw-bold" style="left: 50%; font-family: marker; font-size: 3rem;">
-        <span class="text-info">ACTION</span><br>
-        <span class="text-light align-middle fs-1">AND</span> <span class="text-info">FUN</span><br>
-        <span class="text-light align-middle fs-1">FOR</span> <span class="text-info">KIDS</span><br>
+        <span class="text-success">ACTION</span><br>
+        <span class="text-light align-middle fs-1">AND</span> <span class="text-success">FUN</span><br>
+        <span class="text-light align-middle fs-1">FOR</span> <span class="text-success">KIDS</span><br>
         <a href="#scrollen">
             <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" class="bi bi-arrow-down-circle-fill text-primary" viewBox="0 0 16 16">
                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
@@ -52,35 +52,35 @@
         </a>
     </h1>
 
-    <div class="d-none"> <!-- wenn geoeffnet -->
+    <div class=""> <!-- wenn geoeffnet -->
         <div class="zeiten d-none d-sm-flex flex-row align-items-end" style="left: 66%;">
             <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <h5 class="m-0">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</h5>
             </div>
-            <img src="img/misc/ampel.png" width="33%" height="auto">
+            <img src="img/misc/ampelAN.png" width="33%" height="auto">
         </div>
         <div class="zeiten d-flex flex-row align-items-end d-sm-none w-75" style="left: 50%;">
             <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <p class="m-0 fw-bold">Heute von 00:00 bis 00:00 <span class="text-success">geöffnet</span>.</p>
             </div>
-            <img src="img/misc/ampel.png" width="33%" height="auto">
+            <img src="img/misc/ampelAN.png" width="33%" height="auto">
         </div>
     </div>
 
-    <div class=""> <!-- wenn geschlossen -->
+    <div class="d-none"> <!-- wenn geschlossen -->
         <div class="zeiten d-none d-sm-flex flex-row align-items-end" style="left: 66%;">
             <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <h5 class="m-0">Heute <span class="text-danger">geschlossen</span>.<br>
                 Öffnet wieder am (Tag/Datum).</h5>
             </div>
-            <img src="img/misc/ampel.png" width="33%" height="auto">
+            <img src="img/misc/ampelAUS.png" width="33%" height="auto">
         </div>
         <div class="zeiten d-flex flex-row align-items-end d-sm-none w-75" style="left: 50%;">
             <div class="p-3 bg-info bg-opacity-25 text-center text-white rounded-top" style="backdrop-filter: blur(7.5px);">
                 <p class="m-0 fw-bold">Heute <span class="text-danger">geschlossen</span>.<br>
                 Öffnet wieder am (Tag/Datum).</p>
             </div>
-            <img src="img/misc/ampel.png" width="33%" height="auto">
+            <img src="img/misc/ampelAUS.png" width="33%" height="auto">
         </div>
     </div>
 </div>
@@ -115,18 +115,18 @@
                     <a href="bereichTrampoline.php" class="stretched-link"></a>
                 </div>
             </div>
-            <div class="col card m-2 p-0 bg-info bg-opacity-25 border-0 shadow">
-                <img src="img/bereich/wasserspielplatz/wasserspielplatz1.jpg" class="card-img-top">
+            <div class="col card m-2 p-0 bg-danger bg-opacity-25 border-0 shadow" id="gotoAutoscooter">
+                <img src="img/bereich/autoscooter/autoscooter1.jpg" class="card-img-top">
                 <div class="p-3">
-                    <h4><span class="badge bg-info">Wasserspielplatz</span></h4>
-                    <p>In unserem neuen Wasserpark könnt ihr spritzen, planschen, toben.</p>
-                    <a href="bereichWasserspielplatz.php" class="stretched-link"></a>
+                    <h4><span class="badge bg-danger text-start">Autoscooter</span></h4>
+                    <p>Entdecke den Driver in Dir und drehe ein Paar wilde Runden!</p>
+                    <a href="bereichAutoscooter.php" class="stretched-link"></a>
                 </div>
             </div>
-            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow">
+            <div class="col card m-2 p-0 bg-primary bg-opacity-25 border-0 shadow" id="gotoVulkan">
                 <img src="img/bereich/vulkan/vulkan1.jpg" class="card-img-top">
                 <div class="p-3">
-                    <h4><span class="badge bg-primary">Vulkan-Kletterberg</span></h4>
+                    <h4><span class="badge bg-primary text-start">Vulkan<br>Kletterberg</span></h4>
                     <p>Erklimme den Vulkan und rutsche dann superschnell herunter ins Tal zurück!</p>
                     <a href="bereichVulkan.php" class="stretched-link"></a>
                 </div>

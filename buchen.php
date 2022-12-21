@@ -305,57 +305,57 @@
         <div class="mb-3" id="tischForm">
             <h5>Tischauswahl</h5>
             <div class="row row-cols-1 row-cols-sm-3 row-cols-xl-5 justify-content-center">
-                <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch1.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow" id="tisch1">
+                    <img src="img/tisch/tisch1.jpg" class="card-img-top" id="tisch1Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch1Input" autocomplete="off">
                         <label class="btn btn-primary w-100" for="tisch1Input">Ponyhof</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch2.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow" id="tisch2">
+                    <img src="img/tisch/tisch2.jpg" class="card-img-top" id="tisch2Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch2Input" autocomplete="off">
                         <label class="btn btn-info w-100" for="tisch2Input">Formel 1</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch3.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow" id="tisch3">
+                    <img src="img/tisch/tisch3.jpg" class="card-img-top" id="tisch3Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch3Input" autocomplete="off">
                         <label class="btn btn-secondary w-100" for="tisch3Input">Schatzinsel</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-danger bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch4.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-danger bg-opacity-25 border-0 shadow" id="tisch4">
+                    <img src="img/tisch/tisch4.jpg" class="card-img-top" id="tisch4Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch4Input" autocomplete="off">
                         <label class="btn btn-danger w-100" for="tisch4Input">Halloween</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch5.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-info bg-opacity-25 border-0 shadow" id="tisch5">
+                    <img src="img/tisch/tisch5.jpg" class="card-img-top" id="tisch5Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch5Input" autocomplete="off">
                         <label class="btn btn-info w-100" for="tisch5Input">Schloss</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch6.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow" id="tisch6">
+                    <img src="img/tisch/tisch6.jpg" class="card-img-top" id="tisch5Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch6Input" autocomplete="off">
                         <label class="btn btn-primary w-100" for="tisch6Input">Fußball</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tisch7.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-primary bg-opacity-25 border-0 shadow" id="tisch7">
+                    <img src="img/tisch/tisch7.jpg" class="card-img-top" id="tisch7Img">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tisch7Input" autocomplete="off">
                         <label class="btn btn-primary w-100" for="tisch7Input">Springobox</label>
                     </div>
                 </div>
-                <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow">
-                    <img src="img/tisch/tischStandart.jpg" class="card-img-top">
+                <div class="col card m-2 p-0 h-100 bg-secondary bg-opacity-25 border-0 shadow" id="tischStandart">
+                    <img src="img/tisch/tischStandart.jpg" class="card-img-top" id="tischStandartImg">
                     <div class="p-3">
                         <input type="radio" class="btn-check" name="tische" id="tischStandartInput" autocomplete="off">
                         <label class="btn btn-secondary w-100" for="tischStandartInput">Standart</label>
@@ -365,26 +365,26 @@
                     <div class="input-group">
                         <label class="input-group-text bg-secondary" for="tischnummerInput">Tisch</label>
                         <select class="form-select" id="tischnummerInput">
-                            <option selected>Nummer</option>
-                            <option value="1">8</option>
-                            <option value="2">9</option>
-                            <option value="3">10</option>
-                            <option value="4">11</option>
-                            <option value="5">12</option>
-                            <option value="6">13</option>
-                            <option value="7">14</option>
-                            <option value="8">15</option>
-                            <option value="9">16</option>
-                            <option value="10">17</option>
-                            <option value="11">18</option>
-                            <option value="12">19</option>
-                            <option value="13">20</option>
-                            <option value="14">21</option>
-                            <option value="15">22</option>
-                            <option value="16">23</option>
-                            <option value="17">24</option>
-                            <option value="18">25</option>
-                            <option value="19">26</option>
+                            <option selected>Auswahl</option>
+                            <option value="1">Nummer 8</option>
+                            <option value="2">Nummer 9</option>
+                            <option value="3">Nummer 10</option>
+                            <option value="4">Nummer 11</option>
+                            <option value="5">Nummer 12</option>
+                            <option value="6">Nummer 13</option>
+                            <option value="7">Nummer 14</option>
+                            <option value="8">Nummer 15</option>
+                            <option value="9">Nummer 16</option>
+                            <option value="10">Nummer 17</option>
+                            <option value="11">Nummer 18</option>
+                            <option value="12">Nummer 19</option>
+                            <option value="13">Nummer 20</option>
+                            <option value="14">Nummer 21</option>
+                            <option value="15">Nummer 22</option>
+                            <option value="16">Nummer 23</option>
+                            <option value="17">Nummer 24</option>
+                            <option value="18">Nummer 25</option>
+                            <option value="19">Nummer 26</option>
                         </select>
                     </div>
                 </div>
@@ -415,7 +415,7 @@
             </div>
         </div>
 
-        <div class="d-flex flex-row justify-content-between">
+        <div class="d-flex flex-row justify-content-between gap-2">
             <h3>Kalkulierter Preis: <span class="text-secondary" id="preis">0,00€</span></h3>
             <a href="#" class="btn btn-danger" id="bestellen">Kostenpflichtig bestellen</a>
         </div>
@@ -423,11 +423,10 @@
 </div>
 
 <script>
+    // essensauswahl
     geburtstagspaketInput = document.getElementById('geburtstagspaketInput');
     essenForm = document.getElementById('essenForm');
-
     essenForm.style.display = "none";
-
     geburtstagspaketInput.addEventListener('change', function() {
         if (geburtstagspaketInput.value == 2) {
             essenForm.style.display = "unset";
@@ -436,17 +435,52 @@
         }
     })
 
+    // tischnummerauswahl
     tischStandartInput = document.getElementById('tischStandartInput');
     tischnummerForm = document.getElementById('tischnummerForm');
     tischnummerInput = document.getElementById('tischnummerInput');
-
     tischnummerForm.style.display = "none";
-
     tischStandartInput.addEventListener('change', function() {
         if (tischStandartInput.checked = true) {
             tischnummerForm.style.display = "unset";
         } else if (tischStandartInput.checked = false) {
             tischnummerForm.style.display = "none";
+        }
+    });
+
+    // zum simulieren, muss später gelöscht werden
+    ankunftInput = document.getElementById('ankunftInput');
+    tisch1Input = document.getElementById('tisch1Input');
+    tisch2Input = document.getElementById('tisch2Input');
+    tisch3Input = document.getElementById('tisch3Input');
+    tisch4Input = document.getElementById('tisch4Input');
+    tisch5Input = document.getElementById('tisch5Input');
+    tisch6Input= document.getElementById('tisch6Input');
+    tisch7Input = document.getElementById('tisch7Input');
+    tischStandartInput = document.getElementById('tischStandartInput');
+    tisch1Img = document.getElementById('tisch1Img');
+    tisch2Img = document.getElementById('tisch2Img');
+    tisch3Img = document.getElementById('tisch3Img');
+    tisch4Img = document.getElementById('tisch4Img');
+    tisch5Img = document.getElementById('tisch5Img');
+    tisch6Img = document.getElementById('tisch6Img');
+    tisch7Img = document.getElementById('tisch7Img');
+    tischStandartImg = document.getElementById('tischStandartImg');
+    ankunftInput.addEventListener('change', function() {
+        if (ankunftInput.value == 1) {
+            tisch1Input.disabled = true;
+            tisch1Img.style.filter = "grayscale(1)";
+            tisch2Input.disabled = true;
+            tisch2Img.style.filter = "grayscale(1)";
+            tisch7Input.disabled = true;
+            tisch7Img.style.filter = "grayscale(1)";
+        } else {
+            tisch1Input.disabled = false;
+            tisch1Img.style.filter = "grayscale(0)";
+            tisch2Input.disabled = false;
+            tisch2Img.style.filter = "grayscale(0)";
+            tisch7Input.disabled = false;
+            tisch7Img.style.filter = "grayscale(0)";
         }
     });
 </script>
