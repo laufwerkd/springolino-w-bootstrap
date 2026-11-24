@@ -15,10 +15,7 @@
     </div>
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Verantwortlicher</h5>
-        <p><?= OPERATOR_NAME ?><br>
-        <?= OPERATOR_STREET ?><br>
-        <?= OPERATOR_CITY ?><br>
-        E-Mail: <?= OPERATOR_EMAIL ?></p>
+        <?php include 'operator.php'; ?>
 
         <h5>Kurzfassung</h5>
         <p>Diese Website ist eine Demo (Portfolio-Projekt). Sie verwendet <strong>keine Cookies, kein Tracking, keine Analyse-Tools</strong> und bindet <strong>keine Inhalte von Drittanbietern</strong> ein
@@ -31,7 +28,7 @@
 
         <h5>Ihre Rechte</h5>
         <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit sowie Widerspruch gegen die Verarbeitung (Art. 15–21 DSGVO).
-        Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO). Wenden Sie sich dazu einfach an die oben genannte Adresse.</p>
+        Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO). Wenden Sie sich dazu an den oben genannten Betreiber.</p>
     </div>
 </div>
 

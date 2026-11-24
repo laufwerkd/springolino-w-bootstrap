@@ -16,19 +16,11 @@
     <div class="container-lg p-4 bg-white bg-opacity-75 rounded" style="backdrop-filter: blur(15px);">
         <h5>Hinweis</h5>
         <p>Diese Website ist ein <strong>Portfolio- bzw. Schulprojekt</strong> und dient ausschließlich der Präsentation von Webdesign- und Programmierkenntnissen.
-        „<?= BRAND ?>“ ist ein fiktiver Name. Es handelt sich nicht um ein echtes Unternehmen, es werden keine Waren oder Dienstleistungen angeboten.
+        „<?= BRAND ?>“ ist ein fiktiver Name. Es handelt sich nicht um ein echtes Unternehmen. Die Seite ist privat und nicht-kommerziell, es werden keine Waren oder Dienstleistungen angeboten.
         Alle Bilder sind Platzhalter, Preise, Zeiten und Kontaktdaten auf den Unterseiten sind frei erfunden.</p>
 
-        <h5>Angaben gemäß § 5 DDG</h5>
-        <p><?= OPERATOR_NAME ?><br>
-        <?= OPERATOR_STREET ?><br>
-        <?= OPERATOR_CITY ?></p>
-
-        <h5>Kontakt</h5>
-        <p>E-Mail: <?= OPERATOR_EMAIL ?></p>
-
-        <h5>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h5>
-        <p><?= OPERATOR_NAME ?> (Anschrift wie oben)</p>
+        <h5>Betreiber</h5>
+        <?php include 'operator.php'; ?>
 
         <h5>Webentwicklung und Programmierung</h5>
         <p>Daniel Akinschin<br>

@@ -4,7 +4,7 @@
 </IfModule>
 
 # Interne Dateien nicht ausliefern
-<FilesMatch "^(config\.php|package(-lock)?\.json|README\.md|vorlage\.php)$">
+<FilesMatch "^(config\.php|operator\.php|package(-lock)?\.json|README\.md|vorlage\.php)$">
     Require all denied
 </FilesMatch>
 RedirectMatch 404 /\.git

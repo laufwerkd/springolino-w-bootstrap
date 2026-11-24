@@ -14,7 +14,7 @@ php -S localhost:8000
 
 ## Vor dem Veröffentlichen
 
-1. `config.php`: Anschrift und E-Mail für Impressum & Datenschutz eintragen.
+1. `config.php`: Angaben für Impressum & Datenschutz sind optional. Leere Felder werden ausgeblendet, `LEGAL_URL` kann auf das Impressum der Hauptseite verweisen.
 2. Optional eigene Bilder einsetzen (gleiche Dateinamen in `img/`), z. B. von Unsplash oder Pexels.
    Keine Fotos oder Logos realer Firmen verwenden.
 
