@@ -113,4 +113,8 @@ Thumbs.db
 !.gitignore
 !.nvmrc
 !.phpcs.xml.dist
-!.htaccess
+!.github
+!.dockerignore
+
+# build output
+/dist

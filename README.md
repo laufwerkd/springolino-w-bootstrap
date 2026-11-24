@@ -24,3 +24,10 @@ Die Seite ist per `robots.txt`, `<meta name="robots">` und `X-Robots-Tag` von Su
 
 - Bootstrap / Bootstrap Icons: MIT
 - Schrift „Permanent Marker“ (Font Diner): Apache 2.0, siehe `font/PermanentMarker-LICENSE.txt`
+
+## Deployment
+
+Bei jedem Push auf `main` rendert `.github/workflows/deploy.yml` die PHP-Seiten per `build.sh` zu statischem HTML (`dist/`),
+kopiert sie per SSH nach `/var/www/hopsland` und startet dort einen nginx-Container auf Port **8083** (`docker compose up -d --build`).
+
+Benötigte Repository-Secrets: `SSH_HOST`, `SSH_USER`, `SSH_KEY`.
