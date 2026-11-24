@@ -1,0 +1,11 @@
+# Demo-Seite: von Suchmaschinen fernhalten (gilt auch für Bilder & Dateien)
+<IfModule mod_headers.c>
+    Header set X-Robots-Tag "noindex, nofollow"
+</IfModule>
+
+# Interne Dateien nicht ausliefern
+<FilesMatch "^(config\.php|package(-lock)?\.json|README\.md|vorlage\.php)$">
+    Require all denied
+</FilesMatch>
+RedirectMatch 404 /\.git
+RedirectMatch 404 ^/(sass|node_modules)/
